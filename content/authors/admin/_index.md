@@ -66,7 +66,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Currentle serving as the Operations Officer for an International Team of
+Monitors operating in Odesa Ukraine. I am very interested in transitioning back
+to the Professional Military Education domain.
 
-- Looking to transition back to the Professional Military Education domain preferably OCONUS
-- Currently serving as the operations officer for an international monitoring team
-- More than 30 years experience leading, training, and educating soldiers
+- Originally from the Island of Guam
+- US Army Retired
+- 1 year at the Land Forces Academy in Odesa Ukraine
+- 7 years at West Point training and educating cadets
+- 2 years in Afghanistan training and mentoring the Afghan Police
+- 3 years at the Command and General Staff College 
