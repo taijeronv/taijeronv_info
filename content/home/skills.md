@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "chess-knight"
   icon_pack = "fas"
-  name = "Tactical Problem-Solving"
+  name = "Game Development"
   description = "90%"
 
   [[feature]]
