@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Vincent 'TJ' Taijeron
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Team Operations Officer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: International Monitoring Team
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include using games for training and eduction.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Professional Military Education
+- Simulations and Gaming
+- Military and Security Operations
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Electonics Design and Application
+    institution: Guam Community College
+    year: 1981
+  - course: General Studies
+    institution: Central Texas College
+    year: 1989
+  - course:  Internatinal Relations
+    institution: University of Maryland
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- Looking to transition back to the Professional Military Education domain preferably OCONUS
+- Currently serving as the operations officer for an international monitoring team
+- More than 30 years experience leading, training, and educating soldiers

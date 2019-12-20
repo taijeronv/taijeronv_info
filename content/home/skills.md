@@ -15,21 +15,39 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "chess"
+  icon_pack = "fas"
+  name = "Military Training and Education"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "dice"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Simulations and Gaming"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "skull-crossbones"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Tactical Decision-Making"
+  description = "90%"
+
+[[feature]]
+  icon = "chess-knight"
+  icon_pack = "fas"
+  name = "Tactical Problem-Solving"
+  description = "90%"
+
+  [[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "IT Skills"
+  description = "90%"
+
+  [[feature]]
+  icon = "blog"
+  icon_pack = "fas"
+  name = "Web Design"
+  description = "70%"
 
 +++
