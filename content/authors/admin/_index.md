@@ -77,6 +77,19 @@ I am currently serving as the Team Operations Officer for an international team
 of monitors in the city of Odesa, Ukraine. I plan operations, manage assets and
 personnel, and I monitor the military domain in accordance with our mandate.
 
-My goal is to get back into the "game" in a position that allows me to use my
-extensive experience using games for training and eduction. My desire is to be
-based in Europe but I have no problem going wherever I'm needed.
+I am very interested in getting back to the training and education specialty,
+this is where my passion lies. Ideally I could base out of Europe but I would go
+wherever I'm needed.
+
+I am currently working on my own project which is a web-based wargame designed
+specifically for training and education. I believe the web is the fastest way to
+get a game in the hands of users. From a software management perspective it is
+also the easiest way to update and maintain. My focus at the moment is on
+requirements and writing the rules. I plan to spend my own money to fund the
+development of the game in manageable stages. If I'm lucky a company may hire me
+and provide the resources to hasten its development.
+
+The NextGen Wargame is just the beginning. I also plan to develop a basic
+package of content that will focus on the undergrad level of PME. The whole
+system will be web based and accessible from anywhere in the world as long as
+there's an internet connection.

@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2004-08-15"
   date_end = "2011-06-15"
-  description = """In 2006 I was tasked to find a game that could be used in the tactical curriculum in the Department of Military Instruction.  I turned to the developer of Decisive Action and together we designed a game called Follow Me that could be used to teach light infantry tactics.  For the next five years I implemented that game in a number of different courses.  By the time I left West Point in 2011 I had educated more than 10,000 cadets using Follow Me."""
+  description = """In 2006 I was tasked by the head of the Department of Military Instruction to find a game that could integrated into department's curriculum.  I turned to the developer of Decisive Action and together we developed a game called Follow Me that could be used to teach light infantry tactics.  For the next five years I integrated Follow Me into number of different courses."""
 
 [[item]]
   organization = "DynCorp International"
@@ -36,26 +36,15 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-06-16"
   date_end = "2013-08-15"
-  description = "Police Mentor program."
+  description = "In 2011 I worked as a mentor to the Afghan Uniformed Police (AUP).  I served with three different US Army Brigade Task Forces training and mentoring a unit of 10-13 AUP.  I participated in over 100 foot patrols and an equal number of vehicle patrols observing, coaching, and mentoring my police unit.  Back at the FOB I did several blocks of instruction on patrolling, first aid, marksmanship, and leadership.  In addition to my police unit I also trained and mentored 5 officers, 15 NCOs, and 50 enlisted police officers at three different police checkpoints."
   
-[[item]]
-  organization = "Odesa Military Academy"
+    [[item]]
+  organization = "Curriculum Developer"
   organization_url = ""
-  title = "Military Instructor"
+  title = "Senior Curriculum Developer Land forces Academy Odesa Ukraine"
   url = ""
   certificate_url = ""
-  date_start = "2013-08-01"
+  date_start = "2013-08-15"
   date_end = "2014-09-24"
-  description = """In 2013 after two years in Afghanistan I came to Odesa Ukraine to implement a NATO-based program of instruction to supplement the regular curriculum.  Although there for less than a year I also had the opportunity to develop a class for the Captains Course.  During my time at the academy I used a special version of Follow Me to teach attack, defense, and counterattack operations."""
-
-  [[item]]
-  organization = "U.S. Army"
-  organization_url = ""
-  title = "Military Professional"
-  url = ""
-  certificate_url = ""
-  date_start = "1981-11-01"
-  date_end = "2001-12-01"
-  description = "Military Professional"
-
+  description = """In 2013 after two years in Afghanistan I took a job with Alion as a Senior Curriculum Developer at the Land forces Academy in Odesa Ukraine.  While at the academy I gained the trust and confidence of the staff and faculty and was able to gain more teaching hours than was previously allowed.  I taught a NATO-based curriculum suitable for PME 1-3 level students.  I used the game Follow Me which is the same game we used at West Point and the one I helped develop.  In February 2014 I created a block of instruction for the Captains Advance Course and was given permission to teach it as well.  It was a great success with a lot of positive feedback from the students."""
 +++
