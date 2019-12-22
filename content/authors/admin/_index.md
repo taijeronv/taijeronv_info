@@ -23,7 +23,8 @@ bio: My interests include using games for training and eduction.
 interests:
 - Professional Military Education
 - Simulations and Gaming
-- Military and Security Operations
+- Game design
+- Programming Javascript and Python
 
 education:
   courses:
@@ -66,13 +67,28 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Currentle serving as the Operations Officer for an International Team of
-Monitors operating in Odesa Ukraine. I am very interested in transitioning back
-to the Professional Military Education domain.
 
-- Originally from the Island of Guam
-- US Army Retired
-- 1 year at the Land Forces Academy in Odesa Ukraine
-- 7 years at West Point training and educating cadets
-- 2 years in Afghanistan training and mentoring the Afghan Police
-- 3 years at the Command and General Staff College 
+Originally from the Island of Guam, I joined the Army at the age of 17. I spent
+over 20 years. Soldier, simulations specialist, police mentor, international
+monitor I've had a very colorful and varied adventure all over the world. I've
+gained skills and experience that make me an asset wherever I go.
+
+I am currently serving as the Team Operations Officer for an international team
+of monitors in the city of Odesa, Ukraine. I plan operations, manage assets and
+personnel, and I monitor the military domain in accordance with our mandate.
+
+When I retired from the Army in 2001 I became a simulation specialist working
+for Northrop Grumman at the Command and General Staff College as part of the
+Digital Leader Development Course. I was the main integrator for a game called
+Decisive Action which is a commercial off the shelf game at the Corp and
+Division level. By the time I left CGSC we were running 16 division staff
+exercises using Decisive Action and had totally replaced the multi-million
+dollar capstone exercise Prairie Warrior.
+
+In 2004 I was hired by the United States Military Academy or West Point to be
+the first manager for the Warfighting Simulation Center now called the
+Simulation Center. West Point is the premier military academy in the country. In
+2006 I was tasked by the head of the Department for Military Instruction to find
+a game that could be integrated into the tactics curriculum. I turned to the
+developer of Decisive Action for a platoon level game that could be used to
+teach light infantry dismounted tactics.  

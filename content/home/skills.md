@@ -18,36 +18,18 @@ subtitle = ""
   icon = "chess"
   icon_pack = "fas"
   name = "Military Training and Education"
-  description = "90%"
+  description = """The Command General Staff College, West Point, and the Land Forces Academy in Odesa.  I've been involved with professional military education at all levels and in many capacities."""
   
 [[feature]]
   icon = "dice"
   icon_pack = "fas"
   name = "Simulations and Gaming"
-  description = "100%"  
+  description = """This is truly my passion.  I believe we can improve the quality of tactical education through the use of well designed games and simulations."""  
   
-[[feature]]
-  icon = "skull-crossbones"
-  icon_pack = "fas"
-  name = "Tactical Decision-Making"
-  description = "90%"
 
 [[feature]]
   icon = "chess-knight"
   icon_pack = "fas"
-  name = "Game Development"
-  description = "90%"
-
-  [[feature]]
-  icon = "laptop"
-  icon_pack = "fas"
-  name = "IT Skills"
-  description = "90%"
-
-  [[feature]]
-  icon = "blog"
-  icon_pack = "fas"
-  name = "Web Design"
-  description = "70%"
-
+  name = "NextGen Wargame Project"
+  description = """This is an ongoing personal project of mine that I think has the potential to deliver a wargame on a wide scale.  Imagine a game specifically designed for use in PME and playable in a web browser.  This is my vision."""
 +++
