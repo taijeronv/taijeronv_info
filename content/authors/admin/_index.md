@@ -68,27 +68,15 @@ user_groups:
 - Visitors
 ---
 
-Originally from the Island of Guam, I joined the Army at the age of 17. I spent
-over 20 years. Soldier, simulations specialist, police mentor, international
-monitor I've had a very colorful and varied adventure all over the world. I've
-gained skills and experience that make me an asset wherever I go.
+I'm originally from the Island of Guam and joined the Army at the age of 17.
+After 20 years in boots I started the next chapter of my adventure which is
+arguably the most exciting and colorful. I've been a soldier, simulations specialist, police
+mentor, international Monitor, traveling the world over with a wide range of experiences.  
 
 I am currently serving as the Team Operations Officer for an international team
 of monitors in the city of Odesa, Ukraine. I plan operations, manage assets and
 personnel, and I monitor the military domain in accordance with our mandate.
 
-When I retired from the Army in 2001 I became a simulation specialist working
-for Northrop Grumman at the Command and General Staff College as part of the
-Digital Leader Development Course. I was the main integrator for a game called
-Decisive Action which is a commercial off the shelf game at the Corp and
-Division level. By the time I left CGSC we were running 16 division staff
-exercises using Decisive Action and had totally replaced the multi-million
-dollar capstone exercise Prairie Warrior.
-
-In 2004 I was hired by the United States Military Academy or West Point to be
-the first manager for the Warfighting Simulation Center now called the
-Simulation Center. West Point is the premier military academy in the country. In
-2006 I was tasked by the head of the Department for Military Instruction to find
-a game that could be integrated into the tactics curriculum. I turned to the
-developer of Decisive Action for a platoon level game that could be used to
-teach light infantry dismounted tactics.  
+My goal is to get back into the "game" in a position that allows me to use my
+extensive experience using games for training and eduction. My desire is to be
+based in Europe but I have no problem going wherever I'm needed.
