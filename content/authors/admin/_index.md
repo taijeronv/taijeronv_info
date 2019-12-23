@@ -18,25 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include using games for training and eduction.
+bio: Available immediately.
 
-interests:
-- Professional Military Education
-- Simulations and Gaming
-- Game design
-- Programming Javascript and Python
-
-education:
-  courses:
-  - course: Electonics Design and Application
-    institution: Guam Community College
-    year: 1981
-  - course: General Studies
-    institution: Central Texas College
-    year: 1989
-  - course:  Internatinal Relations
-    institution: University of Maryland
-    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,31 +53,24 @@ user_groups:
 
 Originally from the Island of Guam I joined the Army in 1981 at the age of 17.
 In 2001 after 20 years in the Army I decided to start the next chapter of my
-life. Since my transition I've had a variety of jobs most in the area of
-military training and education, at the Command and General Staff College, West
-Point, and in Afghanistan.
+life. Since my transition I've had a variety of jobs:
+
+- International Conflict Monitoring
+- Teaching at the Land Forces Academy in Odesa Ukraine
+-  Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan
+-  Teaching cadets tactical decision-making at the United States Military Academy
+- Running Decisive Action games at Command and General Staff College in support of Division Level Staff Exercises
 
 I am currently serving as the Team Operations Officer for an international team
 of monitors in the city of Odesa, Ukraine. I plan operations, manage assets and
-personnel, and I monitor the military/security situation in accordance with our mandate.
+personnel, and I monitor the military/security situation in accordance with our
+mandate. After five years in the Organization for Security and Cooperation in
+Europe I am ready to move back to doing what I love.
 
-After five years in the Organization for Security and Operation in Europe I am
-ready to move back to the doing what I love which is military training and  
-education.
+I believe I have a unique combination of skills which is why I consider myself very strong in this area:
+- I've been playing commercial wargames for over 40 years.
+- I've used games in the classroom to educate several thousand cadets.
+- I helped develop a game, writing the requirements and validating its functionality.
+- I am designing a game. 
 
-Even though I've been away from the training and education domain I have not
-been idle. I believe I have a unique combination of skills as a consumer of
-games, teacher, curriculum developer, and game developer. In most cases you may
-find someone with experience in one or two of these areas, but in my case I've
-almost "done it all."
-
-So what have I been doing while on break from training and education? I am
-currently working on my own project which is a web-based wargame designed
-specifically for training and education. I believe this is a unique way to
-deliver such a game and has the potential to reach the most users.
-
-
-The NextGen Wargame is just the beginning. I also plan to develop a basic
-package of content that will focus on the undergrad level of PME. The whole
-system will be web based and accessible from anywhere in the world as long as
-there's an internet connection.
+The NextGen Wargame is my passion project.  Imagine a game suitable for use in the classroom but delivered over the internet and playable inside a browser.  All the content on one website for example lessons, insructors notes, AAR files for studying, etc.  This is my vision for the NextGen Wargame.
