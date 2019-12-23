@@ -51,41 +51,64 @@ user_groups:
 - Visitors
 ---
 
-Originally from the Island of Guam I joined the Army in 1981 at the age of 17.
-In 2001 after 20 years in the Army I decided to start the next chapter of my
-life.  Since then I've had a variety unique and interesting jobs:
+Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I joined the Army in 1981 at the age of 17.
+In 2001 after 20 years in the Army, I decided to start the next chapter of my
+life.  Since then, I've had a variety of unique and exciting jobs:
 
 - Monitoring the ongoing conflict in Eastern Ukraine.
-- Teaching at the Land Forces Academy in Odesa Ukraine
+- Teaching at the [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy) in Odesa Ukraine
 - Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan
-- Teaching cadets tactical decision-making at the United States Military Academy
-- Running Decisive Action games at Command and General Staff College in support of Division Level Staff Exercises
+- Teaching cadets tactical decision-making at [West Point](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) the premiere military academy in the United States.
+- Integrating [Decisive Action](http://decisive-point.com/decisive-action/) into the curriculum at Command and General Staff College
 
 ### What have I been doing?
 I am currently serving as the Team Operations Officer for the Odesa Monitoring
-Team which is part of the OSCE Special Monitoring Mission to Ukraine. The
-Organization for Security and Cooperation in Europe (OSCE) consists of 57 member
-states in North America, Europe, and Asia and is the world's largest
-regional security organization.  The OSCE SMMU is tasked to observe and report in an
-impartial and objective way on the situation in Ukraine.
+Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The
+[Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member
+states in North America, Europe, and Asia. It is the world's largest
+regional security organization.  The OSCE SMMU is tasked to observe and report impartially and objectively on the situation in Ukraine.
 
 ### What am I looking for?
+I want to transition back to what I love most, which is training and education. I
+have less than 24 months left with OSCE, but I feel that it would be better to
+transition now rather than wait until the last minute. With that in mind, I am actively
+looking for my next job.
 
-I want to transition back to what I love most which is training and education. I
-have less than 24 months left with OSCE but I feel that it would be better to
-transition now rather than wait until the last minute. With that in mind I am actively
-looking for my next interesting job.
-
-Although my goal is to get back to simulations and gaming I believe I have the
+Although my goal is to get back to simulations and gaming, I believe I have the
 skills to operate in any capacity that requires planning, execution, and
 leadership.
 
 ### So what makes me unique?
-I believe I have a unique combination of skills which is why I consider myself very strong in this area:
-- I've been playing commercial wargames for over 40 years.
-- I've used games in the classroom to educate several thousand cadets.
-- I helped develop a game, writing the requirements and validating its functionality.
-- I am designing a game. 
+I've put one of my skills on display with this website. Even though I'm not a
+"webmaster," I have enough technical expertise to figure things out and do what I
+need. Whether it's programming in Javascript/Python, writing in markdown, or
+troubleshooting my home network. All technology is within my grasp.
+
+Regarding simulations and gaming, I believe I have a solid set of skills
+and experience that make me unique among applicants.
+- I've been playing commercial wargames such as TacOps, Command Ops, and Combat
+  Mission for over 40 years.
+- I have extensive teaching experience using games in the classroom such as
+  [Follow Me](http://decisive-point.com/follow-me/) and [Virtual Battlespace 2](https://bisimulations.com/products/vbs3). Keep in mind I've put whole West Point
+  classes (up to 1000 Cadets) through cadet basic training using VBS2, as well
+  as running capstone exercises for 4th-year cadets using Follow Me. That's
+  several thousand cadets.
+- In CGSC, I was the primary integrator of Decisive Action, which has been used
+  by the college for 18 years.
+- Another thing I did at West Point was to collaborate on the development of a
+  game called Follow Me, which was designed specifically for use in the
+  classroom. I wrote the requirements and validated the final product.
+
+{{% alert note %}}
+For more information on Decisive Action and Follow Me visit the [Decisive Point Website](http://decisive-point.com/).
+{{% /alert %}}
 
 ### What am I working on?
-The NextGen Wargame is my passion project.  Imagine a game suitable for use in the classroom but delivered over the internet and playable inside a browser.  All the content on one website for example lessons, insructors notes, AAR files for studying, etc.  This is my vision for the NextGen Wargame.
+The NextGen Wargame is my passion project. Imagine a game suitable for use in
+the classroom but delivered over the internet and playable inside a browser. All
+the content on one website, for example, lessons, instructors notes, AAR files
+for studying, all in a self-contained package delivered over the net. Custom
+content based on the organization or users needs can be easily created and
+accessed through a unique account on the website.  
+
+## This is my vision for the NextGen Wargame.
