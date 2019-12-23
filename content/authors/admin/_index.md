@@ -68,10 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I'm originally from the Island of Guam and joined the Army at the age of 17.
-After 20 years in boots I started the next chapter of my adventure which is
-arguably the most exciting and colorful. I've been a soldier, simulations specialist, police
-mentor, international Monitor, traveling the world over with a wide range of experiences.  
+Originally from the Island of Guam I joined the Army in 1981 at the age of 17.
+After 20 years in boots I decided to transition to the civilian sector.
 
 I am currently serving as the Team Operations Officer for an international team
 of monitors in the city of Odesa, Ukraine. I plan operations, manage assets and
