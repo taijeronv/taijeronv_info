@@ -69,23 +69,30 @@ user_groups:
 ---
 
 Originally from the Island of Guam I joined the Army in 1981 at the age of 17.
-After 20 years in boots I decided to transition to the civilian sector.
+In 2001 after 20 years in the Army I decided to start the next chapter of my
+life. Since my transition I've had a variety of jobs most in the area of
+military training and education, at the Command and General Staff College, West
+Point, and in Afghanistan.
 
 I am currently serving as the Team Operations Officer for an international team
 of monitors in the city of Odesa, Ukraine. I plan operations, manage assets and
-personnel, and I monitor the military domain in accordance with our mandate.
+personnel, and I monitor the military/security situation in accordance with our mandate.
 
-I am very interested in getting back to the training and education specialty,
-this is where my passion lies. Ideally I could base out of Europe but I would go
-wherever I'm needed.
+After five years in the Organization for Security and Operation in Europe I am
+ready to move back to the doing what I love which is military training and  
+education.
 
-I am currently working on my own project which is a web-based wargame designed
-specifically for training and education. I believe the web is the fastest way to
-get a game in the hands of users. From a software management perspective it is
-also the easiest way to update and maintain. My focus at the moment is on
-requirements and writing the rules. I plan to spend my own money to fund the
-development of the game in manageable stages. If I'm lucky a company may hire me
-and provide the resources to hasten its development.
+Even though I've been away from the training and education domain I have not
+been idle. I believe I have a unique combination of skills as a consumer of
+games, teacher, curriculum developer, and game developer. In most cases you may
+find someone with experience in one or two of these areas, but in my case I've
+almost "done it all."
+
+So what have I been doing while on break from training and education? I am
+currently working on my own project which is a web-based wargame designed
+specifically for training and education. I believe this is a unique way to
+deliver such a game and has the potential to reach the most users.
+
 
 The NextGen Wargame is just the beginning. I also plan to develop a basic
 package of content that will focus on the undergrad level of PME. The whole
