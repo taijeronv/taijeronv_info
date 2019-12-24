@@ -60,7 +60,7 @@ life.  Since then, I've had a variety of unique and exciting jobs:
 - Teaching at the [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy) in Odesa Ukraine
 - Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan
 - Teaching cadets tactical decision-making at [West Point](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) the premiere military academy in the United States.
-- Integrating [Decisive Action](http://decisive-point.com/decisive-action/) into the curriculum at Command and General Staff College
+- Integrating [Decisive Action](http://decisive-point.com/decisive-action/) into the curriculum at the Command and General Staff College
 
 ### What have I been doing?
 I am currently serving as the Team Operations Officer for the Odesa Monitoring
@@ -70,8 +70,9 @@ states in North America, Europe, and Asia. It is the world's largest
 regional security organization.  The OSCE SMMU is tasked to observe and report impartially and objectively on the situation in Ukraine.
 
 ### What am I looking for?
-I want to transition back to what I love most, which is training and education. I
-have less than 24 months left with OSCE, but I feel that it would be better to
+I want to transition back to what I love most, which is training and education. 
+
+I have less than 24 months left with OSCE, but I feel that it would be better to
 transition now rather than wait until the last minute. With that in mind, I am actively
 looking for my next job.
 
@@ -83,33 +84,34 @@ leadership.
 I've put one of my skills on display with this website. Even though I'm not a
 "webmaster," I have enough technical expertise to figure things out and do what I
 need. Whether it's programming in Javascript/Python, writing in markdown, or
-troubleshooting my home network. All technology is within my grasp.
+troubleshooting my home network. 
 
 Regarding simulations and gaming, I believe I have a solid set of skills
 and experience that make me unique among applicants.
 - I've been playing commercial wargames such as TacOps, Command Ops, and Combat
   Mission for over 40 years.
 - I have extensive teaching experience using games in the classroom such as
-  [Follow Me](http://decisive-point.com/follow-me/) and [Virtual Battlespace 2](https://bisimulations.com/products/vbs3). Keep in mind I've put whole West Point
-  classes (up to 1000 Cadets) through cadet basic training using VBS2, as well
-  as running capstone exercises for 4th-year cadets using Follow Me. That's
-  several thousand cadets.
+  [Follow Me](http://decisive-point.com/follow-me/) and
+  [Virtual Battlespace 2](https://bisimulations.com/products/vbs3). Keep in mind
+  I've put whole West Point classes (up to 1000 Cadets) through cadet basic
+  training using VBS2, as well as running capstone exercises for 4th-year cadets
+  using Follow Me. Not to mention the work I've done with 2nd and 3rd year
+  cadets supporting individual instructors. That's several thousand cadets.
 - In CGSC, I was the primary integrator of Decisive Action, which has been used
   by the college for 18 years.
-- Another thing I did at West Point was to collaborate on the development of a
-  game called Follow Me, which was designed specifically for use in the
-  classroom. I wrote the requirements and validated the final product.
+- I also collaborated on the development of a game called Follow Me, which was
+  designed specifically for use in the classroom. I wrote the requirements and
+  validated the final product.
 
 {{% alert note %}}
 For more information on Decisive Action and Follow Me visit the [Decisive Point Website](http://decisive-point.com/).
 {{% /alert %}}
 
 ### What am I working on?
-The NextGen Wargame is my passion project. Imagine a game suitable for use in
-the classroom but delivered over the internet and playable inside a browser. All
-the content on one website, for example, lessons, instructors notes, AAR files
-for studying, all in a self-contained package delivered over the net. Custom
-content based on the organization or users needs can be easily created and
-accessed through a unique account on the website.  
+[The NextGen Wargame](https://friendly-ritchie-374adc.netlify.com/) is my
+passion project. Imagine a game suitable for use in the classroom but delivered
+over the internet and playable inside a browser. All the game's content is on
+one website, such as lessons, instructor notes, AAR files, Opords, maps and unit
+images. All in a self-contained package delivered over the net.
 
 ## This is my vision for the NextGen Wargame.
