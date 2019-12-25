@@ -14,11 +14,6 @@ url = "#skills"
 weight = 20
 
 [[main]]
-name = "Guides"
-url = "#publications"
-weight = 25
-
-[[main]]
 name = "Contact"
 url = "#contact"
 weight = 30

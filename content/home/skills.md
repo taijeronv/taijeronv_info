@@ -38,29 +38,11 @@ subtitle = ""
   name = "Operations and Planning"
   description = """ I also have a very strong foundation with operations and planning.  My current job as Team Operations is a great example.  On a daily basis I make decisions for the team regarding security, resources, assets, and personnel.  I plan patrols, write "Oporders", and brief team members on threats and risks."""
 
-  [[feature]]
-  icon = "user-friends"
-  icon_pack = "fas"
-  name = "Leadership"
-  description = """ It's kind of hard to go 20 years in the Army and not learn anything about leadership. """
-
-  [[feature]]
+   [[feature]]
   icon = "video"
   icon_pack = "fas"
   name = "Briefings and Presentations"
   description = """ I've given many briefings and presentations to senior level officers and businessmen.  I am not afraid to speak in a public setting and feel very comfortable in front of an audience. """
-
-  [[feature]]
-  icon = "chess-knight"
-  icon_pack = "fas"
-  name = "placeholder"
-  description = """write some stuff here """
-
-  [[feature]]
-  icon = "chess-knight"
-  icon_pack = "fas"
-  name = "placeholder"
-  description = """write some stuff here """
 
 [[feature]]
   icon = "chess-knight"
