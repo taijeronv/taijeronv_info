@@ -15,38 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chess"
+  icon = "graduation-cap"
   icon_pack = "fas"
   name = "Military Training and Education"
-  description = """I've been involved with professional military education at all levels from the Command and General Staff College, West Point, and the Odesa Military Academy.  Whether its setting up the exercise, creating lesson content, or teaching I've done it all."""
+  description = """I have been involved with professional military education at all levels from the Command and General Staff College, to West Point, and finally the Odesa Military Academy.  Whether it's training cadets or the Afghan police I will bring over 18 years of experience in training and education to the table."""
   
 [[feature]]
   icon = "dice"
   icon_pack = "fas"
   name = "Simulations and Gaming"
-  description = """I believe we can improve the quality of tactical education through the use of well designed games and simulations.  I was fortunate to gain insights into tactical education from observing thousands of cadets use Follow Me and Virtual Battlespace.  Paper-based exercises do not offer the kind of experiential learning that games do."""  
+  description = """I was fortunate to gain insights into tactical education from observing thousands of cadets use Follow Me and Virtual Battlespace at West Point.  Most organizations understand the benefits of using games but struggle to define their requirements.  With my experience I can guide any organization in implementing and integrating games into their program of instruction.  It's not as easy as you think."""  
   
 [[feature]]
-  icon = "skull-crossbones"
+  icon = "chess"
   icon_pack = "fas"
   name = "Tactical Problem-Solving"
-  description = """It's not enough to teach troop leading procedures or how to write a five paragraph operations order.  Drawing pretty graphics on a map does not make you a tactician.  The most imortant aspect to learning tactics is "Why?". Why did you choose to defend this piece of ground? Why did you take that route to the objective instead of another one? I do not teach my students what to think I teach them how to think."""
+  description = """Drawing pretty graphics on a map or reciting Clausewitz from memory does not make you a tactician.  The most important aspect to learning tactics is understanding the decisions you make and why you made them.  I do not teach my students what to think I teach them how to think.  Quality practice plus expert instruction is how we raise competent tactical decision-makers.  I can help you develop a program with the right content that is interesting, relevant, and above all useful."""
 
-  [[feature]]
-  icon = "puzzle-piece"
+ [[feature]]
+  icon = "ban"
   icon_pack = "fas"
-  name = "Operations and Planning"
-  description = """ I also have a very strong foundation with operations and planning.  My current job as Team Operations is a great example.  On a daily basis I make decisions for the team regarding security, resources, assets, and personnel.  I plan patrols, write "Oporders", and brief team members on threats and risks."""
+  name = "Overcoming Obstacles"
+  description = """Your instructors are the weakest link in your teaching workflow especially if technology is involved.  Whether it's a smartboard or computer game technology-anxiety will paralyze your instructors.  I can put them at ease and teach them how to overcome that anxiety and get the most out of the technology the've been asked to use."""
 
    [[feature]]
-  icon = "video"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Briefings and Presentations"
-  description = """ I've given many briefings and presentations to senior level officers and businessmen.  I am not afraid to speak in a public setting and feel very comfortable in front of an audience. """
+  name = "Exercise Planning and Setup"
+  description = """In my first year at CGSC we ran an exercise using two games Decisive Action and TacOpsCav.  I was the main "sims guy" and did all the prep which included setting up the computers, creating the content, and finally running the exercise.  The biggest benefit I bring to a team is my wide range of technology skills.  A good example is this website which I created on my own. """
 
-[[feature]]
+  [[feature]]
   icon = "chess-knight"
   icon_pack = "fas"
   name = "NextGen Wargame Project"
-  description = """This is an ongoing personal project of mine that I think has the potential to deliver a wargame on a wide scale.  Imagine a game specifically designed for use in PME and playable in a web browser.  This is my vision."""
+  description = """I believe we can improve the quality of tactical education by using computer wargames to add a dynamic operational environment for the student to operate in.  The NextGen Wargame is a tool designed specifically for use in classroom.  I started this project on my own initiative because I love wargames and designing one is a natural "next step.  This is project is also a way for me to continue with what I love and to stay involved with training and education."""
 +++
