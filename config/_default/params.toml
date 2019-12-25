@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "taijeronv@gmail.com"
+email = "vincent.taijeron@gmail.com"
 # phone = "888 888 88 88"
 
 # Address
@@ -94,7 +94,7 @@ address = {street = "6/3 Shevchenko Ave", city = "Odesa", region = "Odesa", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.456556", longitude = "30.750041"}
+# coordinates = {latitude = "46.456556", longitude = "30.750041"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

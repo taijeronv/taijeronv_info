@@ -14,7 +14,7 @@ role: Team Operations Officer
 
 # Organizations/Affiliations
 organizations:
-- name: International Monitoring Team
+- name: Odesa Monitoring Team
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,15 +52,21 @@ user_groups:
 - Visitors
 ---
 
-Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I joined the Army in 1981 at the age of 17.
+Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I joined the U.S. Army in 1981 at the age of 17.
 In 2001 after 20 years in the Army, I decided to start the next chapter of my
 life.  Since then, I've had a variety of unique and exciting jobs:
 
 - Monitoring the ongoing conflict in Eastern Ukraine.
-- Teaching at the [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy) in Odesa Ukraine
-- Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan
-- Teaching cadets tactical decision-making at [West Point](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) the premiere military academy in the United States.
-- Integrating [Decisive Action](http://decisive-point.com/decisive-action/) into the curriculum at the Command and General Staff College
+- Teaching at the
+  [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy)
+  in Odesa Ukraine.
+- Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan.
+- Teaching cadets tactical decision-making at
+  [West Point](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center)
+  the premiere military academy in the United States.
+- Integrating [Decisive Action](http://decisive-point.com/decisive-action/) into
+  the curriculum at the
+  [Command and General Staff College](https://usacac.army.mil/organizations/cace/cgsc).
 
 ### What have I been doing?
 I am currently serving as the Team Operations Officer for the Odesa Monitoring
@@ -102,10 +108,6 @@ and experience that make me unique among applicants.
 - I also collaborated on the development of a game called Follow Me, which was
   designed specifically for use in the classroom. I wrote the requirements and
   validated the final product.
-
-{{% alert note %}}
-For more information on Decisive Action and Follow Me visit the [Decisive Point Website](http://decisive-point.com/).
-{{% /alert %}}
 
 ### What am I working on?
 [The NextGen Wargame](https://friendly-ritchie-374adc.netlify.com/) is my
