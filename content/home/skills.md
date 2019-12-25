@@ -30,23 +30,5 @@ subtitle = ""
   icon = "chess"
   icon_pack = "fas"
   name = "Tactical Problem-Solving"
-  description = """Drawing pretty graphics on a map or reciting Clausewitz from memory does not make you a tactician.  The most important aspect to learning tactics is understanding the decisions you make and why you made them.  I do not teach my students what to think I teach them how to think.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  I can help you develop a program with the right content that is interesting, relevant, and above all useful."""
-
- [[feature]]
-  icon = "ban"
-  icon_pack = "fas"
-  name = "Overcoming Obstacles"
-  description = """Your instructors are the weakest link in your teaching workflow especially if technology is involved.  Whether it's a smartboard or computer game technology-anxiety will paralyze your instructors.  I can put them at ease and teach them how to overcome that anxiety and get the most out of the technology the've been asked to use."""
-
-   [[feature]]
-  icon = "tools"
-  icon_pack = "fas"
-  name = "Exercise Planning and Setup"
-  description = """In my first year at CGSC we ran an exercise using two games Decisive Action and TacOpsCav.  I did all the prep which consisted of setting up the computers, creating the content, and running the exercise.  The biggest benefit I bring to a team is my wide range of technology skills.  A good example is this website which I created on my own. """
-
-  [[feature]]
-  icon = "chess-knight"
-  icon_pack = "fas"
-  name = "NextGen Wargame Project"
-  description = """I believe we can improve the quality of tactical education by using computer wargames to add a dynamic operational environment for the student to operate in.  The NextGen Wargame is a tool designed specifically for use in the classroom.  I started this project on my own initiative because I love wargames and designing one is a natural "next step.  This is project is also a way for me to continue with what I love and to stay involved with training and education."""
+  description = """Drawing pretty graphics on a map or reciting Clausewitz from memory does not make you a tactician.  The most important aspect to learning tactics is understanding the decisions you make and why you made them.  I do not teach my students what to think I teach them how to think.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  I can help you develop a program with the right content that is interesting, relevant, and above all useful.""" 
 +++
