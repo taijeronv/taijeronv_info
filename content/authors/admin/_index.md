@@ -77,41 +77,41 @@ Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://
 states in North America, Europe, and Asia. It is the world's largest
 regional security organization.  The OSCE SMMU is tasked to observe and report impartially and objectively on the situation in Ukraine.
 
-### What am I looking for?
-I want to transition back to what I love most, which is training and education. 
+### Have skills, will travel
+In OSCE there is a time limit on how long you can stay.  For example you cannot stay in the same mission for more than seven years.  This is my current situation.  I have until September 2021 at which point I will hit my seven year mark.
 
-I have less than 24 months left with OSCE, but I feel that it would be better to
-transition now rather than wait until the last minute. With that in mind, I am actively
-looking for my next job.
+Rather than wait until the last minute I would like to start transitioning immediately.
 
-Although my goal is to get back to simulations and gaming, I believe I have the
-skills to operate in any capacity that requires planning, execution, and
-leadership.
+**Job Goals**
+- Although my skillset is strongest in the military domain (education, training,
+  or operating) I am open to working in another sector.
+- At the moment I am expanding my skillet to include programming
+  (Javascript/Python) although it would take me more time to become productive
+  as a coder.
 
-### So what makes me unique?
-I've put one of my skills on display with this website. Even though I'm not a
-"webmaster," I have enough technical expertise to figure things out and do what I
-need. Whether it's programming in Javascript/Python, writing in markdown, or
-troubleshooting my home network. 
+**Location**
+- If I could work remotely from Ukraine that would be the best situation. I know
+  that it's unlikely but If I had to make a wish this would be one of them.
+- The second best option would be to "base" out of Ukraine for example if I was
+  a trainer. I could "deploy" from Ukraine to wherever the training was taking
+  place.
+- Third would be to work in Europe or the US.
 
-Regarding simulations and gaming, I believe I have a solid set of skills
-and experience that make me unique among applicants.
-- I've been playing commercial wargames such as
-  [TacOps](https://en.wikipedia.org/wiki/TacOps),
-  [Command Ops](https://en.wikipedia.org/wiki/Command_Ops:_Battles_from_the_Bulge),
-  and [Combat Mission](https://en.wikipedia.org/wiki/Combat_Mission) for over 40 years.
-- I have extensive teaching experience using games in the classroom such as
-  [Follow Me](http://decisive-point.com/follow-me/) and
-  [Virtual Battlespace 2](https://bisimulations.com/products/vbs3). Keep in mind
-  I've put whole West Point classes (up to 1000 Cadets) through cadet basic
-  training using VBS2, as well as running capstone exercises for 4th-year cadets
-  using Follow Me. Not to mention the work I've done with 2nd and 3rd year
-  cadets supporting individual instructors. That's several thousand cadets.
-- In CGSC, I was the primary integrator of Decisive Action, which has been used
-  by the college for 18 years.
-- I also collaborated on the development of a game called Follow Me, which was
-  designed specifically for use in the classroom. I wrote the requirements and
-  validated the final product.
+**The bottomline is, I will go wherever I'm needed.**
+
+### Why should I hire you?
+I can give you a million reasons why but you will never know until you hire me.
+
+Professional, competent, and reliable. These are the three reasons why you
+should hire me. There are a whole slew of other things as well but it's these
+three that I take pride in the most. Have you ever been in an organization where
+there was this one guy that had a calming effect? You know what I'm talking
+about, someone who shows up and all of a sudden all your fears are gone because
+you know he's going to make sure things get done. I'm that guy.
+
+My current boss describes me as his safety net. He knows that I can run the team
+in his absence, manage all the different personalities in the office, and get
+things done.
 
 ### What am I working on?
 [The NextGen Wargame](https://friendly-ritchie-374adc.netlify.com/) I believe we
