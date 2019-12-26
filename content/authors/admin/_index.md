@@ -78,9 +78,11 @@ states in North America, Europe, and Asia. It is the world's largest
 regional security organization.  The OSCE SMMU is tasked to observe and report impartially and objectively on the situation in Ukraine.
 
 ### Have skills, will travel
-In OSCE there is a time limit on how long you can stay.  For example you cannot stay in the same mission for more than seven years.  This is my current situation.  I have until September 2021 at which point I will hit my seven year mark.
+In OSCE there is a time limit on how long you can stay. For example you cannot
+stay in the same mission for more than seven years. I have until September 2021
+at which point I will hit my seven year mark.
 
-Rather than wait until the last minute I would like to start transitioning immediately.
+Rather than wait until the last minute I would like to start transition as soon as possible.
 
 **Job Goals**
 - Although my skillset is strongest in the military domain (education, training,
@@ -89,15 +91,22 @@ Rather than wait until the last minute I would like to start transitioning immed
   (Javascript/Python) although it would take me more time to become productive
   as a coder.
 
-**Location**
-- If I could work remotely from Ukraine that would be the best situation. I know
-  that it's unlikely but If I had to make a wish this would be one of them.
-- The second best option would be to "base" out of Ukraine for example if I was
-  a trainer. I could "deploy" from Ukraine to wherever the training was taking
-  place.
-- Third would be to work in Europe or the US.
+**Full or Part time**
+- Fulltime is ideal
+- I would consider part-time work if I could continue to live in Ukraine, but
+  deploy to wherever I was needed. For example if I were in a training job, I
+  could live in Ukraine then deploy to the training site when needed. The reason
+  is cost of living. I cannot sustain myself in the US or other parts of Europe
+  if I'm only working part-time.
+- I would certainly be open to working remotely as well (obviously this would
+  allow me to continue to live in Ukraine).
 
-**The bottomline is, I will go wherever I'm needed.**
+**Location**
+- If the job is fulltime I would happily relocate.
+- If the job were part-time the only way to make that work is to continue to
+  live in Ukraine for the reasons I stated above.
+
+
 
 ### Why should I hire you?
 I can give you a million reasons why but you will never know until you hire me.
