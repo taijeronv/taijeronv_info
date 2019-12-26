@@ -69,6 +69,8 @@ life.  Since then, I've had a variety of unique and exciting jobs:
   [Command and General Staff College](https://usacac.army.mil/organizations/cace/cgsc).
 
 ### What have I been doing?
+
+{{< figure src="/img/shirokyne.jpg" caption="Members of the Azov Volunteer Battalion watch as we plan an ad-hoc mission into non-government controlled Shirokyne." >}}
 I am currently serving as the Team Operations Officer for the Odesa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The
 [Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member
@@ -118,6 +120,7 @@ tool to add a dynamic operational environment for the student to practice in.
 The NextGen Wargame is designed specifically for use in the classroom or
 simulations center. I started this project on my own initiative because I love
 wargames and designing one was a natural "next step" for me. 
+{{< figure src="/img/ngw-1.jpg" caption="Scouts lead a Stryker Co from 2nd Bde towards two unknown enemy units." >}}
 
 ## If you're interested in developing a useful game for the PME market please contact me.
 
