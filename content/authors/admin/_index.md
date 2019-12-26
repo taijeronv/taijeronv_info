@@ -94,8 +94,10 @@ troubleshooting my home network.
 
 Regarding simulations and gaming, I believe I have a solid set of skills
 and experience that make me unique among applicants.
-- I've been playing commercial wargames such as TacOps, Command Ops, and Combat
-  Mission for over 40 years.
+- I've been playing commercial wargames such as
+  [TacOps](https://en.wikipedia.org/wiki/TacOps),
+  [Command Ops](https://en.wikipedia.org/wiki/Command_Ops:_Battles_from_the_Bulge),
+  and [Combat Mission](https://en.wikipedia.org/wiki/Combat_Mission) for over 40 years.
 - I have extensive teaching experience using games in the classroom such as
   [Follow Me](http://decisive-point.com/follow-me/) and
   [Virtual Battlespace 2](https://bisimulations.com/products/vbs3). Keep in mind
@@ -110,10 +112,12 @@ and experience that make me unique among applicants.
   validated the final product.
 
 ### What am I working on?
-[The NextGen Wargame](https://friendly-ritchie-374adc.netlify.com/) is my
-passion project. Imagine a game suitable for use in the classroom but delivered
-over the internet and playable inside a browser. All the game's content is on
-one website, such as lessons, instructor notes, AAR files, Opords, maps and unit
-images. All in a self-contained package delivered over the net.
+[The NextGen Wargame](https://friendly-ritchie-374adc.netlify.com/) I believe we
+can improve the quality of military education by using computer wargames as a
+tool to add a dynamic operational environment for the student to practice in.
+The NextGen Wargame is designed specifically for use in the classroom or
+simulations center. I started this project on my own initiative because I love
+wargames and designing one was a natural "next step" for me. 
 
-## This is my vision for the NextGen Wargame.
+## If you're interested in developing a useful game for the PME market please contact me.
+

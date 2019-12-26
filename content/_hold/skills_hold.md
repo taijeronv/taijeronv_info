@@ -14,4 +14,4 @@
   icon = "chess-knight"
   icon_pack = "fas"
   name = "NextGen Wargame Project"
-  description = """I believe we can improve the quality of tactical education by using computer wargames to add a dynamic operational environment for the student to practice in.  The NextGen Wargame is a tool designed specifically for use in the classroom.  I started this project on my own initiative because I love wargames and designing one was the natural "next step for me.  At the moment I'm working on program requirements and working out the modeling.  My dream is to lead a team of programmers in fulfilling my vision."""
+  description = """I believe we can improve the quality of milivary education by using computer wargames as tool to add a dynamic operational environment for the student to practice in.  The NextGen Wargame is a tool designed specifically for use in the classroom.  I started this project on my own initiative because I love wargames and designing one was a natural "next step" for me.  At the moment I'm working on model and software requirements."""

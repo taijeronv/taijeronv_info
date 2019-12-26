@@ -17,18 +17,18 @@ subtitle = ""
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Military Training and Education"
-  description = """I have been involved with professional military education at all levels from the Command and General Staff College, to West Point, and finally the Odesa Military Academy.  Whether it's training cadets or the Afghan police I will bring over 18 years of experience in training and education to the table."""
-  
+  name = "Professional Military Education"
+  description = """Drawing pretty graphics on a map or reading "On War" does not make you a tactician or strategist.  The most important aspect to learning tactics is understanding the decisions you make and why you made them.  I do not teach my students what to think I teach them how to think.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  I can help you develop a program with interesting and useful content.""" 
+
 [[feature]]
   icon = "dice"
   icon_pack = "fas"
   name = "Simulations and Gaming"
-  description = """I was fortunate to gain insights into tactical education from observing thousands of cadets use Follow Me and Virtual Battlespace at West Point.  Most organizations understand the benefits of using games but struggle to define their requirements.  With my experience I can guide any organization in implementing and integrating games into their program of instruction.  It's not as easy as you think."""  
+  description = """Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights in the use of games from observing thousands of cadets playing Follow Me and Virtual Battlespace.  With my experience I can guide any organization in implementing and integrating games into their program of instruction.  It's not as easy as you think."""  
   
-[[feature]]
-  icon = "chess"
+   [[feature]]
+  icon = "chess-knight"
   icon_pack = "fas"
-  name = "Tactical Problem-Solving"
-  description = """Drawing pretty graphics on a map or reciting Clausewitz from memory does not make you a tactician.  The most important aspect to learning tactics is understanding the decisions you make and why you made them.  I do not teach my students what to think I teach them how to think.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  I can help you develop a program with the right content that is interesting, relevant, and above all useful.""" 
+  name = "Profssionalism"
+  description = """ I believe professionalism is demonstrated through your actions and behavior.  It's not enough to say "I'm professional" you have to prove it every single day.  There is no room for complacency in my world.  I'm will bring a high standard of competence and reliability to my next job."""
 +++
