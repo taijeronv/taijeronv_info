@@ -18,7 +18,7 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Professional Military Education"
-  description = """Drawing pretty graphics on a map or reading ["On War"](https://thestrategybridge.org/the-bridge/2017/11/12/the-trinity-and-the-law-of-war) does not make you a master strategist or tactician.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  Please do not teach your students what to think, teach them how to think.  If you're interested in improving the quality of your PME program, I can help you develop exciting and useful content.""" 
+  description = """Drawing pretty graphics on a map or reading ["On War"](https://thestrategybridge.org/the-bridge/2017/11/12/the-trinity-and-the-law-of-war) by Clausewitz does not make you a master strategist or tactician.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  If you're interested in improving the quality of your PME program, I can help you develop exciting and useful content.""" 
 
 [[feature]]
   icon = "chess"
@@ -42,5 +42,5 @@ subtitle = ""
   icon = "user-tie"
   icon_pack = "fas"
   name = "Profssionalism"
-  description = """ I believe professionalism is demonstrated through your actions and behavior.  It's not enough to say, "I'm professional" you have to prove it every day.  There is no room for complacency in my world.  I saved this one for last because it serves as the foundation for everything else."""
+  description = """ I believe professionalism is demonstrated through your actions and behavior.  It's not enough to say, "I'm professional" you have to prove it every day.  There is no room for complacency in my world. """
 +++
