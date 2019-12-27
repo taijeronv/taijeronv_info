@@ -86,39 +86,22 @@ remain on the same mission for more than seven years. I have until September
 Rather than wait until the last minute, I would like to start my transition as soon
 as possible.
 
-**Job Goals**
-- Although my skillset is strongest in the military domain (education, training,
-  or operating), I am open to working in another job sector.
-- I am currently expanding my skill set to include programming
-  (Javascript/Python) although it would take me more time to become productive
-  as a coder.
-
-**Full or Part Time**
-- Full time employment.
-- I would consider part time if I could continue to live in Ukraine, but
-  deploy to wherever I was needed. For example, if I were in a training job, I
-  could live in Ukraine then deploy to the training site when required. The
-  reason is the cost of living. I cannot live in the US or other parts
-  of Europe if I'm only working part-time it would cost too much.
-- Working remotely from home is certainly an option (obviously, this would
-  allow me to continue to live in Ukraine).
-
-**Location**
-- If the job is fulltime I would happily relocate.
-- If the job were part-time the only way to make that work is to continue to
-  live in Ukraine for the reasons I stated above.
-- The bottom line is I will go wherever I am needed.
-
-
+**My Goals**  
+- I'm seeking a full time opportunity with a solid company. 
+- I'm an obvious fit for the military sector (training, education, or operating)
+  but if you're not in the mil sector that's fine. I believe my skills will work
+  in just about anywhere. Drop me a line and we can discuss it.
+- I am willing to relocate to the US, Europe, Middle East, Africa, or
+  conflict-zone if necessary. If relocating isn't necessary that's fine, I can
+  work remotely or part-time depending on the job.
 
 ### Why should I hire you?
-Professional, competent, and reliable. These are the three reasons why I think
-you should hire me. 
+Professional, competent, and reliable.
 
-Have you ever been in an organization where there was this one guy that was rock
-solid in everything he does? You know what I'm talking about, someone who shows
-up, and all of a sudden, all your fears are gone because you know he's going to
-take care of everything. 
+Have you ever been in an organization where there was this one guy that had a
+calming effect? You know what I'm talking about, someone who shows up, and all
+of a sudden, all your fears are gone because you know he's going to take care of
+everything.
 
 **I'm that guy.**
 
