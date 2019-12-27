@@ -8,10 +8,18 @@
   icon = "tools"
   icon_pack = "fas"
   name = "Exercises"
-  description = """In my first year at CGSC we ran an exercise using two games Decisive Action and TacOpsCav.  I did 90% of the prep which consisted of setting up the computers, creating the game content, and running the exercise.  One of my strengths is the ability to perform a wide variety of technical tasks to a high standard.  This enables technical specialist to utilized elsewhere."""
+  description = """In my first year at CGSC we ran an exercise using two games Decisive Action and TacOpsCav.  I did 90% of the exercise prep which consisted of creating the scenario, unit database, and map images.  One of my strengths is the ability to perform a wide variety of technical tasks to a high standard which enables the actual specialists to be utilized elsewhere."""
+
+   [[feature]]
+  icon = "running"
+  icon_pack = "fas"
+  name = "Military Training"
+  description = """ I talk a lot about classroom instruction but make no mistake, I feel just as comfortable in the field as I do in the classroom.  As a former Non-commissioned Officer I've spent my whole career training and leading.  If you're in need of a trainer then look no further."""  
 
   [[feature]]
-  icon = "chess-knight"
+  icon = "atom"
   icon_pack = "fas"
-  name = "NextGen Wargame Project"
-  description = """I believe we can improve the quality of milivary education by using computer wargames as tool to add a dynamic operational environment for the student to practice in.  The NextGen Wargame is a tool designed specifically for use in the classroom.  I started this project on my own initiative because I love wargames and designing one was a natural "next step" for me.  At the moment I'm working on model and software requirements."""
+  name = "Operations"
+  description = """ In my current role as Team Operations, I plan patrols, manage assets and personnel, conduct security assessments, and plan team level operations.  I feel equally at home in the classroom, on staff, or operating in the field.  Luckily I have extensive experience in all of these environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""
+
+ 

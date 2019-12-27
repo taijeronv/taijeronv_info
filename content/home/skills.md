@@ -26,21 +26,27 @@ subtitle = ""
   name = "Simulations and Gaming"
   description = """Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights into the use of games from observing thousands of cadets playing "Follow Me" and "Virtual Battlespace."  With my experience, I can guide any organization in implementing and integrating games into their program of instruction."""  
 
-   [[feature]]
-  icon = "atom"
-  icon_pack = "fas"
-  name = "Operations"
-  description = """ In my current role as Team Operations, I plan patrols, manage assets and personnel, conduct security assessments, and plan team level operations.  I feel equally at home in the classroom, on staff, or operating in the field.  Luckily I have extensive experience in all of these environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""
-
- [[feature]]
+[[feature]]
   icon = "laptop"
   icon_pack = "fas"
   name = "Information Technology"
   description = """ I created this website using Hugo (static site generator), and I used markdown to generate the content.  For version control, I use Git/Github, and all my hosting is done on Netlify.  I possess many handy IT skills that cover a broad range of areas.  I may not be an expert in all of them, but I do know how to figure things out and get stuff done."""  
   
-    [[feature]]
+ [[feature]]
   icon = "user-tie"
   icon_pack = "fas"
   name = "Profssionalism"
-  description = """ I believe professionalism is demonstrated through your actions and behavior.  It's not enough to say, "I'm professional" you have to prove it every day.  There is no room for complacency in my world. """
+  description = """ I believe professionalism is demonstrated through your actions and behavior. It's not enough to say, "I'm professional" you have to prove it every day. There is no room for complacency in my world. Always be professional no matter the circumstances or situation you find yourself."""
+
+ [[feature]]
+  icon = "user-tie"
+  icon_pack = "fas"
+  name = "Competence"
+  description = """ Competence isn't just about being effective, it also means applying a high standard to everything you do.  You are not trying to impress people its merely a matter of personal and professional pride.  The quality of your work speaks for itself.  People who are competent and reliable cannot be ignored, they stand out above all others."""
+
+[[feature]]
+  icon = "user-tie"
+  icon_pack = "fas"
+  name = "Reliability"
+  description = """ People count on you to do your job, so do it.  Do not make excuses, find ways to overcome obstacles, drive-on, and stay focused.  This is what it means to be reliable.  Do what you say, and say what you mean."""
 +++
