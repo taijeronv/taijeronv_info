@@ -36,17 +36,17 @@ subtitle = ""
   icon = "user-tie"
   icon_pack = "fas"
   name = "Profssionalism"
-  description = """ I believe professionalism is demonstrated through your actions and behavior. It's not enough to say, "I'm professional" you have to prove it every day. There is no room for complacency in my world. Always be professional no matter the circumstances or situation you find yourself."""
+  description = """ I believe professionalism is demonstrated through your actions and behavior. It's not enough to say, "I'm professional" you have to prove it every day. Always be professional no matter the circumstances or situation you find yourself."""
 
  [[feature]]
   icon = "user-tie"
   icon_pack = "fas"
   name = "Competence"
-  description = """ Competence isn't just about being effective, it also means applying a high standard to everything you do.  You are not trying to impress people its merely a matter of personal and professional pride.  The quality of your work speaks for itself.  People who are competent and reliable cannot be ignored, they stand out above all others."""
+  description = """ Competence isn't just about being effective, it also means applying a high standard to everything you do.  Let the quality of your work speak for itself.  People who are competent and reliable cannot be ignored, they stand above all others.  Give me the opportunity to stand-out."""
 
 [[feature]]
   icon = "user-tie"
   icon_pack = "fas"
   name = "Reliability"
-  description = """ People count on you to do your job, so do it.  Do not make excuses, find ways to overcome obstacles, drive-on, and stay focused.  This is what it means to be reliable.  Do what you say, and say what you mean."""
+  description = """ People count on you to do your job, so do it.  Do not make excuses, find ways to overcome obstacles, and stay focused.  Reliable people that are also competent are a rare breed.  I can show you what it means to be both."""
 +++
