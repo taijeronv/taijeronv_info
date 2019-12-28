@@ -103,14 +103,13 @@ calming effect? You know what I'm talking about, someone who shows up, and all
 of a sudden, all your fears are gone because you know he's going to take care of
 everything.
 
-**I'm that guy.**
+#### I'm that guy.
 
 My current boss describes me as his safety net. He knows that I can run the team
-in his absence, manage all the different personalities in the office, and get
+in his absence, manage the different personalities in the office, and get
 things done. Professional, competent, and reliable.
 
-
-### What am I working on?
+### My passion project
 The NextGen Wargame is a project that I started on my own initiative because I love
 wargames and designing one was a natural "next step" for me.  
 
@@ -121,4 +120,3 @@ practice in. The NextGen Wargame is designed to be that tool.
 {{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
 
 ## If you're interested in developing a useful game for the PME market please contact me.
-

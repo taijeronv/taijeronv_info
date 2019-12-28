@@ -16,10 +16,12 @@
   name = "Military Training"
   description = """ I talk a lot about classroom instruction but make no mistake, I feel just as comfortable in the field as I do in the classroom.  As a former Non-commissioned Officer I've spent my whole career training and leading.  If you're in need of a trainer then look no further."""  
 
+  
+
   [[feature]]
-  icon = "atom"
+  icon = "laptop"
   icon_pack = "fas"
-  name = "Operations"
-  description = """ In my current role as Team Operations, I plan patrols, manage assets and personnel, conduct security assessments, and plan team level operations.  I feel equally at home in the classroom, on staff, or operating in the field.  Luckily I have extensive experience in all of these environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""
+  name = "Information Technology"
+  description = """ I created this website using Hugo (static site generator), and I used markdown to generate the content.  For version control, I use Git/Github, and all my hosting is done on Netlify.  I possess many handy IT skills that cover a broad range of areas.  I may not be an expert in all of them, but I do know how to figure things out and get stuff done."""
 
  

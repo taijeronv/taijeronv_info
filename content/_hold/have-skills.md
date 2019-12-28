@@ -20,3 +20,16 @@
 - If the job were part-time the only way to make that work is to continue to
   live in Ukraine for the reasons I stated above.
 - The bottom line is I will go wherever I am needed.
+
+
+### What am I working on?
+The NextGen Wargame is a project that I started on my own initiative because I love
+wargames and designing one was a natural "next step" for me.  
+
+I believe we can improve the quality of military education by using computer
+wargames as a tool to add a dynamic operational environment for the student to
+practice in. The NextGen Wargame is designed to be that tool.  
+
+{{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
+
+## If you're interested in developing a useful game for the PME market please contact me.

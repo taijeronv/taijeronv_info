@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Knowledge, Skills, and Abilities"
 subtitle = ""
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "atom"
   icon_pack = "fas"
   name = "Military Operations"
-  description = """ Whether it's training the Afghan Police, patrolling Khowst province, or serving on a Brigade Staff, I can operate in all types of high-stress dynamic environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""  
+  description = """ Whether it's training the Afghan Police, patrolling in Khowst province, or serving on a Brigade Staff, I can operate in all types of high-stress dynamic environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""  
   
  [[feature]]
   icon = "user-tie"
@@ -39,13 +39,13 @@ subtitle = ""
   description = """ I believe professionalism is demonstrated through your actions and behavior. It's not enough to say, "I'm professional" you have to prove it every day. Always be professional no matter the circumstances or situation you find yourself."""
 
  [[feature]]
-  icon = "user-tie"
+  icon = "skull-crossbones"
   icon_pack = "fas"
   name = "Competence"
   description = """ Competence isn't just about being effective, it also means applying a high standard to everything you do.  Let the quality of your work speak for itself.  People who are competent and reliable cannot be ignored, they stand above all others.  Give me the opportunity to stand-out."""
 
 [[feature]]
-  icon = "user-tie"
+  icon = "check-square"
   icon_pack = "fas"
   name = "Reliability"
   description = """ People count on you to do your job, so do it.  Do not make excuses, find ways to overcome obstacles, and stay focused.  Reliable people that are also competent are a rare breed.  I can show you what it means to be both."""
