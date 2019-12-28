@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Monitor"
-  company = "International Monitoring Mission Ukraine"
+  company = "Organization for Security and Cooperation in Europe"
   company_url = ""
   location = "Odesa, Ukraine"
   date_start = "2014-09-25"
   date_end = ""
-  description = """Team Operations Officer"""
+  description = """I have been the team Ops Officer for over three years.  In that time I've planned several hundred patrols to include major team operations covering demonstrations and protests.  When the Team Leader is absent I assume their duties. """
 
   [[experience]]
   title = "Academic Developer"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Odesa, Ukraine"
   date_start = "2013-08-15"
   date_end = "2014-09-25"
-  description = """NATO PME Curriculum Developer"""
+  description = """I developed a curriculum based on small unit NATO operations for 3rd and 4th year cadets.  I also developed a block of instruction for the February 2014 Captains Advanced Course which I also taught."""
 
    [[experience]]
   title = "Police Mentor"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "FOB Salerno, Khowst, Afghanistan"
   date_start = "2011-06-01"
   date_end = "2013-08-15"
-  description = """Police mentor to a 10 man police squad."""
+  description = """I menntored, trained, and advised thee Afghan Uniformed Police checkpoints in the Khowst Province totaling 5 officers, 15 Non-commissioned Officers, and 50 enlisted patrol men.  On FOB Salerno I actively patroled with the Army while mentoring a unit of 10 AUP patrolmen."""
 
   [[experience]]
   title = "Simulation Center Manger"

@@ -26,11 +26,11 @@ subtitle = ""
   name = "Simulations and Gaming"
   description = """Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights into the use of games from observing thousands of cadets playing "Follow Me" and "Virtual Battlespace."  With my experience, I can guide any organization in implementing and integrating games into their program of instruction."""  
 
-[[feature]]
-  icon = "laptop"
+  [[feature]]
+  icon = "atom"
   icon_pack = "fas"
-  name = "Information Technology"
-  description = """ I created this website using Hugo (static site generator), and I used markdown to generate the content.  For version control, I use Git/Github, and all my hosting is done on Netlify.  I possess many handy IT skills that cover a broad range of areas.  I may not be an expert in all of them, but I do know how to figure things out and get stuff done."""  
+  name = "Military Operations"
+  description = """ Whether it's training the Afghan Police, patrolling Khowst province, or serving on a Brigade Staff, I can operate in all types of high-stress dynamic environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""  
   
  [[feature]]
   icon = "user-tie"
