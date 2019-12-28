@@ -87,6 +87,10 @@ Rather than wait until the last minute, I would like to start my transition as s
 as possible.
 
 **My Goals** 
+- In one year I would like to move from concept to playable demo with my passion project the NextGen Wargame.
+- In one year I would like to learn Javascript and be proficient enough to get an entry level job.
+- 
+**Objectives**
 - I'm seeking a full time opportunity with a solid company. 
 - I'm an obvious fit for the military sector (training, education, or operations)
   but if you're not in the mil sector that's fine. I believe my skills will work
@@ -95,7 +99,7 @@ as possible.
   conflict-zone if necessary. If relocating isn't necessary I can
   work remotely or part-time depending on the job.
 
-### Why should I hire you?
+### Why you should hire me
 Professional, competent, and reliable.
 
 Have you ever been in an organization where there was this one guy that had a

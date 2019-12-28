@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   date_end = "2014-09-24"
   description = """
   - Taught a NATO-based curriculum suitable for PME 1st through 4th year cadets.  
-  - I used the game Follow Me which is the same game we used at West Point as a teaching tool.  
-  - In February 2014 I created a block of instruction for the Captains Advance Course and was given permission to teach it as well."""
+  - I used the game Follow Me to provide an immersive environment for the cadets to practice in to further their understanding.
+  - I created a block of instruction for the Captains Advance Course to help them understand some basic principles of NATO warfighting."""
 
 [[item]]
   organization = "United States Military Academy"
