@@ -86,13 +86,13 @@ remain on the same mission for more than seven years. I have until September
 Rather than wait until the last minute, I would like to start my transition as soon
 as possible.
 
-**My Goals**  
+**My Goals** 
 - I'm seeking a full time opportunity with a solid company. 
-- I'm an obvious fit for the military sector (training, education, or operating)
+- I'm an obvious fit for the military sector (training, education, or operations)
   but if you're not in the mil sector that's fine. I believe my skills will work
-  in just about anywhere. Drop me a line and we can discuss it.
+  in other sectors as well. Drop me a line and we can discuss it.
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
-  conflict-zone if necessary. If relocating isn't necessary that's fine, I can
+  conflict-zone if necessary. If relocating isn't necessary I can
   work remotely or part-time depending on the job.
 
 ### Why should I hire you?
@@ -111,7 +111,7 @@ things done. Professional, competent, and reliable.
 
 
 ### What am I working on?
-[The NextGen Wargame](https://friendly-ritchie-374adc.netlify.com/) is a project that I started on my own initiative because I love
+The NextGen Wargame is a project that I started on my own initiative because I love
 wargames and designing one was a natural "next step" for me.  
 
 I believe we can improve the quality of military education by using computer
