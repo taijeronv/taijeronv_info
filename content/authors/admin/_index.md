@@ -69,37 +69,37 @@ Ukraine.
   the curriculum at the
   [Command and General Staff College](https://usacac.army.mil/organizations/cace/cgsc) at Fort Leavenworth, Kansas.
 
-### What have I been doing?
+## So what? Tell me what you've been doing lately
 
 {{< figure src="/img/shirokyne.jpg" caption="Members of the Azov Volunteer Battalion watch as we plan an ad-hoc mission into non-government controlled Shirokyne." >}}
 I am currently serving as the Team Operations Officer for the Odesa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The
 [Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member
 states in North America, Europe, and Asia. It is the world's largest
-regional security organization.  The OSCE SMMU is tasked to observe and report impartially and objectively on the situation in Ukraine.
+regional security organization.  
 
-### Have skills, will travel
+The OSCE SMMU is tasked to observe and report impartially and objectively on the
+situation in Ukraine.
+
 In OSCE, there is a time limit on how long you can stay. For example, you cannot
 remain on the same mission for more than seven years. I have until September
-2021 at which point I will hit my seven-year mark.
+2021 at which point I will hit my seven-year mark and must resign from OSCE.
 
-Rather than wait until the last minute, I would like to start my transition as soon
-as possible.
+## Have skills, will travel
+I do not want wait until my seven year mark I would like to prepare myself now and
+begin my transition.
 
-**My Goals** 
-- In one year I would like to move from concept to playable demo with my passion project the NextGen Wargame.
-- In one year I would like to learn Javascript and be proficient enough to get an entry level job.
-- 
 **Objectives**
-- I'm seeking a full time opportunity with a solid company. 
-- I'm an obvious fit for the military sector (training, education, or operations)
-  but if you're not in the mil sector that's fine. I believe my skills will work
-  in other sectors as well. Drop me a line and we can discuss it.
+- I'm seeking a full or part time opportunity with a professional company that will
+  utilize my many years of experience in their day to day operations.
+- I'm an obvious fit for the military sector (training, education, or
+  operations). I believe my skills will work in other sectors as well. Drop me a
+  line and we can discuss it.
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
   conflict-zone if necessary. If relocating isn't necessary I can
-  work remotely or part-time depending on the job.
+  work remotely or part time depending on the job.
 
-### Why you should hire me
+## Why you should hire me
 Professional, competent, and reliable.
 
 Have you ever been in an organization where there was this one guy that had a
@@ -107,13 +107,38 @@ calming effect? You know what I'm talking about, someone who shows up, and all
 of a sudden, all your fears are gone because you know he's going to take care of
 everything.
 
-#### I'm that guy.
-
+### I'm that guy.
 My current boss describes me as his safety net. He knows that I can run the team
 in his absence, manage the different personalities in the office, and get
 things done. Professional, competent, and reliable.
 
-### My passion project
+## Goals
+I have a number of personal and professional goals that I would like to accomplish in the next five years.
+
+### Personal Goals
+- In three months I would like to complete the software requirements and rules for my passion project NextGen Wargame (NGW)
+- In nine months I would like to have a playable demo.
+- In 18 months I would like to have a minimum viable product (MVP) that I can shop around to interested company's.
+
+### Professional Goals  
+I've always been interested in programming and creating software as a hobbyist
+but I think it's time to take these skills to a more professional level.
+
+I understand that I will need experience which is why I intend to complete the
+courses then volunteer doing pro bono work on a community project or for a small company.
+This is how I will build my portfolio of real world projects and gain some
+experience. Will it be enough? I don't know but I will enjoy it and the
+experience will be invaluable.
+
+The best part about learning these skills is that I can apply them to the NextGen
+Wargame.
+
+- In six months I want to complete a course on User Interface Design.  
+- In 18 months I'd like to complete a course on Javascript or Python.
+- In five years I would like to be managing the development of the NextGen
+  Wargame full time and see it in the hands of students and cadets.
+  
+## My passion project
 The NextGen Wargame is a project that I started on my own initiative because I love
 wargames and designing one was a natural "next step" for me.  
 
