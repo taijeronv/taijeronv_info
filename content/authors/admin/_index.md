@@ -116,6 +116,7 @@ things done. Professional, competent, and reliable.
 I have a number of personal and professional goals that I would like to accomplish in the next five years.
 
 ### Personal Goals
+- I would like to take my Russian to a B2 level in the next year.
 - In three months I would like to complete the software requirements and rules for my passion project NextGen Wargame (NGW)
 - In nine months I would like to have a playable demo.
 - In 18 months I would like to have a minimum viable product (MVP) that I can shop around to interested company's.
