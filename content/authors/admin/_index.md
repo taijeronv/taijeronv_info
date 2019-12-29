@@ -91,10 +91,9 @@ begin my transition.
 
 **Objectives**
 - I'm seeking a full or part time opportunity with a professional company that will
-  utilize my many years of experience in their day to day operations.
+  appreciate my years of experience and value my professionalism.
 - I'm an obvious fit for the military sector (training, education, or
-  operations). I believe my skills will work in other sectors as well. Drop me a
-  line and we can discuss it.
+  operations) and I believe my skills will work in other sectors as well.
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
   conflict-zone if necessary. If relocating isn't necessary I can
   work remotely or part time depending on the job.
