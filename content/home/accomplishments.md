@@ -18,33 +18,34 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Curriculum Developer"
-  organization_url = ""
-  title = "Senior Curriculum Developer Land forces Academy Odesa Ukraine"
-  url = ""
-  certificate_url = ""
-  date_start = "2013-08-15"
-  date_end = "2014-09-24"
-  description = """
-  - Taught a NATO-based curriculum suitable for PME 1st through 4th year cadets.  
-  - I used the game Follow Me to provide an immersive environment for the cadets to practice in to further their understanding.
-  - I created a block of instruction for the Captains Advance Course to help them understand some basic principles of NATO warfighting."""
+[[item]] 
+organization = "Organization for Security and Cooperation in Europe" 
+organization_url = "" 
+title ="Team Operations Officer" 
+url = ""
+certificate_url = "" 
+date_start = "2014-09-25" 
+date_end = ""
+description = """  """
 
-[[item]]
-  organization = "United States Military Academy"
-  organization_url = ""
-  title = "West Point Simulation Center Manager"
-  url = ""
-  certificate_url = ""
-  date_start = "2004-08-15"
-  date_end = "2011-06-15"
-  description = """
-  - Collaborated on the development of Follow Me and integrated into the tactics curriculum for the Department of Military Instruction.
-  - Made an agreement with Bohemia Interactive to become a beta-test site for Virtual Battlespace 2.  We eventually added it to the curriculum.
-  - Provided simulation support to the 1st year leadership course Behavioral Science and Leadership Department
-  - Designed a capstone simulation exercise for the Defense Strategic Studies major.
-  """
+[[item]] 
+organization = "Curriculum Developer" 
+organization_url = "" 
+title ="Senior Curriculum Developer Odesa Military Academy Ukraine" 
+url = ""
+certificate_url = "" 
+date_start = "2013-08-15" 
+date_end = "2014-09-24"
+description = """  
+When I first arrived at the academy, the staff and faculty were a bit skeptical
+about my presence there. I eventually gained the trust of one of the senior
+instructors who also happened to be my biggest opponent. I was there for a short
+time, but I made the most of it. I developed a program that I taught to 1st
+through 4th-year cadets. The focus was on small unit tactics at the platoon
+level. They learned NATO symbols, terminology, and the principles of offensive
+and defensive operations. What made it better is that I used Follow Me the game
+that I co-developed while at West Point, which enabled them to execute their
+plans in an immersive and dynamic operational environment."""
 
 [[item]]
   organization = "DynCorp International"
@@ -54,11 +55,31 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-06-16"
   date_end = "2013-08-15"
-  description = """
-  - I supported three different US Army Brigade Task Forces training and mentoring a unit of 10-13 Afghan Police.  
-  - I participated in over 100 foot patrols and an equal number of vehicle patrols observing, coaching, and mentoring my police unit.  
-  - I conducted several blocks of instruction on patrolling, first aid, marksmanship, and leadership.  
-  - In addition to my police unit I also trained and mentored 5 officers, 15 NCOs, and 50 enlisted police officers at three different police checkpoints."""
+  description = """  
+  I had a great to mentor a small unit of Afghan Police in the Khowst province
+  starting in 2011. I conducted training in first aid, site security,
+  patrolling, tactics, and a myriad of other tasks. I participated in several
+  patrols with them and could see they were applying what they'd been taught.
+  """
+  
+[[item]]
+  organization = "United States Military Academy"
+  organization_url = ""
+  title = "West Point Simulation Center Manager"
+  url = ""
+  certificate_url = ""
+  date_start = "2004-08-15"
+  date_end = "2011-06-15"
+  description = """  
+  In 2005 I was asked by the head of the Department of Military Instruction to
+  find a game that we could use as a tool to teach tactics. Follow Me was the
+  result of that search. I co-developed it with the creator of Decisive Action a
+  game that's been used at the Command and General Staff College since 2001. I
+  helped the department integrate Follow Me into the curriculum and we used it
+  to provide a realistic environment for the cadets to make platoon level
+  decisions in a tactical environment. We were so successful that other
+  departments wanted to use it for some of their entry level leadership
+  classes."""
 
 [[item]]
   organization = "Command and General Staff Officers Course"
@@ -68,9 +89,23 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2001-11-01"
   date_end = "2004-08-15"
-  description = """
- - Integrated the use of Decisive Action and TacOpsCav into CGSOC/ILE curriculum.
- - Created the scenario, order of battle, digital maps, and events list for the division level GAAT exercise.
- - Provided briefings to Senior Retired Officers in support of the Prairie Warrior Capstone Exercise."""
+  description = """  
+  I believe I had a huge impact while serving as a sims specialist at the
+  Command and General Staff College. After more than 18 years the college
+  continues to use Decisive Action. DA was a program that I helped integrate
+  into the staff officers course. At the time I was the only DA expert in the
+  entire world. Yes, entire world. Why? Mainly because I had been playing it
+  several months before I was hired to integrate it into the course. Decisive
+  Action is a commerical off the shelf game that was made available in 2001
+  before it was used in the college. I played it and even wrote a small guide to
+  use it. My experience with the game is why I was hired. One of my biggest
+  achievements was to use Decisive Action and TacOpsCav to run a division level.
+  The exercise was for the "Digital Division" and was supposed to use JCATS but
+  for some reason it was canned. The college turned to us to provide this one
+  staff group an exercise. As the primary DA guy, and TacOps for that matter, I
+  developed the unit database, "cut" and coded the maps, and setup both games.
+  It was a great success and we demonstrated how a game could replace a "real
+  sim" to support the college. In about a year or two the college turned
+  entirely to DA for their end of course capstone exercise. """
    
 +++

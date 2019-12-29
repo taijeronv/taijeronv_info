@@ -54,9 +54,9 @@ user_groups:
 
 Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
 joined the U.S. Army in 1981 at the age of 17. In 2001 after 20 years in the
-Army, I decided to transition to the civilian sector. In November 2001 I started a
-fantastic journey that would take me around the world and eventually to Odesa
-Ukraine.
+Army, I decided to transition to the civilian sector. In November 2001 I started
+a fantastic journey that would take me around the world where I would eventually
+land in Odesa Ukraine.
 
 - Monitoring the ongoing conflict in the [Donbass](https://en.wikipedia.org/wiki/Donbass) (Eastern Ukraine).
 - Teaching at the
@@ -81,63 +81,80 @@ regional security organization.
 The OSCE SMMU is tasked to observe and report impartially and objectively on the
 situation in Ukraine.
 
-In OSCE, there is a time limit on how long you can stay. For example, you cannot
-remain on the same mission for more than seven years. I have until September
-2021 at which point I will hit my seven-year mark and must resign from OSCE.
+In 2021 I will have to separate from OSCE because there is a seven year limit on
+how long you can be on the same mission.
 
 ## Have skills, will travel
-I do not want wait until my seven year mark I would like to prepare myself now and
+Rather than wait until my seven year mark I would like to prepare myself now and
 begin my transition.
 
 **Objectives**
-- I'm seeking a full or part time opportunity with a professional company that will
-  appreciate my years of experience and value my professionalism.
-- I'm an obvious fit for the military sector (training, education, or
-  operations) and I believe my skills will work in other sectors as well.
+- I'm seeking a full or part-time opportunity with a professional company that
+  will appreciate my years of experience and value my professionalism.
+- Although my skills are focused on the military sector (training, education, or
+  operations), I believe my skills will work in other industries as well.
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
-  conflict-zone if necessary. If relocating isn't necessary I can
-  work remotely or part time depending on the job.
+  Conflict-zone, if necessary. If relocating isn't required I can
+  work remotely or part-time depending on the job.
 
 ## Why you should hire me
 Professional, competent, and reliable.
 
-Have you ever been in an organization where there was this one guy that had a
-calming effect? You know what I'm talking about, someone who shows up, and all
-of a sudden, all your fears are gone because you know he's going to take care of
-everything.
+Have you ever been in an organization where there was this one guy that you
+could always count on? You know what I'm talking about, someone who shows up,
+and all of a sudden, all your fears are gone because you know he's going to take
+care of everything.
 
 ### I'm that guy.
+
 My current boss describes me as his safety net. He knows that I can run the team
 in his absence, manage the different personalities in the office, and get
 things done. Professional, competent, and reliable.
 
 ## Goals
-I have a number of personal and professional goals that I would like to accomplish in the next five years.
+I have several personal and professional goals that I would like to
+accomplish in the next five years.
 
 ### Personal Goals
-- I would like to take my Russian to a B2 level in the next year.
-- In three months I would like to complete the software requirements and rules for my passion project NextGen Wargame (NGW)
-- In nine months I would like to have a playable demo.
-- In 18 months I would like to have a minimum viable product (MVP) that I can shop around to interested company's.
+- In one year I'd like take my Russian to a B2 level.
+- In three months I would like to complete the software requirements and rules
+  for my passion project NextGen Wargame (NGW)
+- In nine months, I would like to have a playable demo.
+- In 18 months, I would like to have a minimum viable product (MVP) that I can
+  shop around to interested company's.
+
+What I'd really like is for a company to take an interest in my project and hire
+me to get it off the ground. I know the market, I know what right looks like,
+and I have the expertise to create something useful.
 
 ### Professional Goals  
-I've always been interested in programming and creating software as a hobbyist
-but I think it's time to take these skills to a more professional level.
+I've always been interested in programming, creating software, and web
+development.
 
-I understand that I will need experience which is why I intend to complete the
-courses then volunteer doing pro bono work on a community project or for a small company.
-This is how I will build my portfolio of real world projects and gain some
-experience. Will it be enough? I don't know but I will enjoy it and the
-experience will be invaluable.
+This website is an excellent example of my ability to learn new technologies on
+my own. I have absolutely zero formal education regarding web development or
+deployment.
 
-The best part about learning these skills is that I can apply them to the NextGen
-Wargame.
-
-- In six months I want to complete a course on User Interface Design.  
-- In 18 months I'd like to complete a course on Javascript or Python.
-- In five years I would like to be managing the development of the NextGen
-  Wargame full time and see it in the hands of students and cadets.
+These are some technologies that I learned while building this site:
+- I created the site using a static site generator called [Hugo](https://gohugo.io/).
+- All the content is written using [Markdown](https://www.markdownguide.org/). 
+- For version control, I use [Git](https://git-scm.com/) (command line), and I
+  use [Github](https://github.com/) to store my repository.
+- I host the site on [Netlify](https://www.netlify.com/) for free. 
+- I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
+  have two other domains registered with them.).  
   
+**Here are my tech goals:**
+- In six months I want to complete a course on User Interface Design.  
+- In one year I would like to complete a course on Frontend Development.
+- In 3-5 years I would like to be leading my own development team creating games
+  for education and training.
+
+**How will you gain experience?**  
+My plan is to do pro bono work for a community project or small
+company. And don't forget my passion project. My user design and frontend
+development skills can be applied to it as well.
+ 
 ## My passion project
 The NextGen Wargame is a project that I started on my own initiative because I love
 wargames and designing one was a natural "next step" for me.  
@@ -149,3 +166,4 @@ practice in. The NextGen Wargame is designed to be that tool.
 {{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
 
 ## If you're interested in developing a useful game for the PME market please contact me.
+
