@@ -81,10 +81,7 @@ regional security organization.
 Our mission is to observe and report impartially and objectively on the
 situation in Ukraine.
 
-<<<<<<< HEAD
-OSCE has a rule that says I cannot spend more than seven years on one mission.
-
-In 2021 I will reach that mark and be required to resign.
+OSCE has a rule that limits being in one mission for seven years my time will be up in 2021.
 
 ## Have skills, will travel
 Rather than wait until my seven year mark I would like to prepare myself now and
@@ -95,22 +92,6 @@ begin my transition as soon as possible.
   will appreciate my years of experience and value my professionalism.
 - I believe my skills will work in other industries even though they are
   concentrated in the military domain (training, education and operations).
-=======
-In OSCE, there is a time limit on how long you can stay. For example, you cannot
-remain on the same mission for more than seven years. I have until September
-2021 at which point I will hit my seven-year mark and must resign from OSCE.
-
-## Have skills, will travel
-I do not want wait until my seven year mark I would like to prepare myself now and
-begin my transition.
-
-**Objectives**
-- I'm seeking a full or part time opportunity with a professional company that will
-  utilize my many years of experience in their day to day operations.
-- I'm an obvious fit for the military sector (training, education, or
-  operations). I believe my skills will work in other sectors as well. Drop me a
-  line and we can discuss it.
->>>>>>> 12f0e4c0ed15d8afebb0e36a1f95355522a7f033
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
   conflict-zone if necessary. If relocating isn't necessary I can
   work remotely or part time depending on the job.
@@ -118,23 +99,24 @@ begin my transition.
 ## Why you should hire me
 Professional, competent, and reliable.
 
-Have you ever been in an organization where there was this one guy that had a
-calming effect? You know what I'm talking about, someone who shows up, and all
-of a sudden, all your fears are gone because you know he's going to take care of
-everything.
+Have you ever been in an organization where there was this one guy that always
+got things done? He shows up and all of a sudden, all your fears are gone
+because you know he's going to take care of everything.
 
-### I'm that guy.
+**I'm that guy.**
+
 My current boss describes me as his safety net. He knows that I can run the team
 in his absence, manage the different personalities in the office, and get
 things done. Professional, competent, and reliable.
 
 ## Goals
-I have a number of personal and professional goals that I would like to accomplish in the next five years.
+I have a number of personal and professional goals that I would like to
+accomplish in the next five years.
 
 ### Personal Goals
 - In one year I'd like take my Russian to a B2 level.
 - In three months I would like to complete the software requirements and rules
-  for my passion project NextGen Wargame (NGW)
+  for my passion project NextGen Wargame (NGW).
 - In nine months, I would like to have a playable demo.
 - In 18 months, I would like to have a minimum viable product (MVP) that I can
   shop around to interested company's.
@@ -143,43 +125,10 @@ What I'd really like is for a company to take an interest in my project and hire
 me to get it off the ground. 
 
 ### Professional Goals  
-I've always been interested in programming, creating software, and web
-development.
-
-This website is an excellent example of my ability to learn new technologies on
-my own. 
-
-This is what I used to create this site:
-- I created the site using a static site generator called [Hugo](https://gohugo.io/).
-- All the content is written using [Markdown](https://www.markdownguide.org/). 
-- For version control, I use [Git](https://git-scm.com/) (command line), and I
-  use [Github](https://github.com/) to store my repository.
-- I host the site on [Netlify](https://www.netlify.com/) for free. 
-- I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
-  have two other domains registered with them.).  
-  
-**My Tech Goals:**
-- In three months I would like to complete the software requirements and rules for my passion project NextGen Wargame (NGW)
-- In nine months I would like to have a playable demo.
-- In 18 months I would like to have a minimum viable product (MVP) that I can shop around to interested company's.
-
-### Professional Goals  
-I've always been interested in programming and creating software as a hobbyist
-but I think it's time to take these skills to a more professional level.
-
-I understand that I will need experience which is why I intend to complete the
-courses then volunteer doing pro bono work on a community project or for a small company.
-This is how I will build my portfolio of real world projects and gain some
-experience. Will it be enough? I don't know but I will enjoy it and the
-experience will be invaluable.
-
-The best part about learning these skills is that I can apply them to the NextGen
-Wargame.
-
 - In six months I want to complete a course on User Interface Design.  
-- In 18 months I'd like to complete a course on Javascript or Python.
-- In five years I would like to be managing the development of the NextGen
-  Wargame full time and see it in the hands of students and cadets.
+- In one year I would like to complete a course on Frontend Development.  
+- In 3-5 years I would like to be leading my own development team creating games
+  for education and training.
   
 ## My passion project
 The NextGen Wargame is a project that I started on my own initiative because I love
@@ -191,11 +140,8 @@ operational development provides a whole new learning opportunity.
 What better way to add an exciting and interesting way to learn tactical
 decision-making and problem-solving.
 
-<<<<<<< HEAD
 The NextGen Wargame is designed to be that tool.  
 
 {{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
 
-=======
->>>>>>> 12f0e4c0ed15d8afebb0e36a1f95355522a7f033
 ## If you're interested in developing a useful game for the PME market please contact me.
