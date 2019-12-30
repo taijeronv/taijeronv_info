@@ -78,21 +78,22 @@ Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://
 states in North America, Europe, and Asia. It is the world's largest
 regional security organization.  
 
-The OSCE SMMU is tasked to observe and report impartially and objectively on the
+Our mission is to observe and report impartially and objectively on the
 situation in Ukraine.
 
-In 2021 I will have to separate from OSCE because there is a seven year limit on
-how long you can be on the same mission.
+OSCE has a rule that says I cannot spend more than seven years on one mission.
+
+In 2021 I will reach that mark and be required to resign.
 
 ## Have skills, will travel
 Rather than wait until my seven year mark I would like to prepare myself now and
-begin my transition.
+begin my transition as soon as possible.
 
 **Objectives**
 - I'm seeking a full or part-time opportunity with a professional company that
   will appreciate my years of experience and value my professionalism.
-- Although my skills are focused on the military sector (training, education, or
-  operations), I believe my skills will work in other industries as well.
+- I believe my skills will work in other industries even though they are
+  concentrated in the military domain (training, education and operations).
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
   Conflict-zone, if necessary. If relocating isn't required I can
   work remotely or part-time depending on the job.
@@ -124,18 +125,16 @@ accomplish in the next five years.
   shop around to interested company's.
 
 What I'd really like is for a company to take an interest in my project and hire
-me to get it off the ground. I know the market, I know what right looks like,
-and I have the expertise to create something useful.
+me to get it off the ground. 
 
 ### Professional Goals  
 I've always been interested in programming, creating software, and web
 development.
 
 This website is an excellent example of my ability to learn new technologies on
-my own. I have absolutely zero formal education regarding web development or
-deployment.
+my own. 
 
-These are some technologies that I learned while building this site:
+This is what I used to create this site:
 - I created the site using a static site generator called [Hugo](https://gohugo.io/).
 - All the content is written using [Markdown](https://www.markdownguide.org/). 
 - For version control, I use [Git](https://git-scm.com/) (command line), and I
@@ -144,7 +143,7 @@ These are some technologies that I learned while building this site:
 - I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
   have two other domains registered with them.).  
   
-**Here are my tech goals:**
+**My Tech Goals:**
 - In six months I want to complete a course on User Interface Design.  
 - In one year I would like to complete a course on Frontend Development.
 - In 3-5 years I would like to be leading my own development team creating games
@@ -159,11 +158,14 @@ development skills can be applied to it as well.
 The NextGen Wargame is a project that I started on my own initiative because I love
 wargames and designing one was a natural "next step" for me.  
 
-I believe we can improve the quality of military education by using computer
-wargames as a tool to add a dynamic operational environment for the student to
-practice in. The NextGen Wargame is designed to be that tool.  
+A properly designed computer wargame that places the student in a dynamic
+operational development provides a whole new learning opportunity.
+
+What better way to add an exciting and interesting way to learn tactical
+decision-making and problem-solving.
+
+The NextGen Wargame is designed to be that tool.  
 
 {{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
 
 ## If you're interested in developing a useful game for the PME market please contact me.
-
