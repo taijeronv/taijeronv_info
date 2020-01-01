@@ -127,7 +127,7 @@ me to get it off the ground.
 ### Professional Goals  
 - In one year complete a course on Web Development and create a product website
   from the ground up.
-- In one year complete a course on game development and use the Phaser Framework
+- In one year complete a course on game development and use the [Phaser Framework](https://phaser.io/phaser3)
   to create the NextGen Wargame playable demo.
 - In 3-5 years I would like to be leading my own development team creating games
   for education and training.
@@ -167,4 +167,4 @@ also get to execute.
 
 {{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
 
-## If you're interested in developing a useful game for the PME market please contact me.
+## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
