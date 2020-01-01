@@ -61,7 +61,7 @@ Ukraine.
 - Monitoring the ongoing conflict in the [Donbass](https://en.wikipedia.org/wiki/Donbass) (Eastern Ukraine).
 - Teaching at the
   [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy)
-  in Odesa.
+  in Ukraine.
 - Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan.
 - Teaching cadets tactical decision-making at
   [The United States Military Academy](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) at West Point, New York.
@@ -124,7 +124,7 @@ accomplish in the next five years.
 What I'd really like is for a company to take an interest in my project and hire
 me to get it off the ground. 
 
-### Professional Goals  
+### Professional Goals
 - In one year complete a course on Web Development and create a product website
   from the ground up.
 - In one year complete a course on game development and use the [Phaser Framework](https://phaser.io/phaser3)
