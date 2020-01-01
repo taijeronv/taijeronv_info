@@ -81,11 +81,12 @@ regional security organization.
 Our mission is to observe and report impartially and objectively on the
 situation in Ukraine.
 
-OSCE has a rule that limits being in one mission for seven years my time will be up in 2021.
-
 ## Have skills, will travel
-Rather than wait until my seven year mark I would like to prepare myself now and
-begin my transition as soon as possible.
+OSCE has a rule that limits being in one mission for seven years. This means in
+2021, I have no choice but to resign from the organization.
+
+Rather than wait until the seven-year time limit, I would like to begin my
+transition as soon as possible.
 
 **Objectives**
 - I'm seeking a full or part-time opportunity with a professional company that
@@ -93,20 +94,20 @@ begin my transition as soon as possible.
 - I believe my skills will work in other industries even though they are
   concentrated in the military domain (training, education and operations).
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
-  conflict-zone if necessary. If relocating isn't necessary I can
-  work remotely or part time depending on the job.
+  conflict-zone if necessary. 
+- If relocating isn't necessary I can work remotely or part time depending on the job.
 
 ## Why you should hire me
 Professional, competent, and reliable.
 
 Have you ever been in an organization where there was this one guy that always
-got things done? He shows up and all of a sudden, all your fears are gone
-because you know he's going to take care of everything.
+got things done? You know what I'm talking about, he doesn't need supervision,
+always accomplishes his tasks, and does it to a high standard.
 
 **I'm that guy.**
 
 My current boss describes me as his safety net. He knows that I can run the team
-in his absence, manage the different personalities in the office, and get
+in his absence, manage all the personalities in the office, and get
 things done. Professional, competent, and reliable.
 
 ## Goals
@@ -117,30 +118,52 @@ accomplish in the next five years.
 - In one year I'd like take my Russian to a B2 level.
 - In three months I would like to complete the software requirements and rules
   for my passion project NextGen Wargame (NGW).
-- In nine months, I would like to have a playable demo.
-- In 18 months, I would like to have a minimum viable product (MVP) that I can
-  shop around to interested company's.
+- In one year, I would like to have a playable demo.
+- In 18 months, I would like to have a minimum viable product (MVP).
 
 What I'd really like is for a company to take an interest in my project and hire
 me to get it off the ground. 
 
 ### Professional Goals  
-- In six months I want to complete a course on User Interface Design.  
-- In one year I would like to complete a course on Frontend Development.  
+- In one year complete a course on Web Development and create a product website
+  from the ground up.
+- In one year complete a course on game development and use the Phaser Framework
+  to create the NextGen Wargame playable demo.
 - In 3-5 years I would like to be leading my own development team creating games
   for education and training.
   
 ## My passion project
 The NextGen Wargame is a project that I started on my own initiative because I love
-wargames and designing one was a natural "next step" for me.  
+wargames and designing one was a natural "next step."  
 
 A properly designed computer wargame that places the student in a dynamic
-operational development provides a whole new learning opportunity.
+operational environment provides an interesting and enjoyable way to
+learn.
 
-What better way to add an exciting and interesting way to learn tactical
-decision-making and problem-solving.
+This is my vision for the NextGen Wargame.
 
-The NextGen Wargame is designed to be that tool.  
+Concept:
+- The right level of detail, easy to play and understand.
+- Playable in a web browser, the operating system does not matter.
+- Explicitly designed as an education tool, NOT an exercise driver.
+- Designed by someone who plays games, has over 20 years of military experience,
+  AND who actually used games in a classroom setting (that's me).
+
+Benefits:
+- It enables the student to practice in a dynamic operational environment where
+  the enemy, terrain, and weather have an effect.
+- Quality practice. The ability to practice in a safe, no-risk environment.  
+- Experimentation. Imagine the learning that takes place when a student can
+  compare and contrast different courses of action or tactics.
+- Critical Analysis (AAR). Ability to watch a "replay" of the operation then
+  analyze it step-by-step. What went wrong, and why? What went right, and why?
+  What could be done better, and why? Well, you get the picture. WHY is arguably
+  the most essential part of learning to think.  
+
+The NextGen Wargame is NOT meant to replace paper-based Tactical Decision Games
+(TDGs). It is intended to enhance them and add an "execution" component to go
+along with the planning piece. Not only does the student get to plan, but they
+also get to execute.
 
 {{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
 

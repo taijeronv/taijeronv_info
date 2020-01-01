@@ -15,4 +15,4 @@ weight = 29
 
 +++
 
-My CV is available in [HTML](cv/) (Last updated: 28 December 2019)
+My CV is available in [HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: December 2019)
