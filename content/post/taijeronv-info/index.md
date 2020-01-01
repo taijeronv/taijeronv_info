@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Programming"
-subtitle: "Why I want to Code"
-summary: ""
+title: "How I created this page"
+subtitle: "Prelude to a career change."
+summary: "Act I"
 authors: []
 tags: []
 categories: []
-date: 2019-12-27T17:07:06+02:00
-lastmod: 2019-12-27T17:07:06+02:00
+date: 2020-01-01T19:01:07+02:00
+lastmod: 2020-01-01T19:01:07+02:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,22 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-Why do you want to learn programming?
-- Job opportunities
-- I think I could be good at it
-- It's useful
-- I want to create games
-
-What language do you want to learn?
-- Javascript because I need it for phaser and my websites
-- Python because I like it
-
-What are you doing about it?
-- Plan to enroll into a course
-- Youtube tutorials
-- Lots of reading and research
-
-
-
-
