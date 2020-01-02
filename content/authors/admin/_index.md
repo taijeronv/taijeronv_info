@@ -97,6 +97,8 @@ transition as soon as possible.
   conflict-zone if necessary. 
 - If relocating isn't necessary I can work remotely or part time depending on the job.
 
+My CV is available in [HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: December 2019)
+
 ## Why you should hire me
 Professional, competent, and reliable.
 
@@ -111,20 +113,6 @@ in his absence, manage all the personalities in the office, and get
 things done. Professional, competent, and reliable.
 
 ## Goals
-I have a number of personal and professional goals that I would like to
-accomplish in the next five years.
-
-### Personal Goals
-- In one year I'd like take my Russian to a B2 level.
-- In three months I would like to complete the software requirements and rules
-  for my passion project NextGen Wargame (NGW).
-- In one year, I would like to have a playable demo.
-- In 18 months, I would like to have a minimum viable product (MVP).
-
-What I'd really like is for a company to take an interest in my project and hire
-me to get it off the ground. 
-
-### Professional Goals
 - In one year complete a course on Web Development and create a product website
   from the ground up.
 - In one year complete a course on game development and use the [Phaser Framework](https://phaser.io/phaser3)
@@ -133,38 +121,10 @@ me to get it off the ground.
   for education and training.
   
 ## My passion project
-The NextGen Wargame is a project that I started on my own initiative because I love
+<a href="post/ngwargame/">The NextGen Wargame</a> is a project that I started on my own initiative because I love
 wargames and designing one was a natural "next step."  
 
-A properly designed computer wargame that places the student in a dynamic
-operational environment provides an interesting and enjoyable way to
-learn.
-
-This is my vision for the NextGen Wargame.
-
-Concept:
-- The right level of detail, easy to play and understand.
-- Playable in a web browser, the operating system does not matter.
-- Explicitly designed as an education tool, NOT an exercise driver.
-- Designed by someone who plays games, has over 20 years of military experience,
-  AND who actually used games in a classroom setting (that's me).
-
-Benefits:
-- It enables the student to practice in a dynamic operational environment where
-  the enemy, terrain, and weather have an effect.
-- Quality practice. The ability to practice in a safe, no-risk environment.  
-- Experimentation. Imagine the learning that takes place when a student can
-  compare and contrast different courses of action or tactics.
-- Critical Analysis (AAR). Ability to watch a "replay" of the operation then
-  analyze it step-by-step. What went wrong, and why? What went right, and why?
-  What could be done better, and why? Well, you get the picture. WHY is arguably
-  the most essential part of learning to think.  
-
-The NextGen Wargame is NOT meant to replace paper-based Tactical Decision Games
-(TDGs). It is intended to enhance them and add an "execution" component to go
-along with the planning piece. Not only does the student get to plan, but they
-also get to execute.
-
-{{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}
+The idea is to create a wargame for the classroom. It will be easy to play and
+understand and delivered through a web browser.
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).

@@ -24,11 +24,6 @@ url = "#posts"
 weight = 30
 
 [[main]]
-name = "Resume"
-url = "#cv"
-weight = 35
-
-[[main]]
 name = "Contact"
 url = "#contact"
 weight = 40
