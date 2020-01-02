@@ -49,3 +49,5 @@ The NextGen Wargame is NOT meant to replace paper-based Tactical Decision Games
 (TDGs). It is intended to enhance them and add an "execution" component to go
 along with the planning piece. Not only does the student get to plan, but they
 also get to execute.
+
+## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).

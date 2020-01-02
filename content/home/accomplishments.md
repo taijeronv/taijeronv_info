@@ -31,16 +31,10 @@ I served for seven months in Eastern Ukraine, patrolling non-government
 controlled areas. On one occasion, I participated in a patrol that spent the
 night in Shirokyne, a highly contested town by both sides. 
 
-Our mission was to
-determine the feasibility of conducting 24-hour operations in the conflict zone.
-The patrol was a success, but we never got permission to do it again. 
-
-In 2015 I was redeployed to the Odesa Monitoring Team. I monitored the
-demobilization of military personnel returning from the conflict zone. Shortly
-after arriving at the team, I took over as the team operations officer. The most
-significant impact I've made is applying my military experience to our daily
-operations. I conduct security assessments of our AO, act as team leader when
-necessary, manage personnel and assets, and make sure things get done."""
+Our mission was to determine the feasibility of conducting 24-hour operations in
+the conflict zone. The patrol was a success, but we never got permission to do
+it again.
+"""
 
 [[item]] 
 organization = "Curriculum Developer" 
@@ -51,11 +45,6 @@ certificate_url = ""
 date_start = "2013-08-15" 
 date_end = "2014-09-24"
 description = """  
-When I first arrived at the academy, the staff and faculty were a bit skeptical
-about my presence there. In the beginning, one of the senior instructors was
-very vocal about my teaching but, after a couple months, he became my biggest
-supporter. 
-
 I developed a program for 3rd and 4th-year cadets that I also taught.
 The focus was on small unit tactics at the platoon level. I taught them NATO
 symbols, terminology, and the principles of offensive and defensive platoon
@@ -69,42 +58,39 @@ where they made mistakes. The faculty was so impressed they wanted me to develop
 additional classes and expand my program of instruction."""
 
 [[item]]
-  organization = "DynCorp International"
-  organization_url = ""
-  title = "Afghan Police Mentor"
-  url = ""
-  certificate_url = ""
-  date_start = "2011-06-16"
-  date_end = "2013-08-15"
-  description = """  
-  I mentored a small unit of 10 Afghan Police in Khowst province who were
-  attached to a US Army brigade. 
+organization = "DynCorp International"
+organization_url = ""
+title = "Afghan Police Mentor"
+url = ""
+certificate_url = ""
+date_start = "2011-06-16"
+date_end = "2013-08-15"
+description = """  
+I mentored a small unit of 10 Afghan Police in Khowst province who were
+attached to a US Army brigade. 
   
-  My police unit and I supported the brigade's security operations around FOB
-  Salerno and the outlying areas. The Army unit was very thankful that I was
-  there to provide training and mentoring to the police.
-  
-  One of my projects was to develop a two-week orientation course that taught
-  the police how to operate with US Army units. Among other things, they learned
-  first aid, battle drills, terminology, and planning. All of the members
-  successfully completed the course. They were very enthusiastic about the
-  training and said it helped them understand what was going on while on patrol,
-  which was my intent. """
-  
+One of my projects was to develop a two-week orientation course that taught
+the police how to operate with US Army units. Among other things, they learned
+first aid, battle drills, terminology, and planning. 
+
+All of the members successfully completed the course. They were very
+enthusiastic about the training and said it helped them understand what was
+going on while on patrol, which was my intent. """
+
 [[item]]
-  organization = "United States Military Academy"
-  organization_url = ""
-  title = "West Point Simulation Center Manager"
-  url = ""
-  certificate_url = ""
-  date_start = "2004-08-15"
-  date_end = "2011-06-15"
-  description = """  
-  In 2006 I was asked by the head of the Department of Military Instruction
-  (DMI) to find a game that we could use as a tool to teach tactics. Follow Me
-  was the result of that search. I contacted the creator of Decisive Action, and
-  together we collaborated on Follow Me. Decisive Action is the game that I used
-  at the Command and General Staff College.
+organization = "United States Military Academy"
+organization_url = ""
+title = "West Point Simulation Center Manager"
+url = ""
+certificate_url = ""
+date_start = "2004-08-15"
+date_end = "2011-06-15"
+description = """  
+In 2006 I was asked by the head of the Department of Military Instruction
+(DMI) to find a game that we could use as a tool to teach tactics. Follow Me
+was the result of that search. I contacted the creator of Decisive Action, and
+together we collaborated on Follow Me. Decisive Action is the game that I used
+at the Command and General Staff College.
 
 I integrated Follow Me into the DMI tactics curriculum, and we used it to
 provide a realistic operational environment to make platoon level tactical
@@ -119,38 +105,33 @@ learning experience before they went to the field. The feedback from the
 department was excellent, and VBS2 has used in different ways ever since. """
 
 [[item]]
-  organization = "Command and General Staff Officers Course"
-  organization_url = ""
-  title = "Simulation Specialist"
-  url = ""
-  certificate_url = ""
-  date_start = "2001-11-01"
-  date_end = "2004-08-15"
-  description = """  
+organization = "Command and General Staff Officers Course"
+organization_url = ""
+title = "Simulation Specialist"
+url = ""
+certificate_url = ""
+date_start = "2001-11-01"
+date_end = "2004-08-15"
+description = """  
 One of my most significant achievements was to assist in the development of a
 division-level staff exercise that used Decisive Action and TacOps.  
 
 The Digital Division staff group was supposed to use JCATS, but for some reason,
 it was not available.
 
-The college turned to the sims team for support. While the other staff groups
-did the "Prairie Warrior" exercise, we used two commercial games, Decisive
-Action and TacOps, as the "simulation" for the Digital Division exercise. We
-worked very closely with the
+The college turned to the sims team for support. We worked very closely with the
 [Functional Area 57's](https://www.csiac.org/certification/u-s-army-functional-area-57-fa57/)
 Army officers that specialize in simulations and modeling to design the  
 exercise.
 
-I suggested we use Decisive Action for most of the operations and TacOps for
-select brigade operations. My contribution to the exercise was to create the
-maps, unit database, and set up the game.  
+We uses Decisive Action for most of the operations and I recommended TacOps for
+select brigade operations. I created most of the content for both games maps,
+unit database, and set up the game.  
 
-Every student was actively engaged during the exercise, not just sitting around
-doing nothing. We had the division staff group, three brigade staffs, and some
-students helping to "play" the game. Our sims team successfully supported a
-major exercise using nothing more than a $40 game.
+We had the division staff group, three brigade staffs, and some students helping
+to "play" the game. Our sims team successfully supported a major exercise using
+nothing more than two games worth about $70 total.
 
 The exercise was such a success that by the time I left in 2004, Decisive Action had
 become the primary simulation for 16 individual division staff exercises. """
-   
 +++

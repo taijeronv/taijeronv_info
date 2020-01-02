@@ -28,7 +28,7 @@ bio: Available immediately.
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:taijeronv@gmail.com"
+  link: "mailto:vincent.taijeron@gmail.com"
   # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # icon: twitter
 #  icon_pack: fab
@@ -76,12 +76,12 @@ I am currently serving as the Team Operations Officer for the Odesa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The
 [Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member
 states in North America, Europe, and Asia. It is the world's largest
-regional security organization.  
+regional security organization.
 
 Our mission is to observe and report impartially and objectively on the
 situation in Ukraine.
 
-## Have skills, will travel
+## Have Skills, Will Travel
 OSCE has a rule that limits being in one mission for seven years. This means in
 2021, I have no choice but to resign from the organization.
 
@@ -94,37 +94,19 @@ transition as soon as possible.
 - I believe my skills will work in other industries even though they are
   concentrated in the military domain (training, education and operations).
 - I am willing to relocate to the US, Europe, Middle East, Africa, or
-  conflict-zone if necessary. 
+  conflict-zone if necessary.
 - If relocating isn't necessary I can work remotely or part time depending on the job.
 
 My CV is available in [HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: December 2019)
 
-## Why you should hire me
-Professional, competent, and reliable.
-
-Have you ever been in an organization where there was this one guy that always
-got things done? You know what I'm talking about, he doesn't need supervision,
-always accomplishes his tasks, and does it to a high standard.
-
-**I'm that guy.**
-
-My current boss describes me as his safety net. He knows that I can run the team
-in his absence, manage all the personalities in the office, and get
-things done. Professional, competent, and reliable.
-
-## Goals
+## Personal Goals
 - In one year complete a course on Web Development and create a product website
   from the ground up.
 - In one year complete a course on game development and use the [Phaser Framework](https://phaser.io/phaser3)
   to create the NextGen Wargame playable demo.
 - In 3-5 years I would like to be leading my own development team creating games
   for education and training.
-  
-## My passion project
+
+## My Passion Project
 <a href="post/ngwargame/">The NextGen Wargame</a> is a project that I started on my own initiative because I love
-wargames and designing one was a natural "next step."  
-
-The idea is to create a wargame for the classroom. It will be easy to play and
-understand and delivered through a web browser.
-
-## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
+wargames and designing one was a natural "next step."
