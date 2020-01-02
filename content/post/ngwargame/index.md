@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ngwargame"
-subtitle: ""
+title: "NextGen Wargame"
+subtitle: "Easy, useful, and relevant"
 summary: ""
-authors: []
+authors: [TJ]
 tags: []
 categories: []
 date: 2020-01-02T06:36:02+02:00
@@ -15,9 +15,9 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
+image: 
+  caption: "Battalion scouts lead Alpha Co. towards two unknown enemy positions."
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -49,5 +49,3 @@ The NextGen Wargame is NOT meant to replace paper-based Tactical Decision Games
 (TDGs). It is intended to enhance them and add an "execution" component to go
 along with the planning piece. Not only does the student get to plan, but they
 also get to execute.
-
-{{< figure src="/img/ngw-1.jpg" caption="Battalion scouts lead Alpha Co. towards two unknown enemy units." >}}

@@ -27,16 +27,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## Caveat
-- I still want to work in the military domain
-- I don't see it as a "hard" change I see it as another way to contribute to the mil domain
-- What I learn in my new career can be used in the mildomain.
-  
-## Why do you want to change careers?
-- Time for a change
-- Learn new skills
-- Opportunity to work remotely
-- Skills apply to my passion project
+I'm not sure I would call it a career change, because I have no problem staying in a more traditional military sector job like training or operations.
+
+My main motivation is to leverage these skill into my more creative side.
+
+So, if you're considering me for a position as a trainer or operations there's
+no need for concern I will perform as I usually do. 
 
 ## What do you want to learn?
 - <i class="fab fa-js fa-sm"></i> Javascript
@@ -44,7 +40,31 @@ projects: []
 - <i class="fab fa-html5 fa-sm"></i> HTML5
 - <i class="fab fa-css3 fa-sm"></i> CSS3
 
+## Why do you want to learn these skills?
+I've always been interested in programming, especially games. Years ago I tried
+to learn but I would get stuck and I didn't know how to find solutions to my
+problems. At first it was C++, then I discovered Delphi, and now my interest is
+in the net.
+
+I don't like, I see these skills as another way to ensure my employability.  Operating in the military domain will always be my first love but more and more those jobs have more competition.  Younger guys with more experience due to our operations in Afghanistan and Iraq have flooded the market.  While my sims skills are exceptional it is a niche skill that sometimes isn't in demand.  If I can add some additional skills to my Resume and gaine the appropriate level of experience I will be that much more marketable.
+
+There's another side to this that interest me.  The ability to work remotely.  I understand that working from home isn't always an option but with some company's it's welcomed with open arms.  If I can get in with that company them I can live where I want.
+
+Another benefit is the possibility of creating my own software shop.  Yeah, I know the gaming piece is very competitive but how many software shops have my experience or vision? None, that  ican think of.
+
 ## How do you intend to learn that stuff
+I admit learning these skills won't happen overnight but you gotta start some time.
+
+I thought about a bootcamp but it's a lot of money to lay down at least right now.
+
+So here's my plan.
+
+I've done a lot of research that suggest getting a job as a web developer depends more on your portfolio, but not some bootcamp portfolio a real one for real people.
+
+I'm going to start with Udemy.  Yeah, I know maybe not the best platform to start with but it's accessible and the price is right.  Besides, I've thoroughly researched the courses I want to take and they come highly recommended.  I did  most of my research on Reddit from people that have taken the course.
+
+
+
 - A little bit at a time
 - Udemy courses
 - Supplemented by additional online course when necessary
