@@ -9,21 +9,6 @@
   weight = 10
 
 [[main]]
-name = "Skills"
-url = "#skills"
-weight = 15
-
-[[main]]
-name = "Accomplishments"
-url = "#accomplishments"
-weight = 20
-
-[[main]]
-name = "Posts"
-url = "#posts"
-weight = 30
-
-[[main]]
 name = "Contact"
 url = "#contact"
 weight = 40

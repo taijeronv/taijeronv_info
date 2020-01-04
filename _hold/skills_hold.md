@@ -24,4 +24,17 @@
   name = "Information Technology"
   description = """ I created this website using Hugo (static site generator), and I used markdown to generate the content.  For version control, I use Git/Github, and all my hosting is done on Netlify.  I possess many handy IT skills that cover a broad range of areas.  I may not be an expert in all of them, but I do know how to figure things out and get stuff done."""
 
+  ## Why you should hire me
+Professional, competent, and reliable.
+
+Have you ever been in an organization where there was this one guy that always
+got things done? You know what I'm talking about, he doesn't need supervision,
+always accomplishes his tasks, and does it to a high standard.
+
+**I'm that guy.**
+
+My current boss describes me as his safety net. He knows that I can run the team
+in his absence, manage all the personalities in the office, and get
+things done. Professional, competent, and reliable.
+
  
