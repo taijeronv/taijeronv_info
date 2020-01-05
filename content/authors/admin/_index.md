@@ -58,13 +58,25 @@ user_groups:
 - Visitors
 ---
 
-Hello my name is TJ and I'm originally from the island of Guam. I've done some
-time in "boots" which means I spent a little but of time, 20 years in the US
-Army.  Don't worry though I'm laid back as ever.
+Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
+joined the U.S. Army in 1981 at the age of 17. I like doing mind maps,
+sometimes I play Eve, and someday I'd like to be a web developer.
 
-I've been living and working in Ukraine since 2013.
+Additional Highlights:  
+- Seven months monitoring the ongoing conflict in the [Donbass](https://en.wikipedia.org/wiki/Donbass) (Eastern Ukraine).
+- Teaching at the
+  [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy)
+  in Ukraine.
+- Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan.
+- Teaching cadets tactical decision-making at
+  [The United States Military Academy](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) at West Point, New York.
+
+I am currently serving as the Team Operations Officer for the Odesa Monitoring
+Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 
 I really, really, want to break into game development but delivered over the  
-internet. I have a passion project called the NextGen Wargame that I would love
+internet. I have a passion project called <a href="post/ngwargame/">The NextGen Wargame</a> that I would love
 to see in hands of students.
 
+and I created this website using the 
+<a href="post/taijeronv-info/">Hugo</a>. 

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "How I created this page"
-subtitle: "Prelude to a career change."
-summary: "Act I"
+title: "How I Created my Website"
+subtitle: "Always learning new things."
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -27,12 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I've always been interested in programming, creating software, and web
-development.
+I created this website without any knowledge of web development and I think it
+turned out pretty good.
 
-My transition out of OSCE gave me the perfect opportunity to create a website.
-
-This is what I used to create this site:
+These are some of the technologies I had to learn:
 - I created the site using a static site generator called [Hugo](https://gohugo.io/).
 - All the content is written using [Markdown](https://www.markdownguide.org/). 
 - For version control, I use [Git](https://git-scm.com/) (command line), and I
@@ -41,10 +39,23 @@ This is what I used to create this site:
 - I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
   have two other domains registered with them.).
 
-## Why did you create this site?
-- Branding
-- Because I love "tinkering"
-- It was easy
-- I never heard of a static generator and wanted to know what the fuss was about.
+On my first try I started with [Jekyll](https://jekyllrb.com/) but I could never
+get a theme to work. I did more research about
+[static site generators](https://www.staticgen.com/) and discovered Hugo.
 
+Mike Dane's Hugo series is really good if you're interested in giving it a try.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtIqKaDlqXo"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>  
+
+I'm going to take what I learned setting up my Hugo website and take it to the
+next level. 
+
+My plan is to start with Colt Steele's
+[The Web Develeoper Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+and Jonas Schmedtmann's
+[The complete Javascriot Course 2020: Build Real Projects](https://www.udemy.com/course/the-complete-javascript-course/)
+come highly recommended. I'm going to take what I learn from these courses and
+build two websites, one for a local landscaping company, and the other for my
+own project NextGen Wargame.
