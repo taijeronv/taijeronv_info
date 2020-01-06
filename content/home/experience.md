@@ -24,7 +24,11 @@ date_format = "Jan 2006"
   location = "Odesa, Ukraine"
   date_start = "2014-09-25"
   date_end = ""
-  description = """I have been the team Ops Officer for over three years.  In that time I've planned several hundred patrols to include major team operations covering demonstrations and protests.  When the Team Leader is absent I assume their duties. """
+  description = """  
+  I have been the team Ops Officer for over three years. In that time I've
+  planned several hundred patrols to include major team operations covering
+  demonstrations and protests. When the Team Leader is absent I assume their
+  duties. """
 
   [[experience]]
   title = "Academic Developer"
@@ -33,7 +37,10 @@ date_format = "Jan 2006"
   location = "Odesa, Ukraine"
   date_start = "2013-08-15"
   date_end = "2014-09-25"
-  description = """I developed a curriculum based on small unit NATO operations for 3rd and 4th year cadets.  I also developed a block of instruction for the February 2014 Captains Advanced Course which I also taught."""
+  description = """  
+  I developed a curriculum based on small unit NATO operations for 3rd and 4th
+  year cadets that furthered their understanding of how a NATO infantry platoon
+  operates."""
 
    [[experience]]
   title = "Police Mentor"
@@ -42,7 +49,11 @@ date_format = "Jan 2006"
   location = "FOB Salerno, Khowst, Afghanistan"
   date_start = "2011-06-01"
   date_end = "2013-08-15"
-  description = """I menntored, trained, and advised thee Afghan Uniformed Police checkpoints in the Khowst Province totaling 5 officers, 15 Non-commissioned Officers, and 50 enlisted patrol men.  On FOB Salerno I actively patroled with the Army while mentoring a unit of 10 AUP patrolmen."""
+  description = """  
+  I created a two-week induction course on subjects like first aid, patrolling,
+  leadership, and planning. This induction course enabled my ten-man
+  police unit to operate with US Army units more efficiently and tactically
+  because they understood what was going on."""
 
   [[experience]]
   title = "Simulation Center Manger"
@@ -51,7 +62,12 @@ date_format = "Jan 2006"
   location = "West Point, NY"
   date_start = "2004-08-15"
   date_end = "2011-06-15"
-  description = """Simulation center manager."""
+  description = """  
+  I co-developed the "Follow Me" program, which was designed as a tool to teach
+  light infantry platoon operations. I integrated it into the 3rd and 4th-year
+  military education curriculum, which allowed the cadets to execute platoon
+  missions in a dynamic operational environment giving them a more in-depth
+  experiential learning experience."""
 
    [[experience]]
   title = "Simulation Specialist"
@@ -60,5 +76,12 @@ date_format = "Jan 2006"
   location = "Fort Leavenworth, KS"
   date_start = "2001-11-15"
   date_end = "2004-08-15"
-  description = """Simulation specialist."""
+  description = """  
+  I was the main integrator for a program called Decisive Action. In my first
+  year our sims team used Decisive Action and TacOps to run a
+  division-level staff exercise. Proved that a $40 game could replace a
+  multi-million dollar simulation as the primary drive for an exercise. By the
+  time I left in 2004 we were running 16 division staff exercises using Decisive
+  Action."""
+
 +++

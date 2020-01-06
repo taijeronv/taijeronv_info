@@ -30,18 +30,18 @@ projects: []
 I created this website without any knowledge of web development and I think it
 turned out pretty good.
 
-These are some of the technologies I had to learn:
-- I created the site using a static site generator called [Hugo](https://gohugo.io/).
-- All the content is written using [Markdown](https://www.markdownguide.org/). 
-- For version control, I use [Git](https://git-scm.com/) (command line), and I
-  use [Github](https://github.com/) to store my repository.
-- I host the site on [Netlify](https://www.netlify.com/) for free. 
-- I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
+These are some of the technologies I had to learn:  
+<i class="fas fa-chevron-circle-right fa-m"></i> I created the site using a static site generator called [Hugo](https://gohugo.io/).  
+<i class="fas fa-chevron-circle-right fa-m"></i> All the content is written using [Markdown](https://www.markdownguide.org/).  
+<i class="fas fa-chevron-circle-right fa-m"></i> For version control, I use [Git](https://git-scm.com/) (command line), and I
+  use [Github](https://github.com/) to store my repository.  
+<i class="fas fa-chevron-circle-right fa-m"></i> I host the site on [Netlify](https://www.netlify.com/) for free.  
+<i class="fas fa-chevron-circle-right fa-m"></i> I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
   have two other domains registered with them.).
 
 On my first try I started with [Jekyll](https://jekyllrb.com/) but I could never
 get a theme to work. I did more research about
-[static site generators](https://www.staticgen.com/) and discovered Hugo.
+[static site generators](https://www.staticgen.com/) and discovered [Hugo](https://gohugo.io/).
 
 Mike Dane's Hugo series is really good if you're interested in giving it a try.
 
@@ -49,7 +49,7 @@ Mike Dane's Hugo series is really good if you're interested in giving it a try.
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>  
 
-I'm going to take what I learned setting up my Hugo website and take it to the
+I'm going to take what I learned setting up my Hugo website and go to the
 next level. 
 
 My plan is to start with Colt Steele's
