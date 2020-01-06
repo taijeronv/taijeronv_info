@@ -69,23 +69,27 @@ piece.
   the most essential part of learning to think.  
 
 ## Tell me about the NextGen Wargame
-Concept:
+The NextGen Wargame is a computer wargame that can be played in a web browser
+and is delivered over the internet. I chose the computer "format" because it's
+easier and faster to play than a manual game. Don't get me wrong I think
+"analog" games are great but only under the right conditions.
+
+**The NextGen Wargame**
 - The right level of detail, easy to play and understand.
 - Playable in a web browser, the operating system does not matter.
-- Explicitly designed as an education tool, NOT an exercise driver.
+- Specifically designed as an education tool, NOT an exercise driver.
 - Designed by someone who plays games, has over 20 years of military experience,
   AND who actually used games in a classroom setting (that's me).
 
 I should say something about that last point. Just because you're a gamer, or
-someone with military experience doesn't mean you will know what is required
-from a PME wargame. 
+someone with military experience doesn't mean you will be an expert at
+what's required to make a good learning tool.
 
-I have a unique blend of skills and experience when it comes to using games in
-the classroom. I've developed lessons, created content, and written
-requirements. 
-
-More importantly I've used the very product that I helped develop
-in a real world classroom. I'm not speaking from theory or something I observed
-someone else doing, I'm speaking from experience.
+I've observed and taught thousands of cadets using games like Follow Me and
+Virtual Battlespace in the classroom. I'm not exaggertaing when I say thousands.
+When I say "whole classes" I mean by year for example class of 2007. A
+graduating class may consist of 900 to a 1000 cadets. Basic training classes are
+typically more than 1000 cadets. This is what I mean by "thousands." I'm not
+including underclassmen for example the 3rd year classes.
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
