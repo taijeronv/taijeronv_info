@@ -33,20 +33,20 @@ subtitle = ""
   description = """ Whether it's training the Afghan Police, patrolling in Khowst province, or serving on a Brigade Staff, I can operate in all types of high-stress dynamic environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""  
   
  [[feature]]
-  icon = "map-marked-alt"
+  icon = "user-tie"
   icon_pack = "fas"
-  name = "Mind maps"
-  description = """ I love using [mind maps](https://www.lifehack.org/articles/work/how-to-mind-map-in-three-small-steps.html) to organize my thoughts and ideas."""
+  name = "Profssionalism"
+  description = """ I believe professionalism is demonstrated through your actions and behavior. It's not enough to say, "I'm professional" you have to prove it every day. Always be professional no matter the circumstances or situation you find yourself."""
 
  [[feature]]
-  icon = "rocket"
+  icon = "skull-crossbones"
   icon_pack = "fas"
-  name = "Eve online"
-  description = """ In my spare time I enjoy playing [Eve Online](https://www.eveonline.com/) which is a space themed Massive Multiplayer Online game """
+  name = "Competence"
+  description = """ Competence isn't just about being effective, it also means applying a high standard to everything you do.  Let the quality of your work speak for itself.  People who are competent and reliable cannot be ignored, they stand above all others.  Give me the opportunity to stand-out."""
 
 [[feature]]
   icon = "check-square"
   icon_pack = "fas"
-  name = "Javascript Game Programming"
-  description = """I've come to the conclusion that I may have to develop my passion project all on my own.  With that in mind I've been doing tutorials on games programming using the [Phaser framework](https://phaser.io/) for creating JS games."""
+  name = "Reliability"
+  description = """ People count on you to do your job, so do it.  Do not make excuses, find ways to overcome obstacles, and stay focused.  Reliable people that are also competent are a rare breed.  I can show you what it means to be both."""
 +++
