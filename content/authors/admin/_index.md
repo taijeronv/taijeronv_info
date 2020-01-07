@@ -59,24 +59,15 @@ user_groups:
 ---
 
 Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
-joined the U.S. Army in 1981 at the age of 17. I like doing mind maps,
-sometimes I play Eve, and someday I'd like to be a web developer.
+joined the U.S. Army in 1981 at the age of 17.  
 
-Additional Highlights:  
-- Seven months monitoring the ongoing conflict in the [Donbass](https://en.wikipedia.org/wiki/Donbass) (Eastern Ukraine).
-- Teaching at the
-  [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy)
-  in Ukraine.
-- Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan.
-- Teaching cadets tactical decision-making at
-  [The United States Military Academy](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) at West Point, New York.
+Hi my name is TJ and I specialize in military training and education using games
+and simulations. I'm very good at what I do, one might say I have a talent for it.
 
-I am currently serving as the Team Operations Officer for the Odesa Monitoring
+At the moment I'm serving as the Team Operations Officer for the Odesa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 
-I really, really, want to break into game development but delivered over the  
-internet. I have a passion project called <a href="post/ngwargame/">The NextGen Wargame</a> that I would love
-to see in hands of students.
-
-and I created this website using the 
-<a href="post/taijeronv-info/">Hugo</a>. 
+I have a keen interest in web technology which is why <a href="post/taijeronv-info">I created this website</a>.  
+In my spare time I'm taking courses in Frontend Development and Game Programming so I
+can start developing my passion project the <a href="post/ngwargame">NextGen
+Wargame</a>.

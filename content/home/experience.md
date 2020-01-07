@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2014-09-25"
   date_end = ""
   description = """  
-  I have been the team Ops Officer for over three years. In that time I've
-  planned several hundred patrols to include major team operations covering
-  demonstrations and protests. When the Team Leader is absent I assume their
-  duties. """
+  I plan all major team level operations covering large demonstrations. My
+  military experience is invaluable in this process and ensures the safety of my
+  team members. I also write reports regarding the demobilization of the
+  military which contributes to creating situational awareness."""
 
   [[experience]]
   title = "Academic Developer"
@@ -38,9 +38,13 @@ date_format = "Jan 2006"
   date_start = "2013-08-15"
   date_end = "2014-09-25"
   description = """  
-  I developed a curriculum based on small unit NATO operations for 3rd and 4th
-  year cadets that furthered their understanding of how a NATO infantry platoon
-  operates."""
+  I developed a curriculum for the 3rd-year cadets that significantly improved
+  their knowledge of how small units in NATO operate. The focus of the
+  curriculum was on infantry platoon offensive and defensive operations. I also
+  implemented the Follow Me program, which provided the cadets an opportunity to
+  execute platoon operations in a dynamic operational environment. Follow Me
+  gave the cadets a chance to practice tactical decision-making and
+  problem-solving."""
 
    [[experience]]
   title = "Police Mentor"
@@ -50,10 +54,11 @@ date_format = "Jan 2006"
   date_start = "2011-06-01"
   date_end = "2013-08-15"
   description = """  
-  I created a two-week induction course on subjects like first aid, patrolling,
-  leadership, and planning. This induction course enabled my ten-man
-  police unit to operate with US Army units more efficiently and tactically
-  because they understood what was going on."""
+  I created a two-week induction course focused on giving my ten-man police unit
+  an understanding of how US Army units operate while on patrol. My instruction
+  gave them the skills and understanding they needed to be more effective while
+  on patrol with their US counterparts. My course focused on first-aid,
+  patrolling, battle drills, terminology, planning, and leadership. """
 
   [[experience]]
   title = "Simulation Center Manger"
@@ -64,24 +69,11 @@ date_format = "Jan 2006"
   date_end = "2011-06-15"
   description = """  
   I co-developed the "Follow Me" program, which was designed as a tool to teach
-  light infantry platoon operations. I integrated it into the 3rd and 4th-year
+  infantry platoon operations. I integrated it into the 3rd and 4th-year
   military education curriculum, which allowed the cadets to execute platoon
   missions in a dynamic operational environment giving them a more in-depth
-  experiential learning experience."""
-
-   [[experience]]
-  title = "Simulation Specialist"
-  company = "Command and General Staff College (Northrop Grumman)"
-  company_url = ""
-  location = "Fort Leavenworth, KS"
-  date_start = "2001-11-15"
-  date_end = "2004-08-15"
-  description = """  
-  I was the main integrator for a program called Decisive Action. In my first
-  year our sims team used Decisive Action and TacOps to run a
-  division-level staff exercise. Proved that a $40 game could replace a
-  multi-million dollar simulation as the primary drive for an exercise. By the
-  time I left in 2004 we were running 16 division staff exercises using Decisive
-  Action."""
-
+  experiential learning experience. I also introduced the academy to Virtual
+  Battlespace 2, which is a virtual first-person-shooter with a high degree of
+  detail. VBS2 was used during cadet basic training to familiarize the cadets
+  with squad fire and movement techniques before they went to the field."""
 +++
