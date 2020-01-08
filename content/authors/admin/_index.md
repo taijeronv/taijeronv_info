@@ -10,22 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Team Operations Officer
+role: Military Professional
 
 # Organizations/Affiliations
 organizations:
-- name: Odesa Monitoring Team
+- name: "Training, Education, and Operations"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Available immediately.
-
-interests:
-- Professional Military Education
-- Game Development
-- Web Development
-
-
+bio: Available on 1 April.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

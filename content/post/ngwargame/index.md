@@ -6,7 +6,7 @@ subtitle: "Easy, useful, and relevant"
 summary: ""
 authors: [TJ]
 tags: []
-categories: []
+categories: ["wargames", "games"]
 date: 2020-01-02T06:36:02+02:00
 lastmod: 2020-01-02T06:36:02+02:00
 featured: true
@@ -47,14 +47,16 @@ The problem as I see it is there's no meaningful execution of the mission.
 How does the student practice dealing with unexpected situations in a
 paper-based TDG? They can't.
 
-The student has no opportunity to see the effects of their decisions, nor do
-they get the opportunity to "think" their way out of a problem.
+In a paper TDG at what point does the student get the opportunity to "think"
+their way out of a problem?
 
-## How will the NextGen Wargame fix this?
+They don't.
+
+## The NextGen Wargame
 First of all let's get something straight. The NextGen Wargame is NOT meant to
-replace paper-based Tactical Decision Games (TDGs). 
+replace paper-based TDGs. 
 
-The NGW is meant to "complete" the learning experience by adding an execution
+The NGW is meant to give the student a "complete" learning experience by adding an execution
 piece.
 
 - It enables the student to practice in a dynamic operational environment where
@@ -68,7 +70,7 @@ piece.
   What could be done better, and why? Well, you get the picture. WHY is arguably
   the most essential part of learning to think.  
 
-## Tell me about the NextGen Wargame
+### Tell me about the NextGen Wargame
 The NextGen Wargame is a computer wargame that can be played in a web browser
 and is delivered over the internet. I chose the computer "format" because it's
 easier and faster to play than a manual game. Don't get me wrong I think
@@ -86,10 +88,14 @@ someone with military experience doesn't mean you will be an expert at
 what's required to make a good learning tool.
 
 I've observed and taught thousands of cadets using games like Follow Me and
-Virtual Battlespace in the classroom. I'm not exaggertaing when I say thousands.
-When I say "whole classes" I mean by year for example class of 2007. A
-graduating class may consist of 900 to a 1000 cadets. Basic training classes are
-typically more than 1000 cadets. This is what I mean by "thousands." I'm not
-including underclassmen for example the 3rd year classes.
+Virtual Battlespace in the classroom. 
+
+did you say thousands? Yes, I'm afraid so. I've taught "whole graduating"
+classes which typically number about 1000 cadets. Basic training classes are
+even larger. For over five years I ran "whole classes" through Follow Me and VBS
+exercises. 
+
+I was lucky because few instructors could say they seen a whole
+graduating class coming through their classroom doors.
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
