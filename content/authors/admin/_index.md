@@ -52,15 +52,17 @@ user_groups:
 ---
 
 Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
-joined the U.S. Army in 1981 at the age of 17.  
+joined the U.S. Army in 1981 at the age of 17. In 2001 I transitioned from the
+Army to civilian life after 20 years in boots. Since my retirement I've been on
+a journey that's taken me around the world eventually landing in Odesa Ukraine
+where I've been living since 2013.
 
-Hi my name is TJ and I specialize in military training and education using games
-and simulations. I'm very good at what I do, one might say I have a talent for it.
+Hi my name is TJ and I am someone you want on your team.  My specialty is in military training and education but I can operate just about anywhere.  If you need someone who is professional, competent and reliable look no further.  
 
-At the moment I'm serving as the Team Operations Officer for the Odesa Monitoring
+I'm currently serving as the Team Operations Officer for the Odesa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 
 I have a keen interest in web technology which is why <a href="post/taijeronv-info">I created this website</a>.  
-In my spare time I'm taking courses in Frontend Development and Game Programming so I
-can start developing my passion project the <a href="post/ngwargame">NextGen
-Wargame</a>.
+
+Here's the concept paper for my passion project <a href="post/ngw_concept">NextGen
+Wargame</a>.  For a more <a href= "post/ngwargame">detailed read</a>  on why I think we need a program like NextGen Wargame.

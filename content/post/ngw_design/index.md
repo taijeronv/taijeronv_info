@@ -4,7 +4,7 @@
 title: "NextGen Wargame Design Document"
 subtitle: ""
 summary: ""
-authors: [TJ]
+authors: [TJgit a]
 tags: ["design", "game"]
 categories: ["Game Design"]
 date: 2020-01-08T13:19:37+02:00

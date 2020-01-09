@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2014-09-25"
   date_end = ""
   description = """  
-  I plan all major team level operations covering large demonstrations. My
-  military experience is invaluable in this process and ensures the safety of my
-  team members. I also write reports regarding the demobilization of the
-  military which contributes to creating situational awareness."""
+  I plan all major team level operations. My military experience is invaluable
+  in this process and ensures the mission is conducted safely and efficiently. I
+  also write reports regarding the demobilization of the military which
+  contributes to creating situational awareness."""
 
   [[experience]]
   title = "Academic Developer"
@@ -38,13 +38,11 @@ date_format = "Jan 2006"
   date_start = "2013-08-15"
   date_end = "2014-09-25"
   description = """  
-  I developed a curriculum for the 3rd-year cadets that significantly improved
+  I developed a curriculum for 3rd-year cadets that significantly improved
   their knowledge of how small units in NATO operate. The focus of the
-  curriculum was on infantry platoon offensive and defensive operations. I also
+  instruction was on infantry platoon offensive and defensive operations. I also
   implemented the Follow Me program, which provided the cadets an opportunity to
-  execute platoon operations in a dynamic operational environment. Follow Me
-  gave the cadets a chance to practice tactical decision-making and
-  problem-solving."""
+  execute their plans in a dynamic operational environment giving them an opportunity to practice making tactical decisions and solving problems."""
 
    [[experience]]
   title = "Police Mentor"

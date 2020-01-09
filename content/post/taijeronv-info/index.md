@@ -30,7 +30,7 @@ projects: []
 I created this website without any knowledge of web development and I think it
 turned out pretty good.
 
-These are some of the technologies I had to learn:  
+Here's a list of technologies I used: 
 - I created the site using a static site generator called [Hugo](https://gohugo.io/).  
 - All the content is written using [Markdown](https://www.markdownguide.org/).  
 - For version control, I use [Git](https://git-scm.com/) (command line), and I
@@ -39,24 +39,31 @@ These are some of the technologies I had to learn:
 - I registered my own domain name at [iwanmyname](https://iwantmyname.com/) (I
   have two other domains registered with them.).
 
-I started by trying to use [Jekyll](https://jekyllrb.com/) but I could never get
-a theme to work and found it frustrating. I mean, you shouldn't have to jump
-through hoops to get something to work especially if you follow the instruction.
-I did more research about [static site generators](https://www.staticgen.com/)
+I remember reading about [Jekyll](https://jekyllrb.com/) which is a static site generator.  At the time I didn't have a need for a website but when I started my job search that's when it hit me that I could use something like Jekyll to get something up and running fairly quick.
+
+At first I tried using Jekyll but I could never get any of the themes to work.  So, I did some more research on [static site generators](https://www.staticgen.com/)
 and discovered [Hugo](https://gohugo.io/).
 
-Mike Dane's Hugo series is really good if you're interested in giving it a try.
+From the very beginning working with Hugo was a different experience.  Within minutes I had a site up and running.  In about the same time I was able to install a theme and become immediately productive.  
 
+Hugo has a decent library of free theme templates and I found one I liked.  The [Academic theme](https://themes.gohugo.io/academic/) looks great and is easy to work with.
+
+I then hopped on Youtube for a good tutorial and found Mike Dane's Hugo series which is really good.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtIqKaDlqXo"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>  
 
-I really loved the experience of planning the site and creating the content and I'd like to learn more.
+Mike's videos provided more details about how Hugo works and gave me a better understanding of its capabilities.  
 
-My plan is to start with Colt Steele's
+The build process is super easy and hosting on Netlify wasn't too difficult. I need to learn more about Netlify and all it has to offer, but at the moment I'm hosting two sites with custom domains on it and it's working great.
+
+Working with Hugo has inspired me to learn more about web development which is why I'm taking two courses on Udemy.
+
+Colt Steele's
 [The Web Develeoper Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 and Jonas Schmedtmann's
-[The complete Javascriot Course 2020: Build Real Projects](https://www.udemy.com/course/the-complete-javascript-course/)
-come highly recommended. I have two more projects in mind and would love to create them from the ground up.
+[Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) come highly recommended.
 
-Who knows maybe this will turn into a career opportunity.
+I already have a pro bono opportunity to develop a website for a local landscaping company.  
+
+I think this could be the beginning of a new career path.  

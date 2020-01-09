@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ngw_concept"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Talon"
+subtitle: "Company through Brigade Operations"
+summary: "Wargame designed to be used as an education tool to teach tactics."
+authors: [TJ]
+tags: ["design", "concept"]
+categories: ["Wargame"]
 date: 2020-01-09T06:54:37+02:00
 lastmod: 2020-01-09T06:54:37+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -27,24 +27,23 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## Working title
-Your game’s title should communicate the gameplay and the style of the game
-
 ## Concept statement
-The game in a tweet: one or two sentences at most that say what the game is and
-why it’s fun.
+Easy to play wargame that provides a dynamic operational enviroment to
+practice tactical decision-making and problem-solving. 
 
 ## Genre(s)
-Single genre is clearer but often less interesting. Genre combinations can be
-risky. Beware of ‘tired’ genres.
+Professional Military Wargame
 
 ## Target audience
-Motivations and relevant interests; potentially age, gender, etc.; and the
-desired ESRB rating for the game.
+- Students enrolled in a professional military education program like West Point or ROTC. 
+- Military instructors who need to provide a complete experiential learning experience. 
+- Military professionals who need to maintain a high degree of tactical competence.
 
 ## Unique Selling Points
-Critically important. What makes your game stand out? How is it different from
-all other games?
+- Practice tactical decision-making and problem-solving.
+- Immersive operational enviroment.
+- Lightweight simulation model easy to understand.
+- Easy to play, user interface designed for people.
 
 ## Player Experience and Game POV
 Who is the player? What is the setting? What is the fantasy the game grants the
@@ -52,36 +51,60 @@ player? What emotions do you want the player to feel? What keeps the player
 engaged for the duration of their play?
 
 ## Visual and Audio Style
-What is the “look and feel” of the game? How does this support the desired
-player’s experience? What concept art or reference art can you show to give the
-feel of the game?
+Talon is played on actual military topographic maps or something similar to
+google maps. Unit icons represent platoons, squads, or sections using NATO
+symbols or vehicle/equipment silhouettes. Battlefield sounds and animations
+provide player feedback and alerts them to critical situations.
 
-## Game World Fiction
-Briefly describe the game world and any narrative in player-relevant terms (as
-presented to the player).
+NGW is not a first-person-shooter or a virtuality simulation with 3d graphics.
+
+## Game World 
+The game world is represented by enemy units, terrain, and weather all of which
+have an impact on the operation. Units provide capabilities for all the
+warfighting functions.
 
 ## Monetization
-How will the game make money? Premium purchase? F2P? How do you justify this
-within the design? Platform(s), Technology, and Scope (brief) PC or mobile?
-Table or phone? 2D or 3D? Unity or Javascript? How long to make, and how big a
-team? How long to first-playable? How long to complete the game? Major risks?
+- Subscription via website.
+- Custom game setup on a LAN.
+  
+The game or subscription can be customized based on the needs of the customer.
+For example if they need a more detailed combat model, or they want access to
+more advanced content. The LAN setup is meant for organizations that do not want
+to deal with the internet.
 
-## Core Loops
-How do game objects and the player’s actions form loops? Why is this engaging?
-How does this support player goals? What emergent results do you expect/hope to
-see? If F2P, where are the monetization points?
+## Technology, and Scope (brief) PC or mobile?
+- Meant to be played inside a web browser.
+- Delivered over the internet or LAN, operating system does not matter
+- Javascript using the [Phaser game library](https://phaser.io/).
 
 ## Objectives and Progression
-How does the player move through the game, literally and figuratively, from
-tutorial to end? What are their short-term and long-term goals (explicit or
-implicit)? How do these support the game concept, style, and player-fantasy? ##
+The player begins by choosing a scenario. The scenario contains information
+regarding the operation such as the mission, friendly troops available, map,
+objectives, and intel reports. The scenario file contains data used by the game
+engine for various functions and calculations.
+
+The player plays the game by giving orders to their units like move, attack,
+defend. Orders are based on doctrinal tasks.
+
+The player continues playing until they accomplish the mission or their force
+has been defeated or neutralized and can no longer operate. The entire game is "recorded" so
+the player can study the operation in greater detail.
 
 ## Game Systems 
-What systems are needed to make this game? Which ones are internal (simulation,
-etc.) and which does the player interact with?
+The simulation model is an abstraction of all the warfighting functions and can
+be calibrated to produce believable results.
+
+The graphics engine is fairly basic and the animations can be easily handled by
+the Phaser framework. NGW is not a 3d game.
+
+A detailed and configurable AI is a critical part of the system. This enables
+content creators to develop realistic enemy behavior and provide a challenging
+operational environment for the player.
 
 ## Interactivity
-How are different kinds of interactivity used? (Action/Feedback, ST Cog, LT Cog,
-Emotional, Social, Cultural) What is the player doing moment-by-moment? How does
-the player move through the world? How does physics/combat/etc. work? A clear,
-professional-looking sketch of the primary game UX is helpful
+The user interface is simple and meant to be intuitive. Orders are given by
+right-clicking on the unit and selecting the appropriate order. Automated unit
+behavior can be configured so the player does not have to micro-manage their
+units. For example automatically engaging an enemy units under certain
+conditions or prioritizing what target to shoot first based on user-defined
+criteria.

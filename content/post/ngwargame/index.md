@@ -27,62 +27,40 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-In many military education institutions, the most popular tool for teaching tactics is the Tactical Decision Game (TDG), sometimes called Tactical Decision Exercise (TDE).  
+The NextGen Wargame is a computer game meant to be a learning tool for tactics.  Its purpose is to provide the student an operational enviroment where they can execute their plans. 
 
-**How it works**  
-1. The instructor gives the student a situation and mission. 
-2. The student writes an OPORD and a course of action and creates an overlay with the appropriate ops graphics on a map.
-3. The instructor grades each of the products and gives the student some feedback. In some cases, the instructor may lead a group discussion using one of the student's solutions.
-
-As you can see, it's mostly a planning exercise with little or no execution. 
-
-In think its an "incomplete" learning experience.
-
-I'm sure we can all agree that a plan very seldom goes the way you want.  So, how does the student handle unexpected situations or conditions in a planning exercise?  
-
-When does the student get the opportunity to "think" their way out of a problem?
-
-They don't.
-
-## The NextGen Wargame
-The NextGen Wargame is NOT meant to replace paper-based TDGs. However, it is intended to give the student a "complete" learning experience by adding an execution component.
-
-- It enables the student to practice in a dynamic operational environment where the enemy, terrain, and weather have an effect.
-- The ability to practice risk making decisions appropriate to their command level.
-- Experimentation. Imagine the learning that takes place when a student can compare and contrast different courses of action or tactics.
-- Critical Analysis (AAR). Ability to watch a "replay" of the operation then analyze it step-by-step. What went wrong or right, and why? 
-What could be done better, and why? 
-You get the picture. The "WHY" is arguably the most essential part of learning to think.  
-
-### Tell me about the NextGen Wargame
-The NextGen Wargame is a computer wargame that can be played in a web browser and is delivered over the internet or local area network. I chose the computer "format" because it's easier and faster to play than a manual game.  I think "analog" games are great but only under the right conditions.
-
-If you have 45 minutes for a class of 18 students, then a manual wargame may not be useful.  Add to that the expertise needed to keep an analog game moving, and it all of a sudden become impractical.
-
-For more information take a look at the design document which is under constant revision.
-
-**The NextGen Wargame**
 - The right level of detail, easy to play and understand.
 - Playable in a web browser, the operating system does not matter.
 - Specifically designed as an education tool, NOT an exercise driver.
-- Designed by someone who plays games, has over 20 years of military experience, AND who actually used games in a classroom setting (that's me).
+- It is NOT a first-person-shooter nor is it a 3d virtual reality game.
 
-I should say something about that last point. Just because you're a gamer or have military experience doesn't mean you're an expert at knowing what's required to make a useful teaching tool.
+## Why do we need NGW?
+In many of the education institutions in the military, the most popular tool for teaching tactics is the Tactical Decision Game (TDG), sometimes called Tactical Decision Exercise (TDE).  
 
-However, in my case, I've done just about everything you can do when it comes to teaching with games.  
+Places like West Point or ROTC use the TDG as a planning exercise.
 
-I've observed and taught thousands of cadets using games like 
-"Follow Me" and "Virtual Battlespace." I've written requirements, performed validation, and developed content.  
+1. The instructor gives the student a situation and mission. 
+2. The student writes an OPORD and a course of action and draws an overlay with the appropriate ops graphics on a map.
+3. The instructor grades each of the products and gives the student some feedback. In some cases, the instructor may lead a group discussion using one of the student's solutions.
 
-Here's a test.  Ask an expert their opinion on using first-person shooters as a teaching tool, then contact me and ask the same thing.
+NGW is not meant to replace the TDG it is meant to bring it to life by offering the student a chance to execute their plan in an operational environment where the enemy, terrain, and weather have an effect.
 
-## The way ahead  
-At this point, I'm working on the rules and requirements.  Maybe I'm a glutton for punishment, but I really like writing requirements.
+We need NGW because it provides an experiential learning experience that you cannot get with a paper-based TDG.
 
-At the same time, I'm trying to find some local talent to start working on a proof of principle.  I will pay for this on my own.  
+## What are some of the benefits to using a computer wargame?
+I chose the computer game "format" because it is easy to setup and and offers automatic facilitation.  I love board wargames but I think that in most classroom situations they are not appropriate.
 
-I think it's feasible to have an MVP in less than a year, given the light modeling requirements.  Of course, it would help if I had a full development team.
+For example if you have 18 students and only 45 minutes for a lesson using a board wargame would be impractical.  To use a board wargame you need an experienced person to be the "rules lawyer" and help keep the game moving along.
 
-In my opinion, the biggest tech problem I need to solve is how to represent terrain.  Everything else is relatively straightforward and basic.
+Computer wargames have an advantage because the "umpire" is built in and can make the necessary game calculations in miliseconds.  Pluse setting up a game is easy, the player simply selects a scenario and all the playing pieces are put in the correct locations.
+
+- It enables the student to practice in a dynamic operational environment.
+- The ability to practice making tactical decisions and solving problems at the appropriate command level.
+- Experimentation. Imagine the learning that takes place when a student has the opportunity to compare and contrast different courses of action or tactics.
+- Critical Analysis. Ability to watch a "replay" of the operation then analyze it step-by-step. What went wrong or right, and why? 
+What could be done differently, and why? The "WHY" is arguably the most essential part of learning to think.
+- Meant to develop one's tactical IQ.
+
+For additional information please read my <a href="post/ngw_concept">concept</a>.
 
 ## If you're interested in developing a useful game for the PME market please [contact me](mailto:vincent.taijeron@gmail.com).
