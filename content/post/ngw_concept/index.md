@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 ## Concept statement
-Easy to play wargame that provides a dynamic operational enviroment to
+Easy to play wargame that provides a dynamic operational environment to
 practice tactical decision-making and problem-solving. 
 
 ## Genre(s)
