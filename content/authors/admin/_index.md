@@ -56,9 +56,8 @@ Army to civilian life after 20 years in boots. Since my retirement I've been on
 a journey that's taken me around the world eventually landing in Odesa Ukraine
 where I've been living since 2013.
 
-Hi my name is TJ and I am someone you want on your team. My specialty is in
-military training and education but I can operate just about anywhere. If you
-need a competent and reliable professional look no further.  
+Hi my name is TJ if you need a competent and reliable professional look no
+further. I have over 30 years of experience in the professional military education and training domain. 
 
 I'm currently serving as the Team Operations Officer for the Odesa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
@@ -66,3 +65,6 @@ Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://
 I have a keen interest in web technology which is why <a href="post/taijeronv-info">I created this website</a>.  
 
 I have a project that I've been working on take the [NextGen Wargame](https://www.nextgenwargame.com).
+
+[HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: December
+2019)

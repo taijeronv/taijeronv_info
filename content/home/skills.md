@@ -36,7 +36,7 @@ subtitle = ""
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "Mind maps"
-  description = """ I love using [mind maps](https://www.lifehack.org/articles/work/how-to-mind-map-in-three-small-steps.html) to organize my thoughts and ideas.  I use a free mind mapping program called [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)"""
+  description = """ I love using [mind maps](https://www.lifehack.org/articles/work/how-to-mind-map-in-three-small-steps.html) to organize my thoughts and ideas.  I use a [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)."""
 
  [[feature]]
   icon = "rocket"
@@ -50,6 +50,6 @@ subtitle = ""
 [[feature]]
   icon = "check-square"
   icon_pack = "fas"
-  name = "Javascript Game Programming"
+  name = "Javascript Programming"
   description = """I've come to the conclusion that I may have to develop my passion project all on my own.  With that in mind I've been doing tutorials on games programming using the [Phaser framework](https://phaser.io/) for creating JS games."""
 +++
