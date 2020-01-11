@@ -18,7 +18,7 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Professional Military Education"
-  description = """Drawing pretty graphics on a map or reading ["On War"](https://thestrategybridge.org/the-bridge/2017/11/12/the-trinity-and-the-law-of-war) by Clausewitz does not make you a master strategist or tactician.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  If you're interested in improving the quality of your PME program, I can help you develop exciting and useful content.""" 
+  description = """Drawing pretty graphics on a map or reading ["On War"](https://thestrategybridge.org/the-bridge/2017/11/12/the-trinity-and-the-law-of-war) by Clausewitz does not make you a master strategist or tactician.  Quality practice plus expert instruction is how we raise competent tactical thinkers.  If you're interested in improving the quality of your PME program, I can help you develop exciting and useful content.""" 
 
 [[feature]]
   icon = "chess"
@@ -36,13 +36,16 @@ subtitle = ""
   icon = "map-marked-alt"
   icon_pack = "fas"
   name = "Mind maps"
-  description = """ I love using [mind maps](https://www.lifehack.org/articles/work/how-to-mind-map-in-three-small-steps.html) to organize my thoughts and ideas."""
+  description = """ I love using [mind maps](https://www.lifehack.org/articles/work/how-to-mind-map-in-three-small-steps.html) to organize my thoughts and ideas.  I use a free mind mapping program called [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)"""
 
  [[feature]]
   icon = "rocket"
   icon_pack = "fas"
   name = "Eve online"
-  description = """ In my spare time I enjoy playing [Eve Online](https://www.eveonline.com/) which is a space themed Massive Multiplayer Online game """
+  description = """  
+  In my spare time I enjoy playing [Eve Online](https://www.eveonline.com/)
+  which is a space themed Massive Multiplayer Online game. Eve has a really
+  steep learning curve. If you like complicated games this is it. """
 
 [[feature]]
   icon = "check-square"

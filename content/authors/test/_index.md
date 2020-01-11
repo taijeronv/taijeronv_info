@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Vincent 'TJ' Taijeron
+name: Test
 
 # Username (this should match the folder name)
 authors:
-- admin
+- test
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,19 +50,4 @@ user_groups:
 - Military Professional
 ---
 
-Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
-joined the U.S. Army in 1981 at the age of 17. In 2001 I transitioned from the
-Army to civilian life after 20 years in boots. Since my retirement I've been on
-a journey that's taken me around the world eventually landing in Odesa Ukraine
-where I've been living since 2013.
-
-Hi my name is TJ and I am someone you want on your team. My specialty is in
-military training and education but I can operate just about anywhere. If you
-need a competent and reliable professional look no further.  
-
-I'm currently serving as the Team Operations Officer for the Odesa Monitoring
-Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
-
-I have a keen interest in web technology which is why <a href="post/taijeronv-info">I created this website</a>.  
-
-I have a project that I've been working on take the [NextGen Wargame](https://www.nextgenwargame.com).
+---
