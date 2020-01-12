@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   date_start = "2014-09-25"
   date_end = ""
   description = """  
-  I plan all major team level operations. My military experience is invaluable
-  in this process and ensures the mission is conducted safely and efficiently. I
-  also write reports regarding the demobilization of the military which
-  contributes to creating situational awareness."""
+  - Enhanced team operations by applying military planning methods which improved coordination and efficiency.
+  - Planned and supervised the execution of major team operations monitoring medium risk demonstrations which ensured the safety of our team members.
+  - Provide leadership in the absence of the team leader ensuring the team can operate without any issues.
+  - Manage personnel and assets to ensure smooth operations daily."""
 
   [[experience]]
   title = "Academic Developer"
@@ -38,11 +38,9 @@ date_format = "Jan 2006"
   date_start = "2013-08-15"
   date_end = "2014-09-25"
   description = """  
-  I developed a curriculum for 3rd-year cadets that significantly improved
-  their knowledge of how small units in NATO operate. The focus of the
-  instruction was on infantry platoon offensive and defensive operations. I also
-  implemented the Follow Me program, which provided the cadets an opportunity to
-  execute their plans in a dynamic operational environment giving them an opportunity to practice making tactical decisions and solving problems."""
+  - Designed and taught a 3rd year curriculum that furthered the knowledge of NATO operations.
+  - Integrated the use of Follow Me which provided the opportunity for cadets to practice decision-making and problem-solving in an operational environment.
+  - Developed the Captains Advance Course instruction regarding NATO operations which provided a deeper understanding."""
 
    [[experience]]
   title = "Police Mentor"
@@ -52,11 +50,12 @@ date_format = "Jan 2006"
   date_start = "2011-06-01"
   date_end = "2013-08-15"
   description = """  
-  I created a two-week induction course focused on giving my ten-man police unit
-  an understanding of how US Army units operate while on patrol. My instruction
-  gave them the skills and understanding they needed to be more effective while
-  on patrol with their US counterparts. My course focused on first-aid,
-  patrolling, battle drills, terminology, planning, and leadership. """
+  - Taught a two-week induction course that provided my ten-man police unit the knowledge to operate with their US Army counterparts.
+  - Mentored a 5 officers, 15 non-commssioned officers and 20 enlisted patrol men on three different police checkpoints.
+  - Operated in several high-risk foot and vehicle patrols contributing to the security.
+
+
+  """
 
   [[experience]]
   title = "Simulation Center Manger"
@@ -66,7 +65,9 @@ date_format = "Jan 2006"
   date_start = "2004-08-15"
   date_end = "2011-06-15"
   description = """  
-  I co-developed the "Follow Me" program, which was designed as a tool to teach
+  - Co-developed the "Follow Me" program providing cadets with a quality experiential learning experience.
+  - 
+  - which was designed as a tool to teach
   infantry platoon operations. I integrated it into the 3rd and 4th-year
   military education curriculum, which allowed the cadets to execute platoon
   missions in a dynamic operational environment giving them a more in-depth
