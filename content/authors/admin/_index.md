@@ -14,7 +14,7 @@ role: Military Professional
 
 # Organizations/Affiliations
 organizations:
-- name: "Training, Education, and Operations"
+- name: "Professional, Competent, Reliable"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,17 +49,16 @@ email: "vincent.taijeron@gmail.com"
 user_groups:
 - Military Professional
 ---
+Hi, my name is Vincent, but most people call me "TJ."  I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), and I joined the US Army at the age of 17. I've been on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odesa Ukraine, where I've been living since 2013. 
 
-Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
-joined the U.S. Army in 1981 at the age of 17. In 2001 I transitioned from the Army to civilian life after 20 years in boots. Since my retirement I've been on a journey that's taken me around the world eventually landing in Odesa Ukraine where I've been living since 2013. 
-
-My name is TJ and I am a competent and reliable professional with over 40 years of experience in military education and training.  I believe teaching someone how to think is more effective than teaching them what to think which I apply to all my instruction.  I have proven myself at West Point and around the world in different training and education capacities.
+Competent and reliable professional with 15+ years of experience in the military domain.  Proven ability to excel regardless of the odds or obstacles.  Recognized by his peers for his integrity and professionalism.
 
 I'm currently serving as the Team Operations Officer for the Odesa Monitoring Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 
-I am interested in web development which is why <a href="post/taijeronv-info">I created this website</a>.  
+I don't know much about web development but that didn't stop me from creating <a href="post/taijeronv-info">this website</a>.
 
-I have a project that I've been working on called the [NextGen Wargame](https://www.nextgenwargame.com).
+I have a talent for teaching tactics and I love wargames which is why I started a passion project called [NextGen Wargame](https://www.nextgenwargame.com).
 
-[HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: January
-2020)
+Yep, you guessed it I'm available starting on 1 April 2020.  I want to finish my contract with OSCE and then move on to the next chapter in my life, hope you can help.
+
+[HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: January 2020)

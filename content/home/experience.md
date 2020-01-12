@@ -18,61 +18,55 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Monitor"
-  company = "Organization for Security and Cooperation in Europe"
-  company_url = ""
-  location = "Odesa, Ukraine"
-  date_start = "2014-09-25"
-  date_end = ""
-  description = """  
-  - Enhanced team operations by applying military planning methods which improved coordination and efficiency.
-  - Planned and supervised the execution of major team operations monitoring medium risk demonstrations which ensured the safety of our team members.
-  - Provide leadership in the absence of the team leader ensuring the team can operate without any issues.
-  - Manage personnel and assets to ensure smooth operations daily."""
+title = "Monitor Officer"
+company = "Organization for Security and Cooperation in Europe"
+company_url = "https://www.osce.org/special-monitoring-mission-to-ukraine"
+location = "Odesa, Ukraine"
+date_start = "2014-09-25"
+date_end = ""
+description = """  
+- Standardized team operations by applying military planning methods improving the teams coordination and efficiency during the operation.
+- Planned and supervised the execution of four “2nd of May” patrols ensuring the team’s safety.
+- Effectively managed team personalities to ensure a peaceful work environment.
+- Reported and monitored the security situation on the Transnistrian border enabling the OSCE mission to publish accurate reports on the security situation. """
 
-  [[experience]]
-  title = "Academic Developer"
-  company = "Alion"
-  company_url = ""
-  location = "Odesa, Ukraine"
-  date_start = "2013-08-15"
-  date_end = "2014-09-25"
-  description = """  
-  - Designed and taught a 3rd year curriculum that furthered the cadets knowledge of NATO operations.
-  - Integrated the use of Follow Me which provided the opportunity for cadets to practice decision-making and problem-solving in an operational environment.
-  - Developed the Captains Advance Course instruction regarding NATO operations which provided a deeper understanding."""
+[[experience]]
+title = "Senior Curriculum Developer"
+company = "Alion Science"
+company_url = "https://www.alionscience.com/"
+location = "Odesa, Ukraine"
+date_start = "2013-08-15"
+date_end = "2014-09-25"
+description = """  
+- Designed and taught a program of instruction to 2nd, 3rd, and 4th year cadets improving their understanding of NATO operations.
+- Integrated the use of the “Follow Me’ wargame, providing the cadet's the opportunity to practice making decisions in a tactical environment.
+- Developed a block of instruction for the Captains Advanced Course that featured NATO mechanized and armor battalion operations, giving them a more in-depth understanding.
+- Advised Major General Gulayk on the best way to integrate our NATO program into the 2015 academic year curriculum. """
 
-   [[experience]]
-  title = "Police Mentor"
-  company = "DynCorp International"
-  company_url = ""
-  location = "FOB Salerno, Khowst, Afghanistan"
-  date_start = "2011-06-01"
-  date_end = "2013-08-15"
-  description = """  
-  - Taught a two-week induction course that provided my ten-man police unit the knowledge to operate with their US Army counterparts.
-  - Mentored a 5 officers, 15 non-commssioned officers and 20 enlisted patrol men on three different police checkpoints.
-  - Operated in several high-risk foot and vehicle patrols contributing to the security.
+[[experience]]
+title = "Embedded Police Mentor"
+company = "DynCorp International"
+company_url = "https://www.dyn-intl.com/"
+location = "FOB Salerno, Afghanistan"
+date_start = "2011-06-01"
+date_end = "2013-08-15"
+description = """  
+- Developed and taught a two-week induction course to a ten-man police unit, giving them the knowledge and skills to operate with their US Army counterparts.
+- Advised 3 officers, 10 Non-commissioned officers, and 20 enlisted patrolmen at three different police checkpoints preparing them to conduct independent night patrols.
+- Operated as part of a US Army unit in several high-risk mounted and dismounted patrols contributing to their operational security.
+- Improved the performance of my ten-man police unit by instructing them on patrolling, battle drills, key leader engagements, and planning."""
 
-
-  """
-
-  [[experience]]
-  title = "Simulation Center Manger"
-  company = "West Point"
-  company_url = ""
-  location = "West Point, NY"
-  date_start = "2004-08-15"
-  date_end = "2011-06-15"
-  description = """  
-  - Co-developed the "Follow Me" program providing cadets with a quality experiential learning experience.
-  - 
-  - which was designed as a tool to teach
-  infantry platoon operations. I integrated it into the 3rd and 4th-year
-  military education curriculum, which allowed the cadets to execute platoon
-  missions in a dynamic operational environment giving them a more in-depth
-  experiential learning experience. I also introduced the academy to Virtual
-  Battlespace 2, which is a virtual first-person-shooter with a high degree of
-  detail. VBS2 was used during cadet basic training to familiarize the cadets
-  with squad fire and movement techniques before they went to the field."""
+[[experience]]
+title = "Simulation Center Manger"
+company = "West Point"
+company_url = "https://www.westpoint.edu/military/department-of-military-instruction/simulation-center"
+location = "West Point, NY"
+date_start = "2004-08-15"
+date_end = "2011-06-15"
+description = """  
+- Co-developed the “Follow Me” program, which giving cadets a higher quality experiential learning experience.
+- Facilitated the use of “Follow Me” in support of instructor's ensuring maximum learning from the cadets.
+- Increased use of the Simulation Center by 100%.
+- Integrated Virtual Battlespace 2 into cadet basic training, providing the cadets an opportunity to practice squad fire and movement techniques.
+"""
 +++
