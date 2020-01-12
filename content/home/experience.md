@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_start = "2013-08-15"
   date_end = "2014-09-25"
   description = """  
-  - Designed and taught a 3rd year curriculum that furthered the knowledge of NATO operations.
+  - Designed and taught a 3rd year curriculum that furthered the cadets knowledge of NATO operations.
   - Integrated the use of Follow Me which provided the opportunity for cadets to practice decision-making and problem-solving in an operational environment.
   - Developed the Captains Advance Course instruction regarding NATO operations which provided a deeper understanding."""
 
