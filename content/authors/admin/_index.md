@@ -51,7 +51,7 @@ user_groups:
 ---
 Hi, my name is Vincent, but most people call me "TJ."  I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), and I joined the US Army at the age of 17. I've been on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odesa Ukraine, where I've been living since 2013. 
 
-Competent and reliable professional with 15+ years of experience in the military domain.  Proven ability to excel regardless of the odds or obstacles.  Recognized by his peers for his integrity and professionalism.
+I am a competent and reliable professional with 15+ years of experience in the military domain.  Recognized by his collegaues for my integrity and professionalism.
 
 I'm currently serving as the Team Operations Officer for the Odesa Monitoring Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 
