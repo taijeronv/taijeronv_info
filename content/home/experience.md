@@ -25,10 +25,10 @@ location = "Odesa, Ukraine"
 date_start = "2014-09-25"
 date_end = ""
 description = """  
-- Standardized team operations by applying military planning methods improving the teams coordination and efficiency during operations.
-- Planned and supervised the execution of four “2nd of May” patrols ensuring the team’s safety.
-- Effectively managed team personalities ensuring a peaceful work environment.
-- Monitored the Transnistrian border providing the OSCE with accurate information regarding the security situation. """
+- Standardized team patrols by applying military planning methods improving the team's coordination and efficiency during operations.
+- Planned and supervised the execution of four "2nd of May" high-risk patrols, ensuring the team's safety.
+- Effectively managed a team of 21 individual personalities ensuring a peaceful work environment.
+- Monitored over 400 kilometers of the Transnistrian border, providing the OSCE with accurate information regarding the security situation. """
 
 [[experience]]
 title = "Senior Curriculum Developer"
@@ -39,9 +39,9 @@ date_start = "2013-08-15"
 date_end = "2014-09-25"
 description = """  
 - Advised Major General Gulayk on the best way to integrate our NATO program into the 2015 academic year curriculum.
-- Designed and taught a program of instruction to 2nd, 3rd, and 4th year cadets improving their understanding of NATO operations.
-- Integrated the use of the “Follow Me’ wargame, providing the cadet's the opportunity to practice making decisions in a tactical environment.
-- Developed a block of instruction for the Captains Advanced Course featuring NATO mechanized infantry and armor battalion operations, giving them a deeper understanding.   """
+- Designed and taught a program of instruction to 2nd, 3rd, and 4th-year cadets, furthering their understanding of NATO operations.
+- Taught the cadets how to improve their tactical-decision making using the "Follow Me" program.
+- Developed a block of instruction featuring NATO mechanized infantry and armor operations for 35 students attending the Captain's Advanced Course, giving them an in-depth understanding.  """
 
 [[experience]]
 title = "Embedded Police Mentor"
@@ -51,10 +51,10 @@ location = "FOB Salerno, Afghanistan"
 date_start = "2011-06-01"
 date_end = "2013-08-15"
 description = """  
-- Developed and taught a two-week induction course to my ten-man police unit, improving their ability to operate with their US Army counterparts.
-- Assisted 33 patrolmen in  planning indepedent night time patrols that provided additional security within their community's.
-- Operated as part of a US Army unit in over 100 high-risk mounted and dismounted patrols contributing to their operational security.
-- Improved the performance of my ten-man police unit by instructing them on patrolling, battle drills, key leader engagements, and planning."""
+- Mentored a special unit of 10 Afghan patrolmen tasked with augmenting coalition forces and securing FOB Salerno.
+- Developed and taught a one-week induction program to my ten-man police unit, improving their ability to operate with coalition partners.
+- Assisted 33 patrolmen in planning independent night patrols.
+- Participated in over 50 mounted and dismounted combat  patrols with the US Army while advising the Afghan police. """
 
 [[experience]]
 title = "Simulation Center Manger"
@@ -64,9 +64,9 @@ location = "West Point, NY"
 date_start = "2004-08-15"
 date_end = "2011-06-15"
 description = """  
-- Co-developed the “Follow Me” program, giving cadets a higher quality experiential learning experience.
-- Facilitated the use of “Follow Me” in support of instructor's ensuring maximum learning from the cadets.
-- Increased use of the Simulation Center by 100%.
-- Integrated Virtual Battlespace 2 into cadet basic training, providing the cadets an opportunity to practice squad fire and movement techniques.
-"""
+- Enhanced the Military Science 3 and 4 programs by integrating the "Follow Me" program which was used to practice making tactical decisions.
+- Incorporated the Follow Me simulation into three military science courses, one college major (Defense Strategic Studies), and two leadership courses for the department of Behavioral Science and Leadership.
+- Assisted instructor's in using the "Follow Me" program to achieve class learning outcomes in decision-making.
+- Integrated Virtual Battlespace 2 into cadet basic training, providing over 1000 cadets an opportunity to practice squad fire and movement techniques before going to the field.  
+- Increased the use of the Simulation Center by 100%. """
 +++
