@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-title = "Monitor Officer"
+title = "Monitoring Officer"
 company = "Organization for Security and Cooperation in Europe"
 company_url = "https://www.osce.org/special-monitoring-mission-to-ukraine"
 location = "Odesa, Ukraine"
@@ -26,7 +26,7 @@ date_start = "2014-09-25"
 date_end = ""
 description = """  
 - Standardized team patrols by applying military planning methods improving the team's coordination and efficiency during operations.
-- Planned and supervised the execution of four "2nd of May" high-risk patrols, ensuring the team's safety.
+- Planned and supervised the execution of four "2nd of May" patrols, ensuring the team's safety.
 - Effectively managed a team of 21 individual personalities ensuring a peaceful work environment.
 - Monitored over 400 kilometers of the Transnistrian border, providing the OSCE with accurate information regarding the security situation. """
 
@@ -52,7 +52,7 @@ date_start = "2011-06-01"
 date_end = "2013-08-15"
 description = """  
 - Mentored a special unit of 10 Afghan patrolmen tasked with augmenting coalition forces and securing FOB Salerno.
-- Developed and taught a one-week induction program to my ten-man police unit, improving their ability to operate with coalition partners.
+- Developed and taught a one-week induction program to my ten-man police unit, improving their ability to operate with coalition forces.
 - Assisted 33 patrolmen in planning independent night patrols.
 - Participated in over 50 mounted and dismounted combat  patrols with the US Army while advising the Afghan police. """
 

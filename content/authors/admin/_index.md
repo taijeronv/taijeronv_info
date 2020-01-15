@@ -59,4 +59,4 @@ I don't know much about web development but that didn't stop me from creating <a
 
 I believe we can improve the  quality of our military science instruction by implementing a tool that provides an operational environment for a student to practice making tactical decisions.  I call it the [NextGen Wargame](https://www.nextgenwargame.com) and it's my passion project.
 
-[HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: January 2020)
+[HTML](cv/) or [PDF](files/2020_01_TAIJERONV.pdf) (Last updated: January 2020)
