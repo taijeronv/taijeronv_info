@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Military Professional
+role: "Proven ability to develop tactical thinkers.  I've taught 1000's"
 
 # Organizations/Affiliations
 organizations:
-- name: "Professional, Competent, Reliable"
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,11 +51,11 @@ user_groups:
 ---
 Hi, my name is Vincent, but most people call me "TJ."  I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam).  I joined the US Army at the age of 17, which put me on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odesa Ukraine, where I've been living and working since 2013. 
 
-I am a competent and reliable professional with 15+ years of experience training and educating cadets, soldiers, officers, and non-commissioned officers.  Proven ability to operate effectively in stressful environments.  Recognized by my colleagues for my integrity and professionalism.
+I am a competent and reliable military simulations professional with 15+ years using games and simulations to develop tactical decision-making and problem-solving skills.  I am eager to join a team of professionals supporting our military.  Proven ability to operate effectively in stressful environments.
 
-I'm currently serving as the Team Operations Officer for the Odesa Monitoring Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
+I'm currently serving as the Team Operations Officer for the Odesa Monitoring Team, which is part of the [Organization for Security and Cooperation in Europe Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 
-I don't know much about web development but that didn't stop me from creating <a href="post/taijeronv-info">this website</a>.
+I want to learn website development so I created <a href="post/taijeronv-info">this website</a>.
 
 I believe we can improve the  quality of our military science instruction by implementing a tool that provides an operational environment for a student to practice making tactical decisions.  I call it the [NextGen Wargame](https://www.nextgenwargame.com) and it's my passion project.
 
