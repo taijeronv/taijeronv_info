@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Proven ability to develop tactical thinkers.  I've taught 1000's"
+role: "Professional.  Competent.  Reliable"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Available on 1 April.
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,9 +49,9 @@ email: "vincent.taijeron@gmail.com"
 user_groups:
 - Military Professional
 ---
-Hi, my name is Vincent, but most people call me "TJ."  I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam).  I joined the US Army at the age of 17, which put me on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odesa Ukraine, where I've been living and working since 2013. 
+Hi, my name is Vincent, but most people call me "TJ" and I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam).  I joined the US Army at the age of 17, which put me on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odesa Ukraine, where I've been living and working since 2013. 
 
-I am a competent and reliable military simulations professional with 15+ years using games and simulations to develop tactical decision-making and problem-solving skills.  I am eager to join a team of professionals supporting our military.  Proven ability to operate effectively in stressful environments.
+I did almost seven years at West Point and during that time I discovered I have a talent and love for teaching tactics.  Prior to that I was at the Command and General Staff College doing something similar. 
 
 I'm currently serving as the Team Operations Officer for the Odesa Monitoring Team, which is part of the [Organization for Security and Cooperation in Europe Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
 

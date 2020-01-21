@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 16  # Order that this section will appear.
 
-title = "What can you do?"
+title = "Military Skills"
 subtitle = "And other interesting things about me."
 
 # Showcase personal skills or business features.

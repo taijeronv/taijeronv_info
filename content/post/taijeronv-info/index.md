@@ -27,18 +27,26 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I created this website without any knowledge of web development.
+I'm not a professional web developer, but it looks like I could be heading in that direction.  I really enjoyed the process of creating the site, tweaking how it looked, and writing the content.
 
-Here's a list of technologies I used: 
+I want to learn HTML5 and CSS3 so I can make the site look and do exactly what I want.  
+
+Here's a list of technologies I used to create this website: 
 - I created the site using a static site generator called [Hugo](https://gohugo.io/).  
 - All the content is written using [Markdown](https://www.markdownguide.org/).  
-- For version control, I use [Git](https://git-scm.com/) (command line), and I use [Github](https://github.com/) to store my repository.  
-- I host the site on [Netlify](https://www.netlify.com/) for free.  
+- For version control, I use [Git](https://git-scm.com/) (command line), and I store everything in a  [Github](https://github.com/) repository.  
+- The site is hosted on [Netlify](https://www.netlify.com/) for free.  
 - I registered my own domain name at [iwanmyname](https://iwantmyname.com/).
 
-Hugo was straightforward to work with even though I had no experience with HTML, CSS, or static site generators.  Within minutes I had a site up and running, including the [Academic theme](https://themes.gohugo.io/academic/).
+When I decided to start searching for a new job, I thought it would be a good idea to create a website.  I wanted to tell more of my story than what's on a Resume.  
 
-I found Mike Dane's Hugo series on Youtube which improved my understanding of how Hugo works.  
+My first thought was to use Wordpress, but then I started reading about the [JAMstack](https://jamstack.org/), which led me to static site generators.  I found [this website](https://www.staticgen.com/), which is how I discovered Hugo.
+
+I installed Hugo, and within minutes I had a site up and running.  Hugo has an excellent library of pre-made themes after a few hours of trying different ones I decided on the [Academic theme](https://themes.gohugo.io/academic/).  
+
+Combining Hugo with Netlify really got things going.  In no time I had a web presence, all I needed now was to create some content.  In all honesty, this was the most time-consuming part.  You only have one chance to make an impression, which is why I took my time.
+
+I found Mike Dane's Hugo series on Youtube to be a great introduction to Hugo and its features.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtIqKaDlqXo"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" allowfullscreen></iframe>  
