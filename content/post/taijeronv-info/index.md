@@ -36,8 +36,6 @@ Here's a list of technologies I used:
 - I host the site on [Netlify](https://www.netlify.com/) for free.  
 - I registered my own domain name at [iwanmyname](https://iwantmyname.com/).
 
-I remember reading about [Jekyll](https://jekyllrb.com/), which is a static site generator.  At the time, I didn't need a website, but when I started my job search, I thought why not create my own website and not rely on my Resume to tell my whole story.  Jekyll proved to be very sensitive when it came to installing a theme.  For some reason or another everytime I tried to install a theme I got errors.  I did some research and found [Hugo](https://gohugo.io/).
-
 Hugo was straightforward to work with even though I had no experience with HTML, CSS, or static site generators.  Within minutes I had a site up and running, including the [Academic theme](https://themes.gohugo.io/academic/).
 
 I found Mike Dane's Hugo series on Youtube which improved my understanding of how Hugo works.  
