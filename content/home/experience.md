@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 title = "Monitoring Officer"
 company = "Organization for Security and Cooperation in Europe"
 company_url = "https://www.osce.org/special-monitoring-mission-to-ukraine"
-location = "Odesa, Ukraine"
+location = "Odessa, Ukraine"
 date_start = "2014-09-25"
 date_end = ""
 description = """  
@@ -34,7 +34,7 @@ description = """
 title = "Senior Curriculum Developer"
 company = "Alion Science"
 company_url = "https://www.alionscience.com/"
-location = "Odesa, Ukraine"
+location = "Odessa, Ukraine"
 date_start = "2013-08-15"
 date_end = "2014-09-25"
 description = """  

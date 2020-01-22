@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Available beginning April 2020.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,14 +49,8 @@ email: "vincent.taijeron@gmail.com"
 user_groups:
 - Military Professional
 ---
-Hi, my name is Vincent, but most people call me "TJ" and I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam).  I joined the US Army at the age of 17, which put me on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odesa Ukraine, where I've been living and working since 2013. 
+Hi, my name is Vincent, but most people call me "TJ" and I'm Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam).  
 
-I did almost seven years at West Point and during that time I discovered I have a talent and love for teaching tactics.  Prior to that I was at the Command and General Staff College doing something similar. 
+I joined the US Army at the age of 17, which put me on a journey that's taken me from West Germany to Afghanistan, eventually landing in Odessa Ukraine, where I've been living and working since 2013. 
 
-I'm currently serving as the Team Operations Officer for the Odesa Monitoring Team, which is part of the [Organization for Security and Cooperation in Europe Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine).
-
-I want to learn website development so I created <a href="post/taijeronv-info">this website</a>.
-
-I believe we can improve the  quality of our military science instruction by implementing a tool that provides an operational environment for a student to practice making tactical decisions.  I call it the [NextGen Wargame](https://www.nextgenwargame.com) and it's my passion project.
-
-[HTML](cv/) or [PDF](files/2020_01_TAIJERONV.pdf) (Last updated: January 2020)
+I am currently serving as the Team Operations Officer for the Odessa Monitoring Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The [Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member states in North America, Europe, and Asia. It is the world's largest regional security organization.

@@ -39,7 +39,7 @@ it again.
 [[item]] 
 organization = "Curriculum Developer" 
 organization_url = "" 
-title ="Senior Curriculum Developer Odesa Military Academy Ukraine" 
+title ="Senior Curriculum Developer Odessa Military Academy Ukraine" 
 url = ""
 certificate_url = "" 
 date_start = "2013-08-15" 

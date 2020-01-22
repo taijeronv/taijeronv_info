@@ -12,7 +12,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -90,7 +90,7 @@ email = "vincent.taijeron@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "6/3 Shevchenko Ave", city = "Odesa", region = "Odesa", postcode = "6605", country = "Ukraine", country_code = "UKR"}
+address = {street = "6/3 Shevchenko Ave", city = "Odessa", region = "Odessa", postcode = "6605", country = "Ukraine", country_code = "UKR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

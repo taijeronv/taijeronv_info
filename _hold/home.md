@@ -14,7 +14,7 @@ role: Team Operations Officer
 
 # Organizations/Affiliations
 organizations:
-- name: Odesa Monitoring Team
+- name: Odessa Monitoring Team
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,12 +55,12 @@ user_groups:
 Originally from the [Island of Guam](https://en.wikipedia.org/wiki/Guam), I
 joined the U.S. Army in 1981 at the age of 17. In 2001 after 20 years in the
 Army, I decided to transition to the civilian sector. In November 2001 I started a
-fantastic journey that would take me around the world and eventually to Odesa
+fantastic journey that would take me around the world and eventually to Odessa
 Ukraine.
 
 - Monitoring the ongoing conflict in the [Donbass](https://en.wikipedia.org/wiki/Donbass) (Eastern Ukraine).
 - Teaching at the
-  [Odesa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy)
+  [Odessa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy)
   in Ukraine.
 - Mentoring the Afghan Uniformed Police in Khowst Province, Afghanistan.
 - Teaching cadets tactical decision-making at
@@ -72,7 +72,7 @@ Ukraine.
 ## So what? Tell me what you've been doing lately
 
 {{< figure src="/img/shirokyne.jpg" caption="Members of the Azov Volunteer Battalion watch as we plan an ad-hoc mission into non-government controlled Shirokyne." >}}
-I am currently serving as the Team Operations Officer for the Odesa Monitoring
+I am currently serving as the Team Operations Officer for the Odessa Monitoring
 Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The
 [Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member
 states in North America, Europe, and Asia. It is the world's largest

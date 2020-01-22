@@ -9,14 +9,19 @@ url = "#about"
 weight = 10
 
 [[main]]
-name = "About Me"
+name = "Extras"
+url = "#bio"
+weight = 20
+
+[[main]]
+name = "What I Do"
 url = "#skills"
 weight = 20
 
 
 [[main]]
-name = "Experience"
-url = "#experience"
+name = "Resume"
+url = "#hero"
 weight = 40
 
 [[main]]
