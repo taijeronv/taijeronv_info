@@ -18,18 +18,18 @@ subtitle = ""
 icon = "graduation-cap"
 icon_pack = "fas"
 name = "Professional Military Education"
-description = """I can improve the quality of your PME program by helping to develop your student's ability to think.  I am equally talented at teaching or developing engaging and relevant course content.  """ 
+description = """I can improve the quality of your PME program by developing engaging and relevant course content.  Together we can create a curriculum that challenges your students while giving them an experiential learning experience. """ 
 
 [[feature]]
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ I bring 12+ years of experience and a  versatile set of simulations and gaming skills to your team.  I can immediately become a productive member of your team by integrating a game into a training program, troubleshooting a multi-million dollar simulation, or designing a program of instruction.  """
+description = """ I bring 12+ years of experience and a versatile set of simulations and gaming skills to your team.  From day one I will be a productive member of the team by integrating a game into a training program, troubleshooting a multi-million dollar simulation, or designing a program of instruction.  I have the skills to fill a variety of roles. """
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
 name = "Training"
-description = """I am a proven trainer with over 20+ years experience.  Whether it is police officers in Afghanistan or cadets at West Point, I know what it takes to developing individuals and teams to a high degree of proficiency. """  
+description = """I am a proven trainer with over 20+ years experience.  Whether it is mentoring police officers in Afghanistan or teaching cadets marksmanship at West Point, I know what it takes to develop individual and team skills. """  
 
 +++
