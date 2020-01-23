@@ -23,12 +23,12 @@ description = """I can improve the quality of your PME program by developing exc
 [[feature]]
 icon = "chess"
 icon_pack = "fas"
-name = "Simulations and Gaming"
-description = """I can guide you in implementing games into your curriculum.  Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights into the use of games from observing thousands of cadets playing ["Follow Me"](http://decisive-point.com/follow-me/) and ["Virtual Battlespace."](https://bisimulations.com/products/vbs3)  """  
+name = "Gaming"
+description = """I can help you in implement games into your curriculum or training program.  Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights into the use of games from observing thousands of cadets playing ["Follow Me"](http://decisive-point.com/follow-me/) and ["Virtual Battlespace."](https://bisimulations.com/products/vbs3)  """  
 
 [[feature]]
 icon = "atom"
 icon_pack = "fas"
-name = "Military Operations"
-description = """ I bring additional competence, reliability, and a professionalism to your team.  Whether it's training the Afghan Police, patrolling with coalition forces, or serving on a Brigade Staff.  I have proven myself in high-stress environments and and can get the job done."""  
+name = "Simulations"
+description = """I bring a whole host of technical skills to the table.  If you need networking, troubleshooting, or database skills I can help. """  
 +++

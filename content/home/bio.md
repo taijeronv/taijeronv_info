@@ -49,11 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- I've been living and working in Odessa Ukraine since 2013.  In fact I spent seven months in Eastern Ukraine monitoring the conflict.
+- I've been living and working in Odessa Ukraine since 2013.
 - I  spent two years mentoring a 10-man police unit while operating with coalition forces in Khowst Province Afghanistan.
 - I spent over 12 years using games for training at the [Command and General Staff College](https://en.wikipedia.org/wiki/United_States_Army_Command_and_General_Staff_College), [West Point](https://www.westpoint.edu/), and the [Odessa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy).
-- I like using [Mind maps](https://www.mindmapping.com/mind-map.php) for everything.  Organizaing my thoughts, brainstorming, outlining articles, you name it you can mind map it.
+- I like using [Mind maps](https://www.mindmapping.com/mind-map.php) for organizaing my thoughts, brainstorming, outlining articles, you name it you can mind map it.
 - I'm currently taking Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 and Jonas Schmedtmann's [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
 - I have a passion project called the [NextGen Wargame](https://www.nextgenwargame.com/).
-- I built this website on my own using [Hugo](https://gohugo.io/).
+- I built this website on my own using [Hugo](https://gohugo.io/), [Github](https://github.com/), and [Netlify](https://www.netlify.com/).
+- Sometimes I play Eve Online.  Think of it as ["Ender's Game"](https://en.wikipedia.org/wiki/Ender%27s_Game) or ["The Last Strfighter."](https://en.wikipedia.org/wiki/The_Last_Starfighter)
