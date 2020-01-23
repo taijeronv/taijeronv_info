@@ -18,17 +18,18 @@ subtitle = ""
 icon = "graduation-cap"
 icon_pack = "fas"
 name = "Professional Military Education"
-description = """I can improve the quality of your PME program by developing exciting and useful content, oh and I can teach as well.  Drawing pretty graphics on a map or reading ["On War"](https://thestrategybridge.org/the-bridge/2017/11/12/the-trinity-and-the-law-of-war) by Clausewitz does not make you a master strategist or tactician.  Quality practice plus expert instruction is how we raise competent tactical thinkers.  """ 
+description = """I can improve the quality of your PME program by helping to develop your student's ability to think.  I am equally talented at teaching or developing engaging and relevant course content.  """ 
 
 [[feature]]
 icon = "chess"
 icon_pack = "fas"
-name = "Gaming"
-description = """I can help you in implement games into your curriculum or training program.  Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights into the use of games from observing thousands of cadets playing ["Follow Me"](http://decisive-point.com/follow-me/) and ["Virtual Battlespace."](https://bisimulations.com/products/vbs3)  """  
+name = "Simulations and Gaming"
+description = """ I bring 12+ years of experience and a  versatile set of simulations and gaming skills to your team.  I can immediately become a productive member of your team by integrating a game into a training program, troubleshooting a multi-million dollar simulation, or designing a program of instruction.  """
 
 [[feature]]
-icon = "atom"
+icon = "running"
 icon_pack = "fas"
-name = "Simulations"
-description = """I bring a whole host of technical skills to the table.  If you need networking, troubleshooting, or database skills I can help. """  
+name = "Training"
+description = """I am a proven trainer with over 20+ years experience.  Whether it is police officers in Afghanistan or cadets at West Point, I know what it takes to developing individuals and teams to a high degree of proficiency. """  
+
 +++
