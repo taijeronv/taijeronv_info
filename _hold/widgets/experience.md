@@ -18,19 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-title = "Monitoring Officer"
-company = "Organization for Security and Cooperation in Europe"
-company_url = "https://www.osce.org/special-monitoring-mission-to-ukraine"
-location = "Odessa, Ukraine"
-date_start = "2014-09-25"
-date_end = ""
-description = """  
-- Standardized team patrols by applying military planning methods improving the team's coordination and efficiency during operations.
-- Planned and supervised the execution of four "2nd of May" patrols, ensuring the team's safety.
-- Effectively managed a team of 21 individual personalities ensuring a peaceful work environment.
-- Monitored over 400 kilometers of the Transnistrian border, providing the OSCE with accurate information regarding the security situation. """
-
-[[experience]]
 title = "Senior Curriculum Developer"
 company = "Alion Science"
 company_url = "https://www.alionscience.com/"

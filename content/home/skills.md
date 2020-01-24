@@ -15,21 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-icon = "graduation-cap"
-icon_pack = "fas"
-name = "Professional Military Education"
-description = """I can improve the quality of your PME program by developing engaging and relevant course content.  Together we can create a curriculum that challenges your students while giving them an experiential learning experience. """ 
-
-[[feature]]
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ I bring 12+ years of experience and a versatile set of simulations and gaming skills to your team.  From day one I will be a productive member of the team by integrating a game into a training program, troubleshooting a multi-million dollar simulation, or designing a program of instruction.  I have the skills to fill a variety of roles. """
+description = """ I can help you deliver effective instruction using computer-based games and simulations.  I have created content, designed exercises, configured software, and taught in a classroom.  I bring a number of complete skills to the team. """ 
+
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
-name = "Training"
-description = """I am a proven trainer with over 20+ years experience.  Whether it is mentoring police officers in Afghanistan or teaching cadets marksmanship at West Point, I know what it takes to develop individual and team skills. """  
+name = " Training "
+description = """I can help you to train individuals or teams, or design programs of instruction.  My experience is both in the classroom and the field.  """
+
+[[feature]]
+icon = "laptop"
+icon_pack = "fas"
+name = " Technology "
+description = """ I can operate comfortably in Linux or Windows.  I can put together a network, configure hardware and software to work together or configure programs.  I can even create a website like this one.  I have a complete inventory of tech skills."""
+
+[[feature]]
+icon = "laptop"
+icon_pack = "fas"
+name = " Soft Skills "
+description = """I have great interpersonal skills.  I know how to work within a team, am tactful at all times, and respectful.  Professionalism in all situations."""
+
+[[feature]]
+icon = "pen"
+icon_pack = "fas"
+name = " Writing and Public Speaking "
+description = """I have proven my ability to write effectively.  Creating scenario documentation, instructor guides, and writing program requirements."""
 
 +++
