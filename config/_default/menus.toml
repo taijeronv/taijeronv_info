@@ -18,6 +18,11 @@ name = "What I Do"
 url = "#skills"
 weight = 20
 
+[[main]]
+name = "Accomplishments"
+url = "#accomplishments"
+weight = 30
+
 
 [[main]]
 name = "Resume"

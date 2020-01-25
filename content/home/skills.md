@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "What I can do for you"
+title = "What I can do for you..."
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,31 +18,37 @@ subtitle = ""
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ Deliver effective instruction using computer-based games and simulations.  I have created content, designed exercises, configured software, and taught in a classroom.  I bring a number of complete skills to the team. """
+description = """ Deliver effective instruction using computer-based games and simulations.  I can create content, design exercises, and manage software.  I bring a very strong set of gaming and simulation skills to any simulations team. """
 
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
-name = " Training "
-description = """Train individuals or teams, or design programs of instruction.  My experience is both in the classroom and the field. """
+name = " Training and Education"
+description = """Train individuals, teams, or design a program of instruction.  I have 20+ years of experience in the classroom and the field. I have literally taught thousands of students using Virtual Battle Space, Follow Me, and the Engagement Skills Trainer."""
 
 [[feature]]
 icon = "laptop"
 icon_pack = "fas"
 name = " Technology "
-description = """ Operate comfortably in Linux or Windows.  I can wire a network, configure hardware and software to work together, or configure programs.  I can even create a website like this one.  I have a complete inventory of tech skills."""
+description = """ Operate comfortably in Linux or Windows.  I can put together a network, configure hardware and software, or configure software.  I can even create a website like this one.  I know how to find solutions which means I am never limited by what I do not know."""
 
 [[feature]]
 icon = "laptop"
 icon_pack = "fas"
 name = " Soft Skills "
-description = """Effecive communications, work well on a team, efficient problem solver.  I represent myself in the most professional way under any circumstances."""
+description = """I can work indepdently or with a team.  Proven ability to communicate effectively, solve problems, and meet deadlines.  Professional, competent, and reliable this is how I would describe myself."""
 
 [[feature]]
 icon = "pen"
 icon_pack = "fas"
 name = " Writing and Public Speaking "
-description = """Write scenario documentation, instructors guides, software requirements, and reports.  I can also conduct briefings or demonstrations, I have no problem speaking in front of an audience."""
+description = """Write scenario documentation, instructors guides, software requirements, and reports.  I feel very comfortable in front of an audience which enalbes me to conduct briefings, orientations, or demonstrations. I am a full serivice "communicator." """
+
+[[feature]]
+icon = "pen"
+icon_pack = "fas"
+name = " Software Development "
+description = """In the future I will become a software developer.  I do not currently possess a complete development skill set but it is one of my peronal goals.  I am working on my own gaming project called NextGen Wargame."""
 
 +++
