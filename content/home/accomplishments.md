@@ -27,7 +27,7 @@ certificate_url = ""
 date_start = "2013-08-15"
 date_end = "2014-09-24"
 description = """
-I developed and taught a program of instruction for the 2nd, 3rd, and 4th-year cadets.  The the goal of the program was to famliarize them with how NATO infantry platoons operate.  I taught them battle drills, NATO symbols, and terminology.
+I developed and taught a program of instruction for the 2nd, 3rd, and 4th-year cadets.  The the goal of the program was to famliarize them with how NATO infantry platoons operate.  I taught them battle drills, NATO symbols, planning, and tactics.
 
 I also implemented the Follow Me computer game which gave them the opportunity to practice making decisions in an operational environment.  I was so successful that one of the instructors offered me some of his class time for additional instruction. """
 
@@ -40,12 +40,14 @@ certificate_url = ""
 date_start = "2004-08-15"
 date_end = "2011-06-15"
 description = """
-In 2006 I collaborated with the creator of Decisive Action to create a platoon level game called Follow Me.
+In 2006 I collaborated with the creator of Decisive Action to develop a platoon level game called Follow Me.
 
-I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for platoon level tactical
-decisions. Our 3rd and 4th year military science classes all used Follow Me to practice infantry platoon-level decision making.  I also used it to run a brigade-level exercise for the Defense Strategic Studies program.  Not only did we use the computer game but we also implemented role-playing for certain events like key leader engagements.
+I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical
+decisions. Our entire 3rd and 4th year military science cadets used Follow Me to practice infantry platoon-level tactics.  We also Follow Me to run a brigade-level exercise for the Defense Strategic Studies program.
 
-I also integrated the use Virtual Battle Space (VBS) into Cadet Basic Training.  We used it as an introduction to squad fire and movement. The intent was to provide them with an experiential learning experience before they went to the field."""
+I also integrated the game Virtual Battle Space (VBS) into Cadet Basic Training.  We used it as an introduction to squad fire and movement. The intent was to provide them with an experiential learning experience before they went to the field.
+
+Over the course of nearly seven years I literally trained thousands of cadets using Follow Me, Virtual Battle Space, and the Engagement Skills Trainer."""
 
 [[item]]
 organization = "Command and General Staff Officers Course"
@@ -62,9 +64,11 @@ The Digital Division staff group was supposed to use JCATS, but for some reason,
 
 The college turned to the sims team for support. We worked very closely with the [Functional Area 57's](https://www.csiac.org/certification/u-s-army-functional-area-57-fa57/) Army officers that specialize in simulations and modeling to design the exercise.
 
-I was reponsible for creating the scenario, unit database, maps and terrain coding, and I also ran the game during the exercise.  At my recommendation we used another game called TacOps to execute some of the brigade-level operations.  I was also reponsible for developing the TacOps content.
+I was responsible for creating the scenario, unit database, maps and terrain coding, for Decisive Action, and another game called TacOpsCav. We used TacOpsCav to execute some of the brigade-level operations. 
 
-We had the division staff group, three brigade staffs, and some students helping to "play" the game.
+The scenario we created was a non-contiguous area of operations with several factions that represented different insurgent groups.
 
-The exercise was such a success that by the time I left in 2004, Decisive Action had become the primary simulation for 16 separate division-staff exercises. """
+In total, we had one division and three brigade staffs.
+
+The exercise was a big success. By the time I left in 2004, Decisive Action had become the primary simulation for 16 separate division-staff exercises.  """
 +++

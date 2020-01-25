@@ -18,37 +18,39 @@ subtitle = ""
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ Deliver effective instruction using computer-based games and simulations.  I can create content, design exercises, and manage software.  I bring a very strong set of gaming and simulation skills to any simulations team. """
+description = """ Deliver effective instruction using computer-based games and simulations. I can create content, design exercises, and manage software. I bring a robust set of gaming and simulation skills to any simulations team. """
 
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
 name = " Training and Education"
-description = """Train individuals, teams, or design a program of instruction.  I have 20+ years of experience in the classroom and the field. I have literally taught thousands of students using Virtual Battle Space, Follow Me, and the Engagement Skills Trainer."""
+description = """Train individuals, teams, or design a program of instruction. I have 20+ years of experience in the classroom and the field. I have literally taught thousands of students using Virtual Battle Space, Follow Me, and the Engagement Skills Trainer.
+"""
 
 [[feature]]
 icon = "laptop"
 icon_pack = "fas"
 name = " Technology "
-description = """ Operate comfortably in Linux or Windows.  I can put together a network, configure hardware and software, or configure software.  I can even create a website like this one.  I know how to find solutions which means I am never limited by what I do not know."""
+description = """ Comfortably operate in Linux or Windows environments. I can resolve hardware and software conflicts or put together a network. If you like, I can even create a website like this one. I am never limited by what I do not know because I know how to find solutions.
+"""
 
 [[feature]]
-icon = "laptop"
+icon = "user-friends"
 icon_pack = "fas"
 name = " Soft Skills "
-description = """I can work indepdently or with a team.  Proven ability to communicate effectively, solve problems, and meet deadlines.  Professional, competent, and reliable this is how I would describe myself."""
+description = """I can work independently or as a team member. Proven ability to communicate effectively, solve problems, and meet deadlines. Professional, competent, and reliable, this is how I would describe myself."""
 
 [[feature]]
 icon = "pen"
 icon_pack = "fas"
 name = " Writing and Public Speaking "
-description = """Write scenario documentation, instructors guides, software requirements, and reports.  I feel very comfortable in front of an audience which enalbes me to conduct briefings, orientations, or demonstrations. I am a full serivice "communicator." """
+description = """Write scenario documentation, instructors guides, software requirements, and reports.  I feel very comfortable in front of an audience which enalbes me to conduct briefings, orientations, or demonstrations."""
 
 [[feature]]
-icon = "pen"
+icon = "dice"
 icon_pack = "fas"
-name = " Software Development "
-description = """In the future I will become a software developer.  I do not currently possess a complete development skill set but it is one of my peronal goals.  I am working on my own gaming project called NextGen Wargame."""
+name = "NextGen Wargame"
+description = """I am developing a computer wargame that can be used as a training tool to teach tactical decision-making.  It's called the [NextGen Wargame](https://www.nextgenwargame.com/)."""
 
 +++
