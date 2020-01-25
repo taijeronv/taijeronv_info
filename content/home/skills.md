@@ -18,31 +18,31 @@ subtitle = ""
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ Deliver effective instruction using computer-based games and simulations.  I have created content, designed exercises, configured software, and taught in a classroom.  I bring a number of complete skills to the team. """ 
+description = """ Deliver effective instruction using computer-based games and simulations.  I have created content, designed exercises, configured software, and taught in a classroom.  I bring a number of complete skills to the team. """
 
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
 name = " Training "
-description = """Train individuals or teams, or design programs of instruction.  My experience is both in the classroom and the field.  """
+description = """Train individuals or teams, or design programs of instruction.  My experience is both in the classroom and the field. """
 
 [[feature]]
 icon = "laptop"
 icon_pack = "fas"
 name = " Technology "
-description = """ Operate comfortably in Linux or Windows.  I can put wire a network, configure hardware and software to work together or configure programs.  I can even create a website like this one.  I have a complete inventory of tech skills."""
+description = """ Operate comfortably in Linux or Windows.  I can wire a network, configure hardware and software to work together, or configure programs.  I can even create a website like this one.  I have a complete inventory of tech skills."""
 
 [[feature]]
 icon = "laptop"
 icon_pack = "fas"
 name = " Soft Skills "
-description = """I have great interpersonal skills.  I know how to work within a team, am tactful at all times, and respectful.  Professionalism in all situations."""
+description = """Effecive communications, work well on a team, efficient problem solver.  I represent myself in the most professional way under any circumstances."""
 
 [[feature]]
 icon = "pen"
 icon_pack = "fas"
 name = " Writing and Public Speaking "
-description = """I have proven my ability to write effectively.  Creating scenario documentation, instructor guides, and writing program requirements."""
+description = """Write scenario documentation, instructors guides, software requirements, and reports.  I can also conduct briefings or demonstrations, I have no problem speaking in front of an audience."""
 
 +++
