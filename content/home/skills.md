@@ -18,20 +18,20 @@ subtitle = ""
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ I can help you deliver effective instruction using computer-based games and simulations.  I have created content, designed exercises, configured software, and taught in a classroom.  I bring a number of complete skills to the team. """ 
+description = """ Deliver effective instruction using computer-based games and simulations.  I have created content, designed exercises, configured software, and taught in a classroom.  I bring a number of complete skills to the team. """ 
 
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
 name = " Training "
-description = """I can help you to train individuals or teams, or design programs of instruction.  My experience is both in the classroom and the field.  """
+description = """Train individuals or teams, or design programs of instruction.  My experience is both in the classroom and the field.  """
 
 [[feature]]
 icon = "laptop"
 icon_pack = "fas"
 name = " Technology "
-description = """ I can operate comfortably in Linux or Windows.  I can put together a network, configure hardware and software to work together or configure programs.  I can even create a website like this one.  I have a complete inventory of tech skills."""
+description = """ Operate comfortably in Linux or Windows.  I can put wire a network, configure hardware and software to work together or configure programs.  I can even create a website like this one.  I have a complete inventory of tech skills."""
 
 [[feature]]
 icon = "laptop"
