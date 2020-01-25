@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "What I can do for you"
+title = "What I can do for you..."
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,21 +15,42 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-icon = "graduation-cap"
-icon_pack = "fas"
-name = "Professional Military Education"
-description = """I can improve the quality of your PME program by developing engaging and relevant course content.  Together we can create a curriculum that challenges your students while giving them an experiential learning experience. """ 
-
-[[feature]]
 icon = "chess"
 icon_pack = "fas"
 name = "Simulations and Gaming"
-description = """ I bring 12+ years of experience and a versatile set of simulations and gaming skills to your team.  From day one I will be a productive member of the team by integrating a game into a training program, troubleshooting a multi-million dollar simulation, or designing a program of instruction.  I have the skills to fill a variety of roles. """
+description = """ Deliver effective instruction using computer-based games and simulations. I can create content, design exercises, and manage software. I bring a robust set of gaming and simulation skills to any simulations team. """
+
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
-name = "Training"
-description = """I am a proven trainer with over 20+ years experience.  Whether it is mentoring police officers in Afghanistan or teaching cadets marksmanship at West Point, I know what it takes to develop individual and team skills. """  
+name = " Training and Education"
+description = """Train individuals, teams, or design a program of instruction. I have 20+ years of experience in the classroom and the field. I have literally taught thousands of students using Virtual Battle Space, Follow Me, and the Engagement Skills Trainer.
+"""
+
+[[feature]]
+icon = "laptop"
+icon_pack = "fas"
+name = " Technology "
+description = """ Comfortably operate in Linux or Windows environments. I can resolve hardware and software conflicts or put together a network. If you like, I can even create a website like this one. I am never limited by what I do not know because I know how to find solutions.
+"""
+
+[[feature]]
+icon = "user-friends"
+icon_pack = "fas"
+name = " Soft Skills "
+description = """I can work independently or as a team member. Proven ability to communicate effectively, solve problems, and meet deadlines. Professional, competent, and reliable, this is how I would describe myself."""
+
+[[feature]]
+icon = "pen"
+icon_pack = "fas"
+name = " Writing and Public Speaking "
+description = """Write scenario documentation, instructors guides, software requirements, and reports.  I feel very comfortable in front of an audience which enalbes me to conduct briefings, orientations, or demonstrations."""
+
+[[feature]]
+icon = "dice"
+icon_pack = "fas"
+name = "NextGen Wargame"
+description = """I am developing a computer wargame that can be used as a training tool to teach tactical decision-making.  It's called the [NextGen Wargame](https://www.nextgenwargame.com/)."""
 
 +++
