@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Simulations and Gaming Experience"
 subtitle = ""
@@ -43,9 +43,9 @@ description = """
 In 2006 I collaborated with the creator of Decisive Action to develop a platoon level game called Follow Me.
 
 I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical
-decisions. Our entire 3rd and 4th year military science cadets used Follow Me to practice infantry platoon-level tactics.  We also Follow Me to run a brigade-level exercise for the Defense Strategic Studies program.
+decisions. More than 2000 cadets in our 3rd and 4th year military science program used Follow Me to practice infantry platoon tactics.  
 
-I also integrated the game Virtual Battle Space (VBS) into Cadet Basic Training.  We used it as an introduction to squad fire and movement. The intent was to provide them with an experiential learning experience before they went to the field.
+I also integrated the game Virtual Battle Space (VBS) into Cadet Basic Training.  We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field.  Cadet's were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.
 
 Over the course of nearly seven years I literally trained thousands of cadets using Follow Me, Virtual Battle Space, and the Engagement Skills Trainer."""
 
@@ -60,9 +60,9 @@ date_end = "2004-08-15"
 description = """
 One of my most significant achievements was to assist in the development of a division-level staff exercise that used Decisive Action and TacOps.
 
-The Digital Division staff group was supposed to use JCATS, but for some reason, it was not available.
+The Digital Division staff group's JCATS exercise the college turned to the DLDC Sims-TM for support.
 
-The college turned to the sims team for support. We worked very closely with the [Functional Area 57's](https://www.csiac.org/certification/u-s-army-functional-area-57-fa57/) Army officers that specialize in simulations and modeling to design the exercise.
+Our team worked very closely with the [Functional Area 57's](https://www.csiac.org/certification/u-s-army-functional-area-57-fa57/) Army officers that specialize in simulations and modeling to design the exercise.
 
 I was responsible for creating the scenario, unit database, maps and terrain coding, for Decisive Action, and another game called TacOpsCav. We used TacOpsCav to execute some of the brigade-level operations. 
 

@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 ## What I've done:
-- Served for seven months in Eastern Ukraine monitoring government and non-government controlled areas.
+- Served for seven months in Eastern Ukraine, monitoring government and non-government controlled areas.
 - Taught for one year at the [Odessa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy).
 - Mentored a 10-man police unit while operating with coalition forces in Khowst Province Afghanistan.
 - Simulations specialist with the Digital Leader Development Center at the Command and General Staff College.
@@ -58,9 +58,9 @@ subtitle = ""
 - Soldiered for over 20 years all around the world.
 
 ## Extras:
-- I'm working on a game design that can be used as a tool for training and education it's called the [NextGen Wargame](https://www.nextgenwargame.com/).
+- I'm working on a game design that can be used as a tool for training and education. It's called the [NextGen Wargame](https://www.nextgenwargame.com/).
 - I built this website on my own using [Hugo](https://gohugo.io/), [Github](https://github.com/), and [Netlify](https://www.netlify.com/).
 - I'm currently taking Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) and Jonas Schmedtmann's [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
-- When I've finished withe the web developent courses I will start learning [Python](https://www.python.org/doc/essays/blurb/) and [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
-- I like using [Mind maps](https://www.mindmapping.com/mind-map.php) for organizaing my thoughts, brainstorming, outlining articles, you name it you can mind map it.
-- Sometimes I play Eve Online.  Think of it as ["Ender's Game"](https://en.wikipedia.org/wiki/Ender%27s_Game) or ["The Last Strfighter."](https://en.wikipedia.org/wiki/The_Last_Starfighter)
+- When I've finished with the web development courses, I will start learning [Python](https://www.python.org/doc/essays/blurb/) and [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
+- I like using [Mind maps](https://www.mindmapping.com/mind-map.php) for organizing my thoughts, brainstorming, outlining articles, you name it, you can mind map it.
+- Sometimes I play Eve Online. Think of it as ["Ender's Game"](https://en.wikipedia.org/wiki/Ender%27s_Game) or ["The Last Starfighter."](https://en.wikipedia.org/wiki/The_Last_Starfighter)
