@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Professional.  Competent.  Reliable"
+role: "Professional.  Competent.  Reliable."
 
 # Organizations/Affiliations
 organizations:
