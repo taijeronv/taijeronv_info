@@ -44,8 +44,8 @@ description = """I can work independently or as a team member. Proven ability to
 [[feature]]
 icon = "pen"
 icon_pack = "fas"
-name = " Writing and Public Speaking "
-description = """Write scenario documentation, instructors guides, software requirements, and reports.  Feel free to review my [proposal for the NextGen Wargame](https://www.nextgenwargame.com/documents/proposal/) for a sample of my writing."""
+name = " Writing"
+description = """Write scenario documentation, instructors guides, software requirements, and reports.  Feel free to review my [proposal for the NextGen Wargame](https://www.nextgenwargame.com/documents/proposal/) or ["Bold Strike Facilitator's Guide"](https://www.nextgenwargame.com/documents/guide/) for examples of my work."""
 
 [[feature]]
 icon = "dice"

@@ -27,9 +27,9 @@ certificate_url = ""
 date_start = "2013-08-15"
 date_end = "2014-09-24"
 description = """
-I developed and taught a program of instruction for the 2nd, 3rd, and 4th-year cadets.  The the goal of the program was to famliarize them with how NATO infantry platoons operate.  I taught them battle drills, NATO symbols, planning, and tactics.
+I developed and taught a program of instruction for the 2nd, 3rd, and 4th-year cadets.  The goal of the program was to famliarize them with how NATO infantry platoons operate.  I taught them battle drills, NATO symbols, planning, and tactics.
 
-I also implemented the Follow Me computer game which gave them the opportunity to practice making decisions in an operational environment.  I was so successful that one of the instructors offered me some of his class time for additional instruction. """
+I also implemented the Follow Me computer game, which allowed them to practice making decisions in an operational environment. Needless to say, this was a big hit with the cadets. For the first time, they had an opportunity to "lead" a platoon while dealing with an active enemy. """
 
 [[item]]
 organization = "West Point"
@@ -42,12 +42,11 @@ date_end = "2011-06-15"
 description = """
 In 2006 I collaborated with the creator of Decisive Action to develop a platoon level game called Follow Me.
 
-I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical
-decisions. More than 2000 cadets in our 3rd and 4th year military science program used Follow Me to practice infantry platoon tactics.  
+I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical decisions. More than 2000 cadets in our 3rd and 4th-year military science program used Follow Me to practice infantry platoon tactics. 
 
-I also integrated the game Virtual Battle Space (VBS) into Cadet Basic Training.  We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field.  Cadet's were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.
+I also integrated the game Virtual Battle Space (VBS) into Cadet Basic Training. We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field. Cadets were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.
 
-Over the course of nearly seven years I literally trained thousands of cadets using Follow Me, Virtual Battle Space, and the Engagement Skills Trainer."""
+In my time at West Point, I literally trained thousands of cadets using Follow Me, Virtual Battle Space, and the Engagement Skills Trainer."""
 
 [[item]]
 organization = "Command and General Staff Officers Course"
@@ -68,7 +67,7 @@ I was responsible for creating the scenario, unit database, maps and terrain cod
 
 The scenario we created was a non-contiguous area of operations with several factions that represented different insurgent groups.
 
-In total, we had one division and three brigade staffs.
+In total, we had one division and three brigade staff groups.
 
 The exercise was a big success. By the time I left in 2004, Decisive Action had become the primary simulation for 16 separate division-staff exercises.  """
 +++
