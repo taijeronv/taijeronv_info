@@ -39,7 +39,7 @@ description = """ Comfortably operate in Linux or Windows environments. I can re
 icon = "user-friends"
 icon_pack = "fas"
 name = " Virtual Battle Space "
-description = """I can work independently or as a team member. Proven ability to communicate effectively, solve problems, and meet deadlines. Professional, competent, and reliable, this is how I would describe myself."""
+description = """Create scenarios, write scripts in Lua, setup a multiplayer game, and facilitate training.  I have literally trained thousands of cadets how to play VBS.  I can contribute additional VBS skills and experience to your sims team."""
 
 [[feature]]
 icon = "pen"
