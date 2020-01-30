@@ -37,5 +37,5 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 +++  
-[HTML](cv/) or [PDF](files/2020_01_TAIJERONV.pdf) (Last updated: January 2020)
+[HTML](cv/) or [PDF](files/2020.01.30_TAIJERONV.pdf) (Last updated: January 2020)
 
