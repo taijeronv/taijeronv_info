@@ -40,13 +40,12 @@ certificate_url = ""
 date_start = "2004-08-15"
 date_end = "2011-06-15"
 description = """
-In 2006 I collaborated with the creator of Decisive Action to develop a platoon level game called Follow Me.
 
-I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical decisions. More than 2000 cadets in our 3rd and 4th-year military science program used Follow Me to practice infantry platoon tactics. 
+I integrated the game Virtual Battle Space (VBS) into Cadet Basic Training. We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field. Cadets were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.   I also crearted VBS content scenarios, scripts, and set up multi-player games for cadets to practice giving verbal orders and commands.
 
-I also integrated the game Virtual Battle Space (VBS) into Cadet Basic Training. We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field. Cadets were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.
+In 2006 I collaborated with the creator of Decisive Action to develop a platoon level game called Follow Me.  I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical decisions. More than 2000 cadets in our 3rd and 4th-year military science program used Follow Me to practice infantry platoon tactics. 
 
-In my time at West Point, I literally trained thousands of cadets using Follow Me, Virtual Battle Space, and the Engagement Skills Trainer."""
+In my time at West Point, I literally trained thousands of cadets using Virtual Battle Space, Follow Me and the Engagement Skills Trainer."""
 
 [[item]]
 organization = "Command and General Staff Officers Course"

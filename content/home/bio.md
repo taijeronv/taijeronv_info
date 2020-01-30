@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 ## What I've done:
-- Served for seven months in Eastern Ukraine, monitoring government and non-government controlled areas.
+- Served for seven months in Eastern Ukraine with the OSCE-SMMU, monitoring government and non-government controlled areas.
 - Taught for one year at the [Odessa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy).
 - Mentored a 10-man police unit while operating with coalition forces in Khowst Province Afghanistan.
 - Simulations specialist with the Digital Leader Development Center at the Command and General Staff College.
