@@ -20,12 +20,17 @@ icon_pack = "fas"
 name = "Simulations and Gaming"
 description = """ Deliver effective instruction using computer-based games and simulations. I can create content, design exercises, and manage software. I bring a robust set of gaming and simulation skills to any simulations team. """
 
+[[feature]]
+icon = "user-friends"
+icon_pack = "fas"
+name = " Virtual Battle Space "
+description = """Create and configure scenarios, facilitate training, and set up multi-player exercises. I have over five years of experience using VBS in a training environment, having trained thousands of West Point cadets using VBS. """
 
 [[feature]]
 icon = "running"
 icon_pack = "fas"
 name = " Training and Education"
-description = """Train individuals, teams, or design a program of instruction. I have 20+ years of experience in the classroom and the field. I have literally taught thousands of students using Virtual Battle Space, Follow Me, and the Engagement Skills Trainer.
+description = """Contribute 20+ years of experience training individuals or teams.  I can design a program of instruction, provide instruction, and integrate training into an existing curriculum,
 """
 
 [[feature]]
@@ -34,12 +39,6 @@ icon_pack = "fas"
 name = " Technology "
 description = """ Comfortably operate in Linux or Windows environments. I can resolve hardware and software conflicts or put together a network. If you like, I can even create a website like this one. I am never limited by what I do not know because I know how to find solutions.
 """
-
-[[feature]]
-icon = "user-friends"
-icon_pack = "fas"
-name = " Virtual Battle Space "
-description = """Create scenarios, write scripts in Lua, setup a multiplayer game, and facilitate training.  I have literally trained thousands of cadets how to play VBS.  I can contribute additional VBS skills and experience to your sims team."""
 
 [[feature]]
 icon = "pen"
