@@ -60,7 +60,7 @@ One of my most significant achievements was to assist in the development of a di
 
 The Digital Division staff group's JCATS exercise the college turned to the DLDC Sims-TM for support.
 
-Our team worked very closely with the [Functional Area 57's](https://www.csiac.org/certification/u-s-army-functional-area-57-fa57/) Army officers that specialize in simulations and modeling to design the exercise.
+Our team worked very closely with the Functional Area 57's Army officers that specialize in simulations and modeling to design the exercise.
 
 I was responsible for creating the scenario, unit database, maps and terrain coding, for Decisive Action, and another game called TacOpsCav. We used TacOpsCav to execute some of the brigade-level operations. 
 

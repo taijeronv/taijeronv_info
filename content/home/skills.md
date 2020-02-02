@@ -44,12 +44,13 @@ description = """ Comfortably operate in Linux or Windows environments. I can re
 icon = "pen"
 icon_pack = "fas"
 name = " Writing"
-description = """Write scenario documentation, instructors guides, software requirements, and reports.  Feel free to review my [proposal for the NextGen Wargame](https://www.nextgenwargame.com/documents/proposal/) or ["Bold Strike Facilitator's Guide"](https://www.nextgenwargame.com/documents/guide/) for examples of my work."""
+description = """Write scenario documentation, instructors guides, software requirements, and reports.  Feel free to review my <a href="https://www.nextgenwargame.com/documents/guide/" target="_blank">proposal for the NextGen Wargame</a> or <a href="https://www.nextgenwargame.com/documents/guide/" target="_blank">Bold Strike Facilitator's Guide"</a> for examples of my work."""
 
 [[feature]]
 icon = "dice"
 icon_pack = "fas"
 name = "NextGen Wargame"
-description = """I am developing a computer wargame that can be used as a training tool to teach tactical decision-making.  It's called the [NextGen Wargame](https://www.nextgenwargame.com/)."""
+description = """I am developing a computer wargame that can be used as a training tool to teach tactical decision-making.  It's called the 
+<a href="https://www.nextgenwargame.com/" target="_blank">NextGen Wargame</a>. """
 
 +++
