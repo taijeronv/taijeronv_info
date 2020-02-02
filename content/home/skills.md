@@ -23,7 +23,7 @@ description = """ Deliver effective instruction using computer-based games and s
 [[feature]]
 icon = "user-friends"
 icon_pack = "fas"
-name = " Virtual Battle Space "
+name = " Virtual Battlespace "
 description = """Create and configure scenarios, facilitate training, and set up multi-player exercises. I have over five years of experience using VBS in a training environment, having trained thousands of West Point cadets using VBS. """
 
 [[feature]]
