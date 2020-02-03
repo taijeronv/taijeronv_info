@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "What I can do for you..."
+title = "Things you should kow"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,41 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-icon = "chess"
-icon_pack = "fas"
-name = "Simulations and Gaming"
-description = """ Deliver effective instruction using computer-based games and simulations. I can create content, design exercises, and manage software. I bring a robust set of gaming and simulation skills to any simulations team. """
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Professional Military Education"
+  description = """Drawing pretty graphics on a map or reading ["On War"](https://thestrategybridge.org/the-bridge/2017/11/12/the-trinity-and-the-law-of-war) by Clausewitz does not make you a master strategist or tactician.  Quality practice plus expert instruction is how we begin to raise competent tactical decision-makers.  If you're interested in improving the quality of your PME program, I can help you develop exciting and useful content.""" 
 
 [[feature]]
-icon = "user-friends"
-icon_pack = "fas"
-name = " Virtual Battle Space "
-description = """Create and configure scenarios, facilitate training, and set up multi-player exercises. I have over five years of experience using VBS in a training environment, having trained thousands of West Point cadets using VBS. """
+  icon = "chess"
+  icon_pack = "fas"
+  name = "Simulations and Gaming"
+  description = """Most organizations understand the benefits of using games but struggle to define their requirements.  I was fortunate to gain insights into the use of games from observing thousands of cadets playing "Follow Me" and "Virtual Battlespace."  With my experience, I can guide any organization in implementing and integrating games into their program of instruction."""  
+
+  [[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Military Operations"
+  description = """ Whether it's training the Afghan Police, patrolling in Khowst province, or serving on a Brigade Staff, I can operate in all types of high-stress dynamic environments.  If you are looking for a rock-solid performer who is competent and reliable, then look no further."""  
+  
+ [[feature]]
+  icon = "user-tie"
+  icon_pack = "fas"
+  name = "Profssionalism"
+  description = """ I believe professionalism is demonstrated through your actions and behavior. It's not enough to say, "I'm professional" you have to prove it every day. Always be professional no matter the circumstances or situation you find yourself."""
+
+ [[feature]]
+  icon = "skull-crossbones"
+  icon_pack = "fas"
+  name = "Competence"
+  description = """ Competence isn't just about being effective, it also means applying a high standard to everything you do.  Let the quality of your work speak for itself.  People who are competent and reliable cannot be ignored, they stand above all others.  Give me the opportunity to stand-out."""
 
 [[feature]]
-icon = "running"
-icon_pack = "fas"
-name = " Training and Education"
-description = """Contribute 20+ years of experience training individuals or teams.  I can design a program of instruction, provide instruction, and integrate training into an existing curriculum,
-"""
-
-[[feature]]
-icon = "laptop"
-icon_pack = "fas"
-name = " Technology "
-description = """ Comfortably operate in Linux or Windows environments. I can resolve hardware and software conflicts or put together a network. If you like, I can even create a website like this one. I am never limited by what I do not know because I know how to find solutions.
-"""
-
-[[feature]]
-icon = "pen"
-icon_pack = "fas"
-name = " Writing"
-description = """Write scenario documentation, instructors guides, software requirements, and reports.  Feel free to review my [proposal for the NextGen Wargame](https://www.nextgenwargame.com/documents/proposal/) or ["Bold Strike Facilitator's Guide"](https://www.nextgenwargame.com/documents/guide/) for examples of my work."""
-
-[[feature]]
-icon = "dice"
-icon_pack = "fas"
-name = "NextGen Wargame"
-description = """I am developing a computer wargame that can be used as a training tool to teach tactical decision-making.  It's called the [NextGen Wargame](https://www.nextgenwargame.com/)."""
-
+  icon = "check-square"
+  icon_pack = "fas"
+  name = "Reliability"
+  description = """ People count on you to do your job, so do it.  Do not make excuses, find ways to overcome obstacles, and stay focused.  Reliable people that are also competent are a rare breed.  I can show you what it means to be both."""
 +++

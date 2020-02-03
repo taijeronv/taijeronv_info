@@ -41,11 +41,11 @@ date_start = "2004-08-15"
 date_end = "2011-06-15"
 description = """
 
-I integrated the game Virtual Battle Space (VBS) into Cadet Basic Training. We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field. Cadets were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.   I also crearted VBS content scenarios, scripts, and set up multi-player games for cadets to practice giving verbal orders and commands.
+I integrated the game Virtual Battlespace (VBS) into Cadet Basic Training. We used it as an introduction to squad fire and movement techniques. The intent was to provide them with an experiential learning experience before they went to the field. Cadets were taught the role of each squad member and got the opportunity to practice moving, shooting, and communicating in a 3d virtual environment.   I also crearted VBS content scenarios, scripts, and set up multi-player games for cadets to practice giving verbal orders and commands.
 
 In 2006 I collaborated with the creator of Decisive Action to develop a platoon level game called Follow Me.  I integrated Follow Me into the DMI tactics curriculum, and we used it to provide a realistic operational environment for making platoon level tactical decisions. More than 2000 cadets in our 3rd and 4th-year military science program used Follow Me to practice infantry platoon tactics. 
 
-In my time at West Point, I literally trained thousands of cadets using Virtual Battle Space, Follow Me and the Engagement Skills Trainer."""
+In my time at West Point, I literally trained thousands of cadets using Virtual Battlespace, Follow Me and the Engagement Skills Trainer."""
 
 [[item]]
 organization = "Command and General Staff Officers Course"
@@ -60,7 +60,7 @@ One of my most significant achievements was to assist in the development of a di
 
 The Digital Division staff group's JCATS exercise the college turned to the DLDC Sims-TM for support.
 
-Our team worked very closely with the [Functional Area 57's](https://www.csiac.org/certification/u-s-army-functional-area-57-fa57/) Army officers that specialize in simulations and modeling to design the exercise.
+Our team worked very closely with the Functional Area 57's Army officers that specialize in simulations and modeling to design the exercise.
 
 I was responsible for creating the scenario, unit database, maps and terrain coding, for Decisive Action, and another game called TacOpsCav. We used TacOpsCav to execute some of the brigade-level operations. 
 

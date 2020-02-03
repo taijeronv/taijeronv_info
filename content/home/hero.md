@@ -8,7 +8,7 @@ weight = 40 # Order that this section will appear.
 title = "My Resume"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+#hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,5 +37,5 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 +++  
-[HTML](cv/) or [PDF](files/2020.01.30_TAIJERONV.pdf) (Last updated: January 2020)
+ <a href="/cv" target="_blank ">HTML</a> or <a href="/cv/TAIJERONV.pdf" target="_blank ">PDF</a> (Last updated: February 2020)
 

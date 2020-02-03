@@ -14,5 +14,4 @@ subtitle = ""
 weight = 35
 
 +++
-
-My CV is available in [HTML](cv/) or [PDF](files/TAIJERON_2019_12_Simulations_Trainer.pdf) (Last updated: December 2019)
+<a href="/cv" target="_blank ">HTML</a> or <a href="/cv/TAIJERONV.pdf" target="_blank ">PDF</a> (Last updated: February 2020)

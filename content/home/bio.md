@@ -51,16 +51,16 @@ subtitle = ""
 +++
 ## What I've done:
 - Served for seven months in Eastern Ukraine with the OSCE-SMMU, monitoring government and non-government controlled areas.
-- Taught for one year at the [Odessa Military Academy](https://en.wikipedia.org/wiki/Odessa_Military_Academy).
+- Taught for one year at the <a href="https://en.wikipedia.org/wiki/Odessa_Military_Academy" target="_blank">Odessa Military Academy</a>.
 - Mentored a 10-man police unit while operating with coalition forces in Khowst Province Afghanistan.
 - Simulations specialist with the Digital Leader Development Center at the Command and General Staff College.
-- Managed the [West Point Simulations Center](https://www.westpoint.edu/military/department-of-military-instruction/simulation-center) for over six years as a member of the [Dept. of Military Instruction](https://www.westpoint.edu/military/department-of-military-instruction).
+- Managed the <a href="https://www.westpoint.edu/military/department-of-military-instruction/simulation-center" target="_blank">West Point Simulations Center</a> for over six years as a member of the <a href="https://www.westpoint.edu/military/department-of-military-instruction" target="_blank">Dept. of Military Instruction</a>.
 - Soldiered for over 20 years all around the world.
 
 ## Extras:
-- I'm working on a game design that can be used as a tool for training and education. It's called the [NextGen Wargame](https://www.nextgenwargame.com/).
-- I built this website on my own using [Hugo](https://gohugo.io/), [Github](https://github.com/), and [Netlify](https://www.netlify.com/).
-- I'm currently taking Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) and Jonas Schmedtmann's [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
-- When I've finished with the web development courses, I will start learning [Python](https://www.python.org/doc/essays/blurb/) and [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
-- I like using [Mind maps](https://www.mindmapping.com/mind-map.php) for organizing my thoughts, brainstorming, outlining articles, you name it, you can mind map it.
-- Sometimes I play Eve Online. Think of it as ["Ender's Game"](https://en.wikipedia.org/wiki/Ender%27s_Game) or ["The Last Starfighter."](https://en.wikipedia.org/wiki/The_Last_Starfighter)
+- I'm working on a game design that can be used as a tool for training and education. It's called the <a href="https://www.nextgenwargame.com/" target="_blank">NextGen Wargame</a>.
+- I built this website on my own using <a href="https://gohugo.io/" target="_blank">Hugo</a>, Github, and <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+- I'm currently taking Colt Steele's <a href="https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank">The Web Developer Bootcamp</a> and Jonas Schmedtmann's <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank">Build Responsive Real World Websites with HTML5 and CSS3</a>.
+- When I've finished with the web development courses, I will continue with Python and Javascript.
+- I like using <a href="https://www.mindmapping.com/mind-map.php" target="_blank">Mind maps</a> for organizing my thoughts, brainstorming, outlining articles, you name it, you can mind map it.
+- Sometimes I play <a href="https://www.eveonline.com/" target="_blank">Eve Online</a>. Think of it as "Ender's Game" or <a href="https://en.wikipedia.org/wiki/The_Last_Starfighter" target="_blank">"The Last Starfighter."</a>

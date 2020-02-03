@@ -53,10 +53,10 @@ Hello and welcome to my personal website.  If you have any questions please feel
 
 ### Things you should know:
 - My name is Vincent but for over 38 years I've been called "TJ."
-- I'm originally from the beautiful [Island of Guam.](https://en.wikipedia.org/wiki/Guam)
-- I joined the US Army when I was 17 years-old and spent my career as a [RedLeg](http://www.abtryassoc.org/misc_pages/redlegs.html) in the Field Artillery.
+- I'm originally from the beautiful <a href="https://en.wikipedia.org/wiki/Guam" target="_blank">Island of Guam</a>.
+- I joined the US Army when I was 17 years-old and spent my career as a RedLeg in the Field Artillery.
 - In 2013 I came to Ukraine to teach at the Odessa Military Academy and I've been working and living here ever since.
 - In 2014 I joined the Organization for Security and Cooperation in Europe to monitor the the situation in Eastern Ukraine.
 
 ### What I've been doing:
-I am currently serving as the Team Operations Officer for the Odessa Monitoring Team, which is part of the [OSCE Special Monitoring Mission to Ukraine](https://www.osce.org/special-monitoring-mission-to-ukraine). The [Organization for Security and Cooperation in Europe (OSCE)](https://www.osce.org/whatistheosce/factsheet) consists of 57 member states in North America, Europe, and Asia. It is the world's largest regional security organization.
+I am currently serving as the Team Operations Officer for the Odessa Monitoring Team, which is part of the <a href="https://www.osce.org/special-monitoring-mission-to-ukraine" target="_blank">OSCE Special Monitoring Mission to Ukraine</a>. The <a href="https://www.osce.org/whatistheosce/factsheet" target="_blank">Organization for Security and Cooperation in Europe (OSCE)</a> consists of 57 member states in North America, Europe, and Asia. It is the world's largest regional security organization.
