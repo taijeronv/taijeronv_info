@@ -54,7 +54,7 @@ Hello and welcome to my personal website.  If you have any questions please feel
 ### Things you should know:
 - My name is Vincent but for over 38 years I've been called "TJ."
 - I'm originally from the beautiful <a href="https://en.wikipedia.org/wiki/Guam" target="_blank">Island of Guam</a>.
-- I joined the US Army when I was 17 years-old and spent my career as a <a href="http://www.abtryassoc.org/misc_pages/redlegs.html" target="_blank">RedLeg</a> in the Field Artillery.
+- I joined the US Army when I was 17 years-old and spent my career as a RedLeg in the Field Artillery.
 - In 2013 I came to Ukraine to teach at the Odessa Military Academy and I've been working and living here ever since.
 - In 2014 I joined the Organization for Security and Cooperation in Europe to monitor the the situation in Eastern Ukraine.
 

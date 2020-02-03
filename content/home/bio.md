@@ -59,8 +59,8 @@ subtitle = ""
 
 ## Extras:
 - I'm working on a game design that can be used as a tool for training and education. It's called the <a href="https://www.nextgenwargame.com/" target="_blank">NextGen Wargame</a>.
-- I built this website on my own using <a href="https://gohugo.io/" target="_blank">Hugo</a>, <a href="https://github.com/" target="_blank">Github</a>, and <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+- I built this website on my own using <a href="https://gohugo.io/" target="_blank">Hugo</a>, Github, and <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 - I'm currently taking Colt Steele's <a href="https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank">The Web Developer Bootcamp</a> and Jonas Schmedtmann's <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank">Build Responsive Real World Websites with HTML5 and CSS3</a>.
-- When I've finished with the web development courses, I will start learning <a href="https://www.python.org/doc/essays/blurb/" target="_blank">Python</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank">Javascript</a>.
+- When I've finished with the web development courses, I will continue with Python and Javascript.
 - I like using <a href="https://www.mindmapping.com/mind-map.php" target="_blank">Mind maps</a> for organizing my thoughts, brainstorming, outlining articles, you name it, you can mind map it.
-- Sometimes I play Eve Online. Think of it as <a href="https://en.wikipedia.org/wiki/Ender%27s_Game" target="_blank">"Ender's Game"</a> or <a href="https://en.wikipedia.org/wiki/The_Last_Starfighter" target="_blank">"The Last Starfighter."</a>
+- Sometimes I play <a href="https://www.eveonline.com/" target="_blank">Eve Online</a>. Think of it as "Ender's Game" or <a href="https://en.wikipedia.org/wiki/The_Last_Starfighter" target="_blank">"The Last Starfighter."</a>
