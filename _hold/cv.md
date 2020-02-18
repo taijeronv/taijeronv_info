@@ -14,4 +14,4 @@ subtitle = ""
 weight = 35
 
 +++
-<a href="/cv" target="_blank ">HTML</a> or <a href="/cv/TAIJERONV.pdf" target="_blank ">PDF</a> (Last updated: February 2020)
+<a href="/cv/taijeronv.pdf" target="_blank ">PDF</a> (Last updated: February 2020)

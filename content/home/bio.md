@@ -62,5 +62,7 @@ subtitle = ""
 - I built this website on my own using [Hugo](https://gohugo.io/), Github, and [Netlify](https://www.netlify.com/).
 - I'm currently enrolled in two web develpment courses.
 - When I've finished the web courses I will add Javascript and Python to my learning qeue.
+- I run Opensuse and Fedora using VirtualBox.
+- I like Visual Studio Code for development and Emacs for its Org Mode.
 - I like using [Mind maps](https://www.mindmapping.com/mind-map.php) for organizing my thoughts, brainstorming, outlining articles, you name it, you can mind map it.
 - Sometimes I play [Eve Online](https://www.eveonline.com/). Think of it as "Ender's Game" or ["The Last Starfighter"](https://en.wikipedia.org/wiki/The_Last_Starfighter).
