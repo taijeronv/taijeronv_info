@@ -1,9 +1,9 @@
 ---
 title: "CADE — Combined Arms Decision Exercise"
-description: "A consequence-based decision exercise designed for Ukrainian staff officer training under real operational constraints."
+description: "A consequence-based staff decision exercise built from scratch for Ukrainian officer training — designed, pipelined, and validated in under 8 weeks."
 order: 1
 bullets:
-  - "Built the full AI pipeline: scenario → OPORD with annexes → runbook → controller package"
-  - "Used Claude, Gemini, and NotebookLM as drafting and synthesis engines with human validation at each stage"
-  - "Validated 29–30 January 2026; exercise earned institutional approval for repeat execution"
+  - "Designed the exercise concept and built the full AI pipeline: scenario → OPORD with annexes → runbook → controller package"
+  - "Validated on first attempt (29–30 January 2026) with a mixed-language, mixed-experience audience — earned institutional approval for repeat execution"
+  - "Demonstrated that a single AI-Integrator with the right toolchain can deliver what previously required a full planning team"
 ---

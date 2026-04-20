@@ -1,9 +1,9 @@
 ---
 title: "Orders Production"
-description: "Streamlit GUI backed by the Claude API for drafting military planning documents."
+description: "A Streamlit GUI backed by the Claude API for drafting military planning documents grounded in US Army and NATO doctrine."
 order: 3
 bullets:
-  - "Three-tool suite: OPORD Writer, Narrative Writer, and Decision Support Matrix generator"
-  - "Includes linting and validation scripts to enforce doctrinal formatting standards"
-  - "Built against US Army doctrine (FM 5-0, FM 6-0) and NATO standards (AJP-5, NATO-COPD)"
+  - "Replaced manual OPORD drafting with an AI-assisted pipeline — OPORD Writer, Narrative Writer, and Decision Support Matrix in one tool"
+  - "Built against US Army doctrine (FM 5-0, FM 6-0) and NATO standards (AJP-5, NATO-COPD) with linting scripts to enforce formatting"
+  - "Puts professional-grade planning document production within reach of teams without a dedicated plans officer"
 ---
