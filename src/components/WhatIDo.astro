@@ -1,0 +1,32 @@
+---
+const pillars = [
+  {
+    title: "Technical Literacy",
+    body: "I know when AI output is plausible but wrong. I constrain, validate, and govern outputs at each stage so speed doesn't displace judgment. AI accelerates the work — I determine what's usable.",
+  },
+  {
+    title: "Systems Thinking",
+    body: "I see AI-assisted workflows as pipelines, not isolated tasks. Each product depends on the one before it. I design the chain, hold it together through iteration, and make sure nothing downstream breaks when something upstream changes.",
+  },
+  {
+    title: "Domain & Delivery",
+    body: "AI cannot assess what an organization truly needs or manage the risk of a first attempt. I can. Operational literacy, requirements translation, and the ability to maintain institutional confidence under a one-shot timeline — that's the work AI can't do.",
+  },
+];
+---
+<section id="what-i-do" class="py-24 px-6 bg-gray-900 text-white">
+  <div class="max-w-5xl mx-auto">
+    <h2 class="text-3xl font-bold mb-4">What I Do</h2>
+    <p class="text-gray-400 text-lg mb-12 max-w-2xl">
+      The AI-Integrator role sits at the intersection of three capabilities that are each necessary and none individually sufficient.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {pillars.map((pillar) => (
+        <div class="bg-gray-800 border border-gray-700 rounded-xl p-6">
+          <h3 class="text-lg font-semibold text-blue-400 mb-3">{pillar.title}</h3>
+          <p class="text-gray-300 text-sm leading-relaxed">{pillar.body}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,6 +1,7 @@
 ---
 import Hero from '../components/Hero.astro';
 import About from '../components/About.astro';
+import WhatIDo from '../components/WhatIDo.astro';
 import Skills from '../components/Skills.astro';
 import Projects from '../components/Projects.astro';
 import Contact from '../components/Contact.astro';
@@ -21,11 +22,13 @@ import '../styles/global.css';
       content="I build AI systems that make military planning faster, clearer, and executable under pressure."
     />
     <meta property="og:type" content="website" />
+    <meta property="og:image" content="/avatar.jpg" />
     <title>Vincent "TJ" Taijeron — AI-Integrator</title>
   </head>
   <body class="bg-gray-950 antialiased">
     <Hero />
     <About />
+    <WhatIDo />
     <Skills />
     <Projects />
     <Contact />
