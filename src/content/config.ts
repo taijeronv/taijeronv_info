@@ -10,4 +10,14 @@ const projects = defineCollection({
   }),
 });
 
-export const collections = { projects };
+const research = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    order: z.number(),
+    status: z.string(),
+  }),
+});
+
+export const collections = { projects, research };
