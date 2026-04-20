@@ -3,6 +3,7 @@ import Hero from '../components/Hero.astro';
 import About from '../components/About.astro';
 import Skills from '../components/Skills.astro';
 import Projects from '../components/Projects.astro';
+import Contact from '../components/Contact.astro';
 import '../styles/global.css';
 ---
 <!DOCTYPE html>
@@ -10,12 +11,23 @@ import '../styles/global.css';
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TJ Taijeron</title>
+    <meta
+      name="description"
+      content="Vincent 'TJ' Taijeron — AI-Integrator building AI systems for military planning. Available for remote roles beginning Fall 2026."
+    />
+    <meta property="og:title" content='Vincent "TJ" Taijeron — AI-Integrator' />
+    <meta
+      property="og:description"
+      content="I build AI systems that make military planning faster, clearer, and executable under pressure."
+    />
+    <meta property="og:type" content="website" />
+    <title>Vincent "TJ" Taijeron — AI-Integrator</title>
   </head>
-  <body class="bg-gray-950">
+  <body class="bg-gray-950 antialiased">
     <Hero />
     <About />
     <Skills />
     <Projects />
+    <Contact />
   </body>
 </html>
